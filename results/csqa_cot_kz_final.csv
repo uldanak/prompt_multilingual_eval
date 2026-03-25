@@ -1,0 +1,4501 @@
+id,question,options,answer_key,question_kz,options_kz,pred_native_kz,pred_en_kz,pred_cot_kz
+c0d75f9fbf30aa3a612f16edb20d6b8d,"The man took paperwork to other people to consult over it, where was he heading?","A) desk
+B) meeting
+C) office
+D) table
+E) work",B,"Ер адам құжаттарды басқа адамдармен кеңесу үшін алып кетті, ол қайда бара жатыр?","A) үстел
+B) жиналыс
+C) кеңсе
+D) үстел
+E) жұмыс",B,B,B
+c21ec5b367f409a0288d616f626555ae,"If a person is working a lot, what are they likely trying to earn?","A) much money
+B) own house
+C) creativity
+D) new car
+E) caregiver",A,"Егер адам көп жұмыс істесе, олар нені табуға тырысады?","A) көп ақша
+B) өз үйі
+C) шығармашылық
+D) жаңа көлік
+E) қамқоршы",A,A,A
+e6586bba9fe96d38792e6e6d4f2703dc,Where can you put a picture frame when it's not hung vertically?,"A) art show
+B) wall
+C) newspaper
+D) car
+E) table",E,Сурет жақтауын тік ілінбеген кезде қайда қоюға болады?,"A) өнер көрмесі
+B) қабырға
+C) газет
+D) көлік
+E) үстел",E,E,E
+1e5a138b4c7d456c37abf4990b402bbe,"He had no issue committing perjury, he had a what that he would get away with it?","A) confidence
+B) go to jail
+C) telling lies
+D) lying
+E) manual",A,"Ол жалған куәлік беруге ешқандай қарсылық көрсетпеді, ол одан құтылып кететініне қандай сенімі болды?","A) сенімділік
+B) түрмеге бару
+C) өтірік айту
+D) өтірік айту
+E) нұсқаулық",A,A,A
+2634468d21fa33a88cefe28a5d613f59,"The boat passenger was explaining his fear of blowfish, but the captain figured he meant piranhas since they were on a river in the what?","A) cuba
+B) styx
+C) atlantic ocean
+D) france
+E) jungle",E,"Қайық жолаушысы үрлемелі балықтан қорқатынын түсіндіріп жатты, бірақ капитан оның пиранияларды меңзегенін түсінді, өйткені олар қай өзенде болды?","A) куба
+B) стиг
+C) атлант мұхиты
+D) франция
+E) джунгли",E,E,E
+ceafca2445b1b974d085a8cce38e8e44,What city will likely have many parking structures?,"A) chicago
+B) big city
+C) large city building
+D) environment
+E) college campus",A,Қай қалада автотұрақ құрылымдары көп болуы мүмкін?,"A) чикаго
+B) үлкен қала
+C) үлкен қала ғимараты
+D) қоршаған орта
+E) колледж кампусы",B,B,B
+66bfb6e209c94e6be5b0d04b0c7e2064,Where could you find only a few office?,"A) skyscraper
+B) new york
+C) school building
+D) city
+E) work",C,Сіз бірнеше кеңсені қайдан таба аласыз?,"A) зәулім ғимарат
+B) Нью-Йорк
+C) мектеп ғимараты
+D) қала
+E) жұмыс",A,A,A
+5ef6cdb85468df482e3aa6fa339d6e41,Where can you find a restaurant's phone number?,"A) yellow pages
+B) town
+C) business sector
+D) town
+E) at hotel",A,Мейрамхананың телефон нөмірін қайдан табуға болады?,"A) сары беттер
+B) қала
+C) бизнес секторы
+D) қала
+E) қонақ үйде",A,A,A
+eee8cb7a0d806a62d2de24831f82e3e1,"The inspector was agreeing with the factory protocols, what was the status of the factory?","A) compliance
+B) eligible
+C) contract
+D) harmony
+E) friendship",A,"Инспектор зауыттың хаттамаларымен келісіп отырды, зауыттың жағдайы қандай болды?","A) сәйкестік
+B) жарамды
+C) келісімшарт
+D) үйлесім
+E) достық",A,A,A
+54231f875bb7fe4d3e4afb6eae64387c,What part of plants is pretty?,"A) dirt
+B) no neurons in
+C) millions of cells
+D) flowers on
+E) roots",D,Өсімдіктердің қай бөлігі әдемі?,"A) топырақ
+B) нейрондар жоқ
+C) миллиондаған жасушалар
+D) гүлдер
+E) тамырлар",D,D,D
+eee9476bf29498b7d74b043afe316fc6,Where do apples form on an apple tree?,"A) south africa
+B) sunshine
+C) new york
+D) bloom
+E) trunk",D,Алма ағашында алмалар қай жерде пайда болады?,"A) оңтүстік африка
+B) күн сәулесі
+C) нью-йорк
+D) гүлдеу
+E) діңгек",D,D,D
+67ffcb4c3f2c6a1155e356f8a15ed250,"They were making sauerkraut, the instructor explained the liquid should be above the cabbage in the what?","A) jar
+B) drinking glass
+C) pot
+D) container
+E) can",A,"Олар қырыққабат тұздаған кезде, нұсқаушы сұйықтық қырыққабаттың үстінде болуы керек екенін түсіндірді, қайда?","A) банка
+B) стақан
+C) қазан
+D) контейнер
+E) консерві банкасы",D,D,A
+5cac4da628f0a58db980649079bd5784,John farms anemone in what type of facility?,"A) michigan
+B) swimming pool
+C) atlantic ocean
+D) nursery
+E) gulf of mexico",D,Джон анемонды қандай нысанда өсіреді?,"A) мичиган
+B) жүзу бассейні
+C) атлант мұхиты
+D) питомник
+E) мексика шығанағы",D,D,D
+7776b10c7bb96f3fe5e026678673634d,What do people want to acquire from opening business?,"A) home
+B) wealth
+C) bankruptcy
+D) lose money
+E) get rich",B,Адамдар бизнес ашудан не алғысы келеді?,"A) үй
+B) байлық
+C) банкроттық
+D) ақшаны жоғалту
+E) бай болу",B,B,E
+275c859994f7d3acd3c8863be591ab2c,When you need to rest it's often because you have been doing what?,"A) action
+B) sleep
+C) sleeping
+D) in motion
+E) using energy",E,"Демалу қажет болғанда, сіз көбінесе не істеп жүргеніңізден болады?","A) әрекет
+B) ұйқы
+C) ұйықтау
+D) қозғалыста болу
+E) энергияны пайдалану",E,E,E
+9bac07574c966cae34c85e9f25538cba,"John didn't mind getting in line.  It was what game after that he hated.  The time, the sore feet. He did not like doing what?","A) have to wait for
+B) standing in line
+C) eat cake
+D) less confusion
+E) being ordered",B,"Джон кезекке тұруға қарсы болмады. Ол содан кейін қандай ойынды жек көрді. Уақыт, аяқтың ауыруы. Ол не істеуді ұнатпады?","A) күтуге тура келу
+B) кезекте тұру
+C) торт жеу
+D) аз шатасу
+E) бұйрық алу",A,A,A
+f0d473701d52125dd055d23042de1b0d,"The dog curled up for a nap, it was tuckered out because it had just been what?","A) walked
+B) petted
+C) affection
+D) go outside
+E) scratch",A,"Ит ұйықтап қалды, ол шаршағандықтан, ол жаңа ғана не істеді?","A) серуендеу
+B) сипау
+C) мейірім
+D) далаға шығу
+E) қасу",A,A,A
+c3b7f4196b12714940ac1b9417194df4,Where is a statute found on a platform?,"A) below
+B) arena
+C) concert hall
+D) museum
+E) building",D,Ескерткіш қай жерде платформада орналасқан?,"A) төменде
+B) арена
+C) концерт залы
+D) мұражай
+E) ғимарат",E,E,D
+418913999c665ae9527fd14a6132da39,What will likely happen after stabbing to death a person?,"A) gruesome
+B) being arrested
+C) pool of blood
+D) mess
+E) grisly",B,Адамды пышақтап өлтіргеннен кейін не болуы мүмкін?,"A) сұмдық
+B) қамауға алу
+C) қанның көлшігі
+D) былық
+E) қорқынышты",B,B,B
+3d79c10ddf26a5ed7dc0bb168fb0b3ed,"The man didn't do great in college, all his best memories were late night with his brothers at the what?","A) big city
+B) fraternity house
+C) school
+D) building
+E) big town",B,"Ер адам колледжде жақсы оқымады, оның барлық ең жақсы естеліктері ағаларымен түнде қайда болған?","A) үлкен қала
+B) бауырластық үйі
+C) мектеп
+D) ғимарат
+E) үлкен қала",B,B,B
+70af2b5df22ec96901350dfa3c9ee74f,James was meeting a friend.  They had planed a slow day. They didn't want to do much.  They just wanted what?,"A) relaxation
+B) panic
+C) alarm
+D) joy
+E) cheer",A,Джеймс досымен кездесіп жатты. Олар баяу күнді жоспарлаған еді. Олар көп нәрсе жасағысы келмеді. Олар тек нені қалады?,"A) демалу
+B) үрей
+C) дабыл
+D) қуаныш
+E) шаттық",A,A,A
+37644422df4bcd28b3f54bbf3fc2c0f8,"They had to know where to go, they got on the national highway after consulting the what?","A) canada
+B) atlas
+C) united states
+D) major cities
+E) book",B,"Олар қайда бару керектігін білуі керек еді, олар неге кеңескеннен кейін ұлттық тас жолға шықты?","A) канада
+B) атлас
+C) америка құрама штаттары
+D) ірі қалалар
+E) кітап",B,B,B
+84a761f516efce04ab27d7ca8dd25255,Traveling from new place to new place is likely to be what?,"A) going somewhere
+B) exhilarating
+C) diarrhea
+D) relocation
+E) exhausting",B,Жаңа жерден жаңа жерге саяхаттау қандай болуы мүмкін?,"A) бір жаққа бару
+B) қуанышты
+C) диарея
+D) көшу
+E) шаршататын",B,E,B
+0bf4d64ad0eee7224acb3a4eb85accb2,What happens when to ice when it is in the sun?,"A) carved
+B) melted
+C) ice cream
+D) antarctica
+E) sculptured",B,Мұз күннің астында болғанда не болады?,"A) ойылған
+B) еріген
+C) балмұздақ
+D) антарктика
+E) мүсінделген",B,B,B
+e34a0d1331c6bd4574ffe308e3fbd389,"When a person admits his mistakes, what are they doing?","A) accident
+B) learn to swim
+C) thank god
+D) feel relieved
+E) act responsibly",E,"Адам өз қателіктерін мойындағанда, олар не істейді?","A) кездейсоқтық
+B) жүзуді үйрену
+C) құдайға шүкір айту
+D) жеңілдеу сезіну
+E) жауапкершілікпен әрекет ету",E,E,E
+35ad89c198d5d6311a71c993bb7b6cba,Spraining an ankle while playing baseball will cause what?,"A) strikes
+B) eating
+C) injury
+D) sore muscles
+E) pain",E,Бейсбол ойнап жүргенде тобықты шығарып алу неге әкеледі?,"A) соққылар
+B) тамақтану
+C) жарақат
+D) бұлшықеттердің ауыруы
+E) ауырсыну",C,C,C
+b7091d2bfcea421d787ce9e7982f104a,In a horror movie victims usually trip when the run in order to do what in regards to the killer?,"A) frightened
+B) run up stairs
+C) get away from
+D) go quickly
+E) go faster",C,"Қорқынышты фильмде құрбандар әдетте жүгірген кезде сүрінеді, бұл өлтірушіге қатысты не істеу үшін?","A) қорқады
+B) баспалдақпен жоғары көтеріледі
+C) қашып кетеді
+D) тез жүреді
+E) жылдам жүреді",E,D,D
+e56c56c3cfe50ba0c787c2bd67255be8,"She asked her little boy why, he replied that he didn't know and it was just what?","A) case
+B) reason
+C) how
+D) because
+E) answer",D,"Ол кішкентай ұлынан неге екенін сұрады, ол жауап берді, ол білмейтінін және бұл жай ғана не екенін айтты?","A) жағдай
+B) себеп
+C) қалай
+D) өйткені
+E) жауап",B,B,A
+34b2d6aecdb5af8efacf0b0aa7e3989f,Where does one store fabric in their own home?,"A) sewing room
+B) clothing store
+C) tailor shop
+D) clothes store
+E) cotton mill",A,Адам өз үйінде матаны қайда сақтайды?,"A) тігін бөлмесі
+B) киім дүкені
+C) тігін шеберханасы
+D) киім дүкені
+E) мақта фабрикасы",A,A,A
+01794dde3ca2991615f1aa2f63fb22e3,"As he looked out the window, he knew the landing was happening soon, and it made him nervous, but where would he be soon?","A) apartment building
+B) disembark
+C) stairwell
+D) deplane
+E) airport",E,"Терезеден қараған кезде, қону жақындап келе жатқанын білді, бұл оны қобалжытты, бірақ ол жақында қайда болады?","A) пәтер ғимараты
+B) түсіру
+C) баспалдақ
+D) ұшақтан түсу
+E) әуежай",E,E,E
+fde1f9bfc33da302449c0b950d16c0ea,Most people make stupid assumptions that are based on their prejudices.  What might they do instead to achieve better outcomes?,"A) set table
+B) think
+C) read books
+D) play games
+E) lie",B,Көптеген адамдар өздерінің алдын ала ой-пікірлеріне негізделген ақымақ болжамдар жасайды. Жақсы нәтижелерге жету үшін олар не істеуі мүмкін?,"A) үстелді дайындау
+B) ойлану
+C) кітап оқу
+D) ойын ойнау
+E) өтірік айту",B,B,B
+a7d51b753c2113d8b2dbd0ebb5375855,James's nice asked him about her grandfather. She was interested in learning about what?,"A) family tree
+B) family reunion
+C) babysitting
+D) brother's house
+E) heirlooms",A,Джеймстің жиені одан атасы туралы сұрады. Ол не туралы білгісі келді?,"A) отбасы шежіресі
+B) отбасы жиналысы
+C) бала қарау
+D) ағасының үйі
+E) мұралар",A,A,A
+c770870c88f35f9d110217049c5a7334,"She was in an affair, what did that end upon discovery by her husband?","A) relationship
+B) marriage
+C) fidelity
+D) love
+E) divorce",B,"Ол қарым-қатынаста болды, күйеуі білгеннен кейін не аяқталды?","A) қарым-қатынас
+B) неке
+C) адалдық
+D) махаббат
+E) ажырасу",A,B,A
+597d2a1c9df7962218d8b807df1f8212,What blocks sunshine?,"A) summer
+B) park
+C) desktop
+D) sea
+E) moon",E,Күн сәулесін не бөгейді?,"A) жаз
+B) саябақ
+C) жұмыс үстелі
+D) теңіз
+E) ай",E,E,E
+467a3b464b08b3ffc9922e2a726554f6,"The family wanted to adopt for enviro-ethical reasons, what did they abhor?","A) orphan
+B) biological child
+C) give away
+D) foster child
+E) abandon",B,"Отбасы экологиялық-этикалық себептермен асырап алғысы келді, олар нені жек көрді?","A) жетім
+B) биологиялық бала
+C) беру
+D) асыранды бала
+E) тастап кету",B,B,E
+ea8664e77205224154f8519f922220e1,John felt that his actions were fate.   Harry said that he could have always made a different what?,"A) free will
+B) choice
+C) will
+D) alcohol
+E) freedom",B,Джон өзінің әрекеттерін тағдыр деп санады. Гарри әрқашан басқа не істей алатынын айтты?,"A) ерік
+B) таңдау
+C) ниет
+D) алкоголь
+E) бостандық",B,B,B
+7c62637437ad7515452886074010a438,Why would a woman kill a stranger she met in a dark alley?,"A) being raped
+B) get rid of
+C) they didn't know the passcode
+D) get revenge
+E) were evil",A,Әйел неге қараңғы аллеяда кездескен бейтаныс адамды өлтірер еді?,"A) зорланғандықтан
+B) құтылу үшін
+C) олар құпия кодты білмеді
+D) кек алу үшін
+E) зұлым болғандықтан",A,A,B
+36f1ceeecde7abf99dab635239e12442,"For many males hair is a concern as they get older, it begins to what, causing a receding hairline?","A) thin out
+B) grow in ear
+C) fall out
+D) bulge
+E) composted",C,"Көптеген ер адамдар үшін шаш үлкен мәселе болып табылады, өйткені олар қартайған сайын, ол не істей бастайды, шаш сызығының шегінуіне әкеледі?","A) жұқару
+B) құлақта өсу
+C) түсу
+D) ісіну
+E) компост болу",A,A,C
+1feb4c2a0e8ed638259f5d27b16eae9a,Where does a wild bird usually live?,"A) cage
+B) sky
+C) countryside
+D) desert
+E) windowsill",C,Жабайы құс әдетте қайда тұрады?,"A) тор
+B) аспан
+C) ауылдық жер
+D) шөл
+E) терезе алды",C,C,C
+846bc47ced7119ad2ee19a8780d7fe18,What will you put on a pen to prevent it from drying out?,"A) write sentences on paper
+B) ink in
+C) ink cartridges
+D) caps
+E) cling film",D,Қаламның кеуіп кетпеуі үшін не қоясыз?,"A) қағазға сөйлемдер жазу
+B) сия құю
+C) сия картридждері
+D) қақпақтар
+E) жабысқақ пленка",D,D,D
+6e433471d0e2590b8c73ceef275022b1,James knew that he shouldn't have been buying beer for minors.  He didn't even get paid for it.  Why was this bad?,"A) lose money
+B) fun
+C) have no money
+D) broken law
+E) relaxation",D,Джеймс кәмелетке толмағандарға сыра сатып алмауы керектігін білді. Ол үшін тіпті ақша да алмады. Неліктен бұл жаман болды?,"A) ақша жоғалту
+B) көңіл көтеру
+C) ақшасыз қалу
+D) заңды бұзу
+E) демалу",D,D,D
+3eb397b96b6c3a245c81ab30205943f1,Danny is having fun just dancing and singing with his friends. He wasn't concerned with things that weren't fun. For him having fun is the same as what?,"A) injuries
+B) smiling
+C) being happy
+D) glee
+E) jump",C,"Дэнни достарымен билеп, ән айтып көңіл көтеріп жүр. Ол көңілді емес нәрселерге алаңдамады. Оның ойынша көңіл көтеру неге тең?","A) жарақаттар
+B) күлімдеу
+C) бақытты болу
+D) қуаныш
+E) секіру",D,C,D
+6eb57102b44ab74163d8f9821cbdabd0,What type of demands to the unions need to be making to go off strike?,"A) reasonable
+B) more money
+C) not go to work
+D) return to work
+E) union",A,Кәсіподақтар ереуілге шығу үшін қандай талаптар қоюы керек?,"A) ақылға қонымды
+B) көбірек ақша
+C) жұмысқа бармау
+D) жұмысқа оралу
+E) кәсіподақ",A,A,A
+3c1800e7dd96d37fdd3c51b9fe502342,"james told his son to settle down and be careful.  There were many frogs mating in the area, and James didn't want his son to do what to them?","A) wander
+B) migrate
+C) scare
+D) disturb
+E) agitate",D,"Джеймс ұлына тынышталуды және абай болуды айтты. Ауданда көптеген бақалар жұптасып жатқан еді, және Джеймс ұлының оларға не істеуін қаламады?","A) адасу
+B) көшу
+C) қорқыту
+D) мазалау
+E) қоздыру",D,D,D
+6c70d98cfb8e97fda8caefcee761a229,Zane doesn't like answering questions.  He's not good at it because he suffers from what?,"A) panic
+B) discussion
+C) attention
+D) confusion
+E) satisfaction",D,"Зейн сұрақтарға жауап бергенді ұнатпайды. Ол мұны жақсы істей алмайды, себебі ол неден зардап шегеді?","A) үрей
+B) талқылау
+C) назар
+D) шатасу
+E) қанағаттану",A,D,D
+e151b44e0a7bf08a1dd3c861eef09161,What may I place the telephone on?,"A) bar
+B) friend's house
+C) desktop
+D) party
+E) office",C,Телефонды неге қоюыма болады?,"A) бар
+B) досымның үйі
+C) үстел
+D) кеш
+E) кеңсе",C,C,C
+985a4f1a3f31f1ba6654f4fc48f504df,To get clean clothes you to what to them?,"A) get dirty
+B) writing
+C) use water
+D) launder
+E) soap",D,Киімдерді таза ету үшін оларға не істеу керек?,"A) кірлету
+B) жазу
+C) су қолдану
+D) жуу
+E) сабын",D,D,D
+81f5e741d970578867495ceea5a0c848,When a group of people are talking at work they might be doing what?,"A) having a concert.
+B) cough
+C) sharing of ideas
+D) speak
+E) sneeze",C,Адамдар тобы жұмыста сөйлесіп жатқанда олар не істеп жатуы мүмкін?,"A) концерт өткізу.
+B) жөтелу
+C) идеялармен бөлісу
+D) сөйлеу
+E) түшкіру",C,C,C
+29c194d032a266a7160bff6f546a4d9d,Where is one likely to find poker chips?,"A) supermarket
+B) pantry
+C) motherboard
+D) bar
+E) bar",D,Покер фишкаларын қайдан табуға болады?,"A) супермаркет
+B) қойма
+C) аналық тақта
+D) бар
+E) бар",A,D,A
+7e522a60756f854c5331125f998bc36b,What kind of food makes someone sick?,"A) boat
+B) necessary to live
+C) edible
+D) unhealthy
+E) kitchen",D,Қандай тағам біреуді ауыртады?,"A) қайық
+B) өмір сүруге қажетті
+C) жеуге жарамды
+D) денсаулыққа зиянды
+E) ас үй",D,D,D
+ea82f9e938cbfce85fb498ce46264253,What will a person do at work?,"A) cross street
+B) draw attention to themselves
+C) make money
+D) falling down
+E) come home",C,Адам жұмыста не істейді?,"A) көшеден өту
+B) өзіне назар аударту
+C) ақша табу
+D) құлау
+E) үйге қайту",C,C,C
+ecb8758b0d088f9aedc182a516dd1190,"If I have a pet bird, what does it likely live in?","A) forest
+B) bathroom
+C) windowsill
+D) countryside
+E) cage",E,"Егер менің үй жануарым құс болса, ол қайда өмір сүреді?","A) орман
+B) жуынатын бөлме
+C) терезе алды
+D) ауыл
+E) тор",E,E,E
+2dd138a63b5895cf737ced793cc668e7,"If you take the risk buying a used car, you still hope it can what?","A) go fast
+B) start running
+C) going too fast
+D) look good
+E) last several years",E,"Егер сіз тәуекелге барып, қолданылған көлік сатып алсаңыз, әлі де оның не істей алатынына үміттенесіз?","A) тез жүру
+B) жүгіруді бастау
+C) тым тез жүру
+D) жақсы көріну
+E) бірнеше жылға жету",E,E,E
+f7140f00ddd8d1c5d93b05ea32ad1fff,"Many people wanted to leave their country estates for row houses, what did they need to move to?","A) living less expensively
+B) england
+C) prison
+D) city
+E) town",D,"Көптеген адамдар өздерінің ауылдық жерлерін қатар үйлерге ауыстырғысы келді, олар неге көшуі керек болды?","A) арзанырақ өмір сүру
+B) Англия
+C) түрме
+D) қала
+E) қала",D,D,D
+6b270159bd402ddd498a38153f9d1efe,"The rats were hiding in the house, where were they?","A) sewers
+B) laboratory
+C) basement
+D) clinic
+E) cellar",E,"Егеуқұйрықтар үйде жасырынып жүрді, олар қайда болды?","A) кәріздер
+B) зертхана
+C) жертөле
+D) клиника
+E) жертөле қоймасы",C,C,E
+67beae081a9b5ef56988f205f80cf129,If you're a child answering questions and an adult is asking them that adult is doing what?,"A) discussion
+B) explaning
+C) teaching
+D) confusion
+E) correct",C,"Егер сіз сұрақтарға жауап беріп жатқан бала болсаңыз және ересек адам оларды қойып жатса, ол ересек адам не істеп жатыр?","A) талқылау
+B) түсіндіру
+C) оқыту
+D) шатастыру
+E) түзету",C,C,C
+d1d2585e0ba1160948b7c5822a99b7a1,Where would you buy food?,"A) freezer
+B) store
+C) home
+D) hatred
+E) kitchen",B,Сіз тамақты қайдан сатып алар едіңіз?,"A) мұздатқыш
+B) дүкен
+C) үй
+D) жеккөрушілік
+E) асүй",B,B,B
+b7ab4a5e0c19a98f41cd1ba3176f2dff,The department to where vendors deliver goods for sale is called what?,"A) delivered
+B) take away
+C) receiving
+D) pick up
+E) keep",C,Сатушылар тауарларды сату үшін жеткізетін бөлім қалай аталады?,"A) жеткізілген
+B) алып кету
+C) қабылдау
+D) алу
+E) сақтау",C,C,C
+de0386024f32cdf277a785a851b97544,Where could a personal ficus live?,"A) cabin in the woods
+B) california
+C) front yard
+D) conservatory
+E) tropical forest",C,Жеке фикус қайда өмір сүре алады?,"A) ормандағы кабина
+B) Калифорния
+C) алдыңғы аула
+D) консерватория
+E) тропикалық орман",D,E,E
+08f3c187908646997b9080c7e9ea7da4,A crane uses many a steel cable when working a what?,"A) abaft
+B) ship
+C) winch
+D) construction site
+E) building",D,Кран не істегенде көптеген болат арқанды пайдаланады?,"A) артында
+B) кеме
+C) лебедка
+D) құрылыс алаңы
+E) ғимарат",D,C,D
+79ec11d8072ce42779adfe0a19bd5374,"The child felt like it was all pretend, he didn't understand what?","A) people believe
+B) daydreams
+C) transcendentalism
+D) laughter
+E) religion",E,"Бала бәрі өтірік сияқты сезінді, ол нені түсінбеді?","A) адамдар сенеді
+B) қиялдар
+C) трансцендентализм
+D) күлкі
+E) дін",A,E,B
+df3d27338bcf86b341b8b02d4309daf5,Where do you keep your pizza slice before you eat it?,"A) table
+B) plate
+C) restaurant
+D) oven
+E) popular",B,Пицца тілімін жеп қоймас бұрын қайда сақтайсыз?,"A) үстел
+B) табақ
+C) мейрамхана
+D) пеш
+E) танымал",B,B,B
+a588407ecaecf0f30c2241c30b470fe2,Who is likely to be excited about a crab?,"A) fish market
+B) pet shop
+C) fishmongers
+D) intertidal zone
+E) obesity",C,Кім шаянға қызығушылық танытуы мүмкін?,"A) балық базары
+B) үй жануарлары дүкені
+C) балық сатушылар
+D) су тасқыны аймағы
+E) семіздік",B,C,B
+adbddc80b10bf25f09c6c2bee4e3c59b,"Where can you buy a clock, clothing and wrenches?","A) counter
+B) train station
+C) school room
+D) desk
+E) department store",E,"Сағатты, киімді және кілттерді қайдан сатып алуға болады?","A) есептегіш
+B) теміржол вокзалы
+C) мектеп бөлмесі
+D) үстел
+E) әмбебап дүкен",E,E,E
+2729d8502208c25d8e9293cd4e8ecbb5,What can disease destroy?,"A) rug
+B) third world country
+C) human body
+D) hospital
+E) building",C,Ауру не жоя алады?,"A) кілем
+B) үшінші әлем елі
+C) адам денесі
+D) аурухана
+E) ғимарат",C,D,C
+78d1218aeff70a70904767349e3c4c53,Brawn opened the curtains so that the sun could do what?,"A) dry clothes
+B) warm house
+C) warm room
+D) shine brightly
+E) get dark",C,Браун күннің не істеуі үшін перделерді ашты?,"A) киімдерді кептіру
+B) үйді жылыту
+C) бөлмені жылыту
+D) жарқырап жарқырау
+E) қараңғы түсу",D,C,C
+dea70fe40fac9ad03bf319bf8a480efa,What happens when airplane engines cut off and are unable to be restarted in flight?,"A) stall
+B) start melting
+C) taxi
+D) crash
+E) speed up",D,"Ұшақ қозғалтқыштары өшіп, ұшу кезінде қайта іске қосылмаса не болады?","A) тоқтап қалу
+B) ери бастау
+C) рулеждеу
+D) апатқа ұшырау
+E) жылдамдау",D,D,D
+570be8c1edb8c638603dc5c8cae421cc,David watched some nesting birds using his binoculars while on vacation.  Where might David be?.,"A) sky
+B) vaccation
+C) forest
+D) countryside
+E) roof",C,Дэвид демалыста дүрбісімен ұя салған құстарды бақылады. Дэвид қайда болуы мүмкін?.,"A) аспан
+B) демалыс
+C) орман
+D) ауылдық жер
+E) шатыр",C,C,C
+cf02cca40a47c2deefd8b2e5a5ff2f70,She wanted a kitten and puppy so why did she only get the puppy?,"A) one choice for pet
+B) cute
+C) kennel
+D) soft
+E) waxy",A,"Ол мысық пен күшік алғысы келді, бірақ неге тек күшікті алды?","A) үй жануары үшін бір таңдау
+B) сүйкімді
+C) итхана
+D) жұмсақ
+E) балауыздай",A,A,A
+ab8bf60f76bc6119459271140ccae781,"Before lifting weights he liked to warm up on the squash court, he really enjoyed the facilities of the what?","A) swimming pool
+B) rich person's house
+C) country club
+D) fitness center
+E) park",D,"Салмақ көтерер алдында ол сквош алаңында қыздырынғанды ұнататын, ол қандай нысандарды шынымен ұнататын?","A) жүзу бассейні
+B) бай адамның үйі
+C) ел клубы
+D) фитнес орталығы
+E) саябақ",D,D,C
+5279a2ea333ba8a5bf3a7637a7279da1,Batman bought beer.  There were no bottles available.  He had to settle for what?.,"A) shelf
+B) soccer game
+C) keg
+D) can
+E) refrigerator",D,Бэтмен сыра сатып алды. Бөтелкелер жоқ болды. Ол неге қанағаттануға мәжбүр болды?,"A) сөре
+B) футбол ойыны
+C) бөшке
+D) банка
+E) тоңазытқыш",D,D,D
+0611dfbf5114084723d75f59b4f67412,What do you use to carry your briefcase?,"A) office building
+B) school
+C) courtroom
+D) airport
+E) hand",E,Сіз портфеліңізді алып жүру үшін нені қолданасыз?,"A) кеңсе ғимараты
+B) мектеп
+C) сот залы
+D) әуежай
+E) қол",E,E,E
+f481dc35b0a97a20dc5cdfe1a59746e2,If you have to read a book that is very dry and long you may become what?,"A) have time
+B) boring
+C) learn new
+D) enjoyable
+E) bored",E,"Егер сіз өте құрғақ және ұзақ кітапты оқуға мәжбүр болсаңыз, сіз қандай күйге түсуіңіз мүмкін?","A) уақытыңыз болады
+B) жалықтыратын
+C) жаңаны үйрену
+D) жағымды
+E) жалыққан",E,E,E
+b3dc6d6a5e2f9d7da8eb72816c80b3f8_1,"The goal was to hit the target, but a projectile ball can't hit anything if it isn't in what?","A) motion
+B) ocean
+C) flintlock
+D) arcade
+E) tennis court",A,"Мақсат нысананы дәлдеу болды, бірақ егер снаряд ештеңеге тимесе, ол неде болмайды?","A) қозғалыс
+B) мұхит
+C) кремень
+D) ойын залы
+E) теннис корты",C,C,C
+b8b287b6277fccd4b7c9c72577177328,Where could you find a toilet that only friends can use?,"A) rest area
+B) school
+C) stadium
+D) apartment
+E) hospital",D,Дәретхананы тек достар ғана пайдалана алатын жер қайда?,"A) демалыс аймағы
+B) мектеп
+C) стадион
+D) пәтер
+E) аурухана",D,D,D
+320ec9b68fdefe13d59cc8b628083790,How would you get from one side of a canal to another?,"A) michigan
+B) amsterdam
+C) venice
+D) bridge
+E) barges to travel on",D,Каналдың бір жағынан екінші жағына қалай өтуге болады?,"A) мичиган
+B) амстердам
+C) венеция
+D) көпір
+E) жүзетін баржалар",D,D,D
+69bef3eb55463d040bdf98e2c97bfe1f,"To get out of there the person had to keep on walking, they had to keep on what?","A) moving forward
+B) locomotion
+C) blisters
+D) rollerskate
+E) exercise",A,"Ол жерден шығу үшін адам жүруді жалғастыруы керек болды, олар нені жалғастыруы керек болды?","A) алға жылжу
+B) қозғалыс
+C) көпіршіктер
+D) роликті коньки тебу
+E) жаттығу",A,A,B
+ede4d302fc2ffe07703158f83c1493f2,"If there is a place that is hot and arid, what could it be?","A) bland
+B) lifeless
+C) sandy
+D) neutral
+E) freezing",B,"Егер ыстық және құрғақ жер болса, ол не болуы мүмкін?","A) дәмсіз
+B) жансыз
+C) құмды
+D) бейтарап
+E) мұздай",C,C,C
+536c9af0fae0aa75b32874dfcac66353,Where would you find an office worker gossiping with their colleagues?,"A) water cooler
+B) space shuttle
+C) baby shower
+D) bus stop
+E) family",A,Кеңсе қызметкерін әріптестерімен өсек айтып тұрған жерден қайдан табуға болады?,"A) су салқындатқыш
+B) ғарыш кемесі
+C) нәресте жуу рәсімі
+D) автобус аялдамасы
+E) отбасы",A,A,A
+cdd3d074031fbd3efeb4f9408abef04e,What very cold area in the east can a crab be found?,"A) fish market
+B) shallow waters
+C) atlantic ocean
+D) fresh water
+E) shore line",C,Шығыстағы өте суық аймақта шаян қайда табылуы мүмкін?,"A) балық базары
+B) таяз сулар
+C) атлант мұхиты
+D) тұщы су
+E) жағалау сызығы",B,B,B
+ed50555f8db2b8f66caf9868dcd7e13b,"No matter what date you put on it, we all know the universe to be what?","A) very old
+B) infiniverse
+C) getting younger
+D) infinite
+E) real",A,"Қай күнді қойсаңыз да, біз бәріміз ғаламның қандай екенін білеміз?","A) өте ескі
+B) шексіз ғалам
+C) жасарып келеді
+D) шексіз
+E) шынайы",B,E,D
+5a7f6fd97b2c9ad05f773bc8b2ecf441,How can a human cross a river and not mess up their hair?,"A) wisconsin
+B) waterfall
+C) hatred
+D) bridge
+E) valley",D,"Адам өзеннен қалай өтіп, шашын бүлдірмей алады?","A) висконсин
+B) сарқырама
+C) жек көру
+D) көпір
+E) аңғар",D,D,D
+4f23829b96b38b5633ecc3325281726d,John rode on the plain until it reached the ocean and couldn't go any farther. What might he have bee on?,"A) mountain
+B) fancy
+C) sandplain
+D) cliff
+E) gorge",D,Джон жазықта мұхитқа жеткенше жүрді және әрі қарай жүре алмады. Ол неге мінген болуы мүмкін?,"A) тау
+B) сәнді
+C) құмды жазық
+D) жар
+E) шатқал",C,C,D
+beef0aa2058297904bb4acc1dc340c85,When is the worst time for having food?,"A) digesting
+B) not hungry
+C) gas
+D) weight gain
+E) feeling of fullness",B,Тамақтану үшін ең нашар уақыт қашан?,"A) қорыту
+B) аш емес
+C) газ
+D) салмақ қосу
+E) толықтық сезімі",B,E,B
+9ed019338a48216de9eadf64faaf1ce0,Where would you put a glass after drinking from it?,"A) ocean
+B) water cooler
+C) cabinet
+D) dishwasher
+E) dining room",D,Сіз шыныдан ішкеннен кейін оны қайда қоясыз?,"A) мұхит
+B) су салқындатқыш
+C) шкаф
+D) ыдыс жуғыш машина
+E) асхана",D,D,D
+6be05d227f4f6fe727218fc8be9df340,What might you need to do cleaning?,"A) sing a song
+B) neatness
+C) allergies
+D) healthy living
+E) using water",E,Тазалау үшін не істеуіңіз мүмкін?,"A) ән айту
+B) тазалық
+C) аллергиялар
+D) салауатты өмір сүру
+E) суды пайдалану",E,B,B
+b42ef8be1748c19fa5938de5396f8fad,"The man started to learn jogging, what was he hoping to do?","A) exhaustion
+B) getting in shape
+C) fitness
+D) injure himself
+E) fatigue",B,"Ер адам жүгіруді үйрене бастады, ол не істеуді үміттенді?","A) шаршау
+B) формаға келу
+C) фитнес
+D) өзін жарақаттау
+E) қажу",B,B,B
+0b3a3ee40dd25be9735ac5e3342ca4dd,A person with an allergy might be doing what if they awake suddenly?,"A) have fun
+B) enjoy with friends
+C) stretch
+D) yawn
+E) sneezing",E,"Аллергиясы бар адам кенеттен оянса, не істеп жатқан болуы мүмкін?","A) көңіл көтеру
+B) достарымен көңіл көтеру
+C) созылу
+D) есінеу
+E) түшкіру",E,E,E
+7bc1198664b376f79d584725ad7f874b,What is likely to be found in a book that is not a foreword?,"A) last word
+B) conclusion
+C) ikea instructions
+D) afterword
+E) epilogue",E,"Кітапта алғы сөз емес, не табылуы мүмкін?","A) соңғы сөз
+B) қорытынды
+C) ikea нұсқаулары
+D) соңғы сөз
+E) эпилог",E,E,E
+d0bda97a087904320216e4d0b8a08a8d,"The man was giving assistance to a pan handler in the streets, how did he give assistance?","A) feeling good
+B) killing
+C) law suits
+D) out of pocket
+E) feel loved",D,Ер адам көшеде қайыршыға қалай көмек көрсетті?,"A) өзін жақсы сезіну
+B) өлтіру
+C) сот істері
+D) қалтасынан шығару
+E) сүйіспеншілік сезіну",D,D,D
+eb0e0c4eaf19c1e9b4df3b4d3a11be3d,Many towns and cities have trash cans where on sidewalks?,"A) hospital
+B) park
+C) corner
+D) motel
+E) office",C,Көптеген қалалар мен елді мекендерде тротуарларда қоқыс жәшіктері қайда орналасқан?,"A) аурухана
+B) саябақ
+C) бұрыш
+D) мотель
+E) кеңсе",C,C,C
+435a728f45d32faa4b3c4553c966fd6b,"If I was getting drunk, and people couldn't understand me, what might I be having?","A) a seizure
+B) slurred speech
+C) death
+D) forgetfulness
+E) pass out",B,"Егер мен мас болып, адамдар мені түсінбесе, менде не болуы мүмкін?","A) талма
+B) былдырлаған сөйлеу
+C) өлім
+D) ұмытшақтық
+E) есінен тану",B,B,B
+0a5c069836784c3d574828d85a20a074,"I saw the receptionist carelessly toss my resume into the drawer, where did I want it to end up?","A) file cabinet
+B) nightstand
+C) kitchen cabinet
+D) office desk
+E) the floor",D,"Менің түйіндемемді қабылдау бөлмесінің қызметкері абайсызда тартпаға лақтырғанын көрдім, мен оны қайда аяқтағым келді?","A) файл шкафы
+B) тумбочка
+C) ас үй шкафы
+D) кеңсе үстелі
+E) еден",A,A,A
+b4f79ca5f3595248ee25292ab60ad105,"At the end of the day as he began to eat he paused and thanked her, it wasn't often she would what?","A) cook dinner
+B) did chores
+C) make food
+D) stretch out
+E) get food",A,"Күннің соңында ол тамақтана бастағанда, ол тоқтап, оған алғыс айтты, ол жиі не істемейтін еді?","A) кешкі ас дайындау
+B) үй шаруасын істеу
+C) тамақ жасау
+D) созылу
+E) тамақ алу",E,E,A
+5d03ad171fd661a28da5b6eb79967a6b,If it's not used for hair a round brush is an example of what?,"A) hair brush
+B) ladies bathroom
+C) art supplies
+D) shower
+E) hair salon",C,"Егер ол шашқа қолданылмаса, дөңгелек щетка ненің мысалы болып табылады?","A) шаш щеткасы
+B) әйелдер дәретханасы
+C) сурет құралдары
+D) душ
+E) шаштараз",C,C,C
+d581e0ad6a4c89465dc1a527bd2d3f77,"Though she had a disability, what did her encouraging and positive coach see in her?","A) qualification
+B) strength
+C) pity
+D) competence
+E) potential",E,"Оның мүгедектігі болғанымен, оның жігерлендіретін және оң бапкері одан нені көрді?","A) біліктілік
+B) күш
+C) аяушылық
+D) қабілеттілік
+E) әлеует",E,E,E
+8058c566a4f488033d00e6520b17caea,"John was not happy with his marriage. He and his wife drifted apart.     All and all, recent turns could be described as what?","A) inappropriate
+B) sadness
+C) unsatisfied
+D) unfortunate
+E) disenchanted",D,"Джон өзінің некесіне риза болмады. Ол және оның әйелі бір-бірінен алыстап кетті. Жалпы алғанда, соңғы өзгерістерді қалай сипаттауға болады?","A) орынсыз
+B) қайғы
+C) қанағаттанбаған
+D) сәтсіз
+E) көңілі қалған",C,B,C
+5ac83e9e6fa9851ad3cccb0d57c1d88f,What would encourage someone to continue playing tennis?,"A) becoming tired
+B) tennis elbow
+C) exercise
+D) hunger
+E) victory",E,Біреуді теннис ойнауды жалғастыруға не ынталандырады?,"A) шаршау
+B) теннис шынтағы
+C) жаттығу
+D) аштық
+E) жеңіс",E,E,E
+e3c9e83c0c62d842de2dfe229f5e6d41,What happens someone who is bad play poker?,"A) think
+B) ante up
+C) drink
+D) win money
+E) losing money",E,Покерді нашар ойнайтын адамға не болады?,"A) ойлау
+B) ставка қою
+C) ішу
+D) ақша ұту
+E) ақша жоғалту",E,E,E
+7ec11eeca4221795c117943ca2639e86,Colorful anemone look somewhat like what object you find on window sills?,"A) intertidal zone
+B) coral sea
+C) under water
+D) flower bed
+E) florida keys",D,Түрлі-түсті анемон терезе төсеніштерінде табылатын қандай затқа ұқсайды?,"A) жағалау аймағы
+B) маржан теңізі
+C) су астында
+D) гүлзар
+E) флорида кілттері",D,D,D
+b47d912136e3304cb5e5890b6b879551,Talking to the same person about the same thing over and over again is something someone can what?,"A) social life
+B) friendship
+C) eye contact
+D) get tired of
+E) learn lessons from",D,Бір адаммен бір нәрсе туралы қайта-қайта сөйлесу біреудің не істей алатыны?,"A) әлеуметтік өмір
+B) достық
+C) көз байланысы
+D) шаршау
+E) сабақ алу",D,D,D
+5b8a3081c3235d62bc77e2d15f3ad454,A town between two mountains is located in a what?,"A) valley
+B) hospital
+C) state
+D) train station
+E) michigan",A,Екі таудың арасындағы қала қайда орналасқан?,"A) аңғар
+B) аурухана
+C) штат
+D) теміржол станциясы
+E) мичиган",A,A,A
+866ef7266d34c11e5a1b3df49fab96a4,Joe and Jill didn't want their children to be sedentary.  They might limit the time they children spend doing what?,"A) play sports
+B) throw things
+C) reading
+D) watch tv
+E) play with toys",D,Джо мен Джилл балаларының отырықшы болуын қаламады. Олар балаларының не істеуге жұмсайтын уақытын шектеуі мүмкін?,"A) спортпен айналысу
+B) заттарды лақтыру
+C) оқу
+D) теледидар көру
+E) ойыншықтармен ойнау",D,D,D
+15798a23ee6952fedd6d202064069126,If a person is trying to keep something in their hand what should they do?,"A) complete collection
+B) own house
+C) procrastinate
+D) explode
+E) have to hold",E,"Егер адам бір нәрсені қолында ұстауға тырысса, не істеуі керек?","A) толық жинақ
+B) өз үйі
+C) кейінге қалдыру
+D) жарылу
+E) ұстау керек",E,E,E
+950af0b765c298960ce3dada66df8db1,"The freeway had no traffic and few buildings, where is it?","A) california
+B) countryside
+C) big town
+D) florida
+E) america",B,"Автомагистральде көлік қозғалысы жоқ және аз ғимараттар бар, ол қайда орналасқан?","A) калифорния
+B) ауылдық жер
+C) үлкен қала
+D) флорида
+E) америка",B,B,B
+8ce13c6e08bf38d4cd4af756b661e47c,Where would you put pans if you want to bring them with you?,"A) cooking
+B) cook food
+C) kitchen
+D) backpack
+E) drawer",D,"Егер сіз табаларды өзіңізбен бірге алғыңыз келсе, оларды қайда қоясыз?","A) пісіру
+B) тамақ пісіру
+C) ас үй
+D) рюкзак
+E) тартпа",D,D,D
+042898e0c71adac5d123aaa6221c9754,Where is likely to not just have a kosher restaurant?,"A) jerusalem
+B) jewish neighborhoods
+C) dining in
+D) new york city
+E) dining",D,Қай жерде кошер мейрамханасы болмауы мүмкін?,"A) иерусалим
+B) еврей аудандары
+C) үйде тамақтану
+D) нью-йорк қаласы
+E) тамақтану",E,C,C
+bea07406aaadeef50110883b6932d86a,What is part of a republic like the USA?,"A) state
+B) democratic
+C) kingdom
+D) democracy
+E) dictatorship",A,АҚШ сияқты республиканың бөлігі не болып табылады?,"A) штат
+B) демократиялық
+C) патшалық
+D) демократия
+E) диктатура",A,A,A
+c74ae684ba6c76e2a913493483678c9d,What has a surface with many sides?,"A) tetrahedron
+B) object
+C) geometry problem
+D) lake
+E) triangle",A,Көп жақты беті бар не?,"A) тетраэдр
+B) объект
+C) геометрия мәселесі
+D) көл
+E) үшбұрыш",A,A,A
+533599262a5dae7c7137cfe69e0e24fb,"There was a long cottage somewhere.  People thought it was haunted.  It was overgrown, there was nothing near it.  It's was far into the what?","A) mountains
+B) countryside
+C) train
+D) painting
+E) village",B,"Ол жерде ұзын коттедж болды. Адамдар оны елес бар деп ойлады. Ол шөп басқан, оның жанында ештеңе жоқ еді. Ол қайда алыс болды?","A) таулар
+B) ауылдық жер
+C) пойыз
+D) сурет
+E) ауыл",B,B,D
+f13efb91090dd28fd2b3c1f4dde680fd,Sage loved communicating  He liked doing what with his peers?,"A) exchanging ideas
+B) confusion
+C) peer pressure
+D) response
+E) learning",A,Сейдж қарым-қатынас жасауды жақсы көрді. Ол құрдастарымен не істеуді ұнатты?,"A) идеялармен алмасу
+B) түсініксіздік
+C) құрдастардың қысымы
+D) жауап беру
+E) үйрену",A,A,A
+fff554fffa1a0adc64b8d1e21d55534b,John didn't care about style.  He felt that form was less important than what?,"A) shapeless
+B) quality
+C) function
+D) change shape
+E) chaos",C,Джон стильге мән бермеді. Ол үшін форма ненің алдында маңызды емес деп есептеді?,"A) пішінсіздік
+B) сапа
+C) функция
+D) пішін өзгерту
+E) хаос",C,C,C
+cd39e442204d3edf7acc185fd59c8a44,The place where my linen closet is really needs repainting a light color as it only has one overhead light.,"A) house
+B) home
+C) pool house
+D) hallway
+E) bedroom",D,"Менің зығыр шкафым орналасқан жерді шынымен де ашық түске қайта бояу керек, өйткені онда тек бір төбелік жарық бар.","A) үй
+B) үй
+C) бассейн үйі
+D) дәліз
+E) жатын бөлме",A,A,D
+63bb6128026ce24209583d0eea75fc27,Where is a good place to set a cup of coffee while relaxing?,"A) coffee shop
+B) kitchen
+C) hand
+D) table
+E) office",D,Демалып жатқанда кофе шыныаяғын қоюға жақсы орын қайда?,"A) кофе дүкені
+B) ас үй
+C) қол
+D) үстел
+E) кеңсе",D,D,D
+eaf980db7e945b1cf6d648fa55ddcb5e,What is the feeling of one having fun?,"A) smiling
+B) pleasure
+C) hurt
+D) injuries
+E) laughter",B,Көңіл көтеріп жатқан адамның сезімі қандай?,"A) күлімдеу
+B) ләззат
+C) жарақат
+D) жарақаттар
+E) күлкі",B,B,B
+526cd34f5b2afefbbb7830434785f298,Sarah dropped the marble because she wanted to do what?,"A) game
+B) pouch
+C) home
+D) store
+E) jar",A,Сара не істеу үшін мәрмәрді түсірді?,"A) ойын
+B) дорба
+C) үй
+D) дүкен
+E) құмыра",A,E,A
+c96a86957a9ab1d8ca0aeeb7f040d87a_1,"There were times where kids wanted to know a definition, so there was a nice big dictionary in the what?","A) pocket
+B) classroom
+C) table
+D) library
+E) shelf",B,"Балалар анықтаманы білгісі келген кездер болды, сондықтан қай жерде үлкен жақсы сөздік болды?","A) қалта
+B) сынып
+C) үстел
+D) кітапхана
+E) сөре",D,D,D
+64d2310eff6b661baeb41b4ccc392e35,When we are running what are we doing?,"A) stretches
+B) running from police
+C) learn to walk
+D) go quickly
+E) get out of bed",D,Біз жүгіріп жатқанда не істеп жатырмыз?,"A) созылу
+B) полициядан қашу
+C) жүруді үйрену
+D) тез жүру
+E) төсектен тұру",D,D,D
+1a4e83b433620cb2d7d806882f8d57e4,What is it called when a person with mental illness is able to lead a relatively normal life?,"A) managed
+B) effectively treated
+C) recur
+D) cause delusion
+E) illusion",A,Психикалық ауруы бар адам салыстырмалы түрде қалыпты өмір сүре алатын жағдай қалай аталады?,"A) басқарылған
+B) тиімді емделген
+C) қайталану
+D) елес тудыру
+E) иллюзия",A,B,A
+51e2da7396ab7045533e885dbb98a424,"Sam wasn't lying, but he left out important details. He was being what?","A) dishonesty
+B) deceitful
+C) imagination
+D) deceptive
+E) poker face",B,"Сэм өтірік айтқан жоқ, бірақ маңызды мәліметтерді қалдырды. Ол қандай болды?","A) адал емес
+B) алдамшы
+C) қиял
+D) алдау
+E) покер беті",B,B,B
+a617eb4d27edea93e7fd630ce00c8219,If you want to kill someone you can do what to them with a gun?,"A) sip through
+B) damnation
+C) shoot
+D) commit crime
+E) eat breakfast",C,"Егер сіз біреуді өлтіргіңіз келсе, оларға мылтықпен не істей аласыз?","A) сору
+B) қарғыс
+C) ату
+D) қылмыс жасау
+E) таңғы ас ішу",C,C,C
+cfa980561efe82e7ae7080d4f081b463,What is someone operating a vehicle likely to be accused of after becoming inebriated?,"A) punish
+B) arrest
+C) automobile accidents
+D) drunk driving
+E) talking nonsense",D,Біреу көлік жүргізіп келе жатып масайғаннан кейін не үшін айыпталуы мүмкін?,"A) жазалау
+B) қамауға алу
+C) автомобиль апаттары
+D) мас күйінде көлік жүргізу
+E) бос сөз айту",D,D,D
+92f423de9a556a66c3eb73e9ddf9399a,Where does a child likely sit at a desk?,"A) furniture store
+B) schoolroom
+C) patio
+D) office building
+E) library",B,Бала қай жерде үстелге отыруы мүмкін?,"A) жиһаз дүкені
+B) сынып бөлмесі
+C) патио
+D) кеңсе ғимараты
+E) кітапхана",B,B,B
+d725f1c2e150a3221de31612123f3f46,What do you do when you're going to market?,"A) buy food
+B) see other people
+C) buying vegetables
+D) buy a fat pig
+E) traveling",A,Сіз базарға барғанда не істейсіз?,"A) тамақ сатып алу
+B) басқа адамдарды көру
+C) көкөністер сатып алу
+D) семіз шошқа сатып алу
+E) саяхаттау",A,A,A
+8a69e6df5e8ad6c9e6828aa66c59d046,John and Joe like planning games but Joe  was hit by a ball and fell down. What might have happened to Joe.,"A) anger
+B) good natured ribbing.
+C) enjoying
+D) injury
+E) enjoyment",D,"Джон мен Джо ойындарды жоспарлағанды ұнатады, бірақ Джоға доп тиіп, ол құлап қалды. Джоға не болуы мүмкін еді?","A) ашу
+B) жақсы ниетті қалжыңдау
+C) ләззат алу
+D) жарақат
+E) рахаттану",D,D,D
+3e536d9253bfac45de83e8ee291ca143,Where might it be hard to get furniture to?,"A) apartment
+B) loft
+C) store
+D) rug
+E) stairs",B,Жиһазды қайда жеткізу қиын болуы мүмкін?,"A) пәтер
+B) шатыр
+C) дүкен
+D) кілем
+E) баспалдақ",E,B,B
+515834727e23e30ab7c8fe5ba7e9a765,James bought a new set of tire chains and put them somewhere he could find them.  Where would he put them?,"A) gear shift
+B) garage
+C) kitchen
+D) jewelry store
+E) hardware store",B,"Джеймс жаңа дөңгелек шынжырларын сатып алып, оларды таба алатын жерге қойды. Ол оларды қайда қояды?","A) беріліс қорабы
+B) гараж
+C) ас үй
+D) зергерлік дүкен
+E) құрылыс дүкені",B,B,B
+95a85df48902d23eb3fda25a99fca1a0,What is it called when two people in love have children?,"A) take oath
+B) procreate
+C) matrimony
+D) please parents
+E) live life",B,Екі ғашық адам балалы болғанда қалай аталады?,"A) ант беру
+B) ұрпақ жалғастыру
+C) неке
+D) ата-ананы қуанту
+E) өмір сүру",B,B,B
+6b1f5ebd9d0dbc7e34a598456a6091a8,It's dangerous to let pet birds free so it's better to keep them what?,"A) slavery
+B) caught
+C) caged in
+D) topfree
+E) prisoner",C,"Үй құстарын еркін жіберу қауіпті, сондықтан оларды қайда ұстаған дұрыс?","A) құлдықта
+B) ұсталған
+C) торда
+D) еркін
+E) тұтқында",C,C,C
+4499ebd5e8188b0d5fdef6afd893017a,"I took my seat, the curtains drew back and I enjoyed the what?","A) airplane
+B) movie
+C) auditorium
+D) theatre
+E) show",E,"Мен орныма отырдым, перделер ашылды және мен нені тамашаладым?","A) ұшақ
+B) фильм
+C) аудитория
+D) театр
+E) шоу",D,D,D
+19dfd55e967dacd6f5700a62c1e14eee,What type of store would have lots of sports equipment?,"A) mall
+B) office supply store
+C) school
+D) sporting goods store
+E) sporting event",D,Көптеген спорт жабдықтары бар дүкеннің түрі қандай?,"A) сауда орталығы
+B) кеңсе жабдықтары дүкені
+C) мектеп
+D) спорт тауарлары дүкені
+E) спорттық іс-шара",D,D,D
+41fac392c6a5827c1b6682d5d3798e59,"John was my neighbor, it was easy to talk to him. He was never what?","A) away
+B) distant
+C) remote person
+D) bore
+E) foe",B,"Джон менің көршім болды, онымен сөйлесу оңай еді. Ол ешқашан қандай болған жоқ?","A) алыс
+B) алыстағы
+C) қашықтағы адам
+D) жалықтыратын
+E) жау",D,E,D
+dbdad44029098d4b1d202d6d857d6092,Where are you likely to set papers while working on them?,"A) table
+B) meeting
+C) drawer
+D) toilet
+E) garage",A,Құжаттармен жұмыс істегенде оларды қайда қоюыңыз мүмкін?,"A) үстел
+B) жиналыс
+C) тартпа
+D) дәретхана
+E) гараж",C,C,A
+ec224c1dbfb569cce7ec317fe987ae68,What is the animal trying to accomplish?,"A) sand trap
+B) live long
+C) leave home
+D) feel pain
+E) eating",B,Жануар не істеуге тырысып жатыр?,"A) құм тұзағы
+B) ұзақ өмір сүру
+C) үйден кету
+D) ауырсынуды сезіну
+E) тамақтану",E,E,E
+8272f08792b873885f93d4c148e307e5,The water in clouds turn in to what when it gets cold?,"A) typhoon
+B) snowflake
+C) laddle
+D) teardrops
+E) sink",B,Бұлттардағы су суық болғанда неге айналады?,"A) тайфун
+B) қар ұшқыны
+C) күрек
+D) көз жасы
+E) раковина",B,B,B
+dc964e4f6df6b70815e81e466d0ff717,If you jump in any of the oceans you will get?,"A) tanned
+B) wet
+C) wide
+D) very deep
+E) fish",B,"Егер сіз кез келген мұхитқа секірсеңіз, не аласыз?","A) күнге күйген
+B) су болған
+C) кең
+D) өте терең
+E) балық",B,B,B
+a15d564d0be6996251b5d523ac62db2a,Why is it hard for a young child to read a long book?,"A) knowledge
+B) cover
+C) no pictures
+D) past
+E) many words",E,Неліктен кішкентай балаға ұзақ кітапты оқу қиын?,"A) білім
+B) мұқаба
+C) суреттер жоқ
+D) өткен
+E) көптеген сөздер",E,E,E
+6416dcdf9b8d7d2787f07e7426f86fe4,The ancient seafaring Norse tribesman brought pelts of weasel aboard his what?,"A) rabbit warren
+B) used car lot
+C) chicken coop
+D) cruise
+E) viking ship",E,Ежелгі теңізде жүзетін норвегиялық тайпа мүшесі бортына аққұлақ терілерін неге алып келді?,"A) қоян қорасы
+B) қолданылған көлік алаңы
+C) тауық қорасы
+D) круиз
+E) викинг кемесі",E,E,E
+7bb279e38a1c9eb47a0c7af979a131a2,What is a tactic used to interfere with learning about science?,"A) repetition
+B) sense of wonder
+C) accidents
+D) intimidation
+E) increased knowledge",D,Ғылымды үйренуге кедергі келтіру үшін қолданылатын тактика қандай?,"A) қайталау
+B) таңдану сезімі
+C) кездейсоқтықтар
+D) қорқыту
+E) білімді арттыру",D,D,D
+7bff23f6c12e9136f0961514bebb8cd3,If you aren't well rested and it's a rainy day what might you do?,"A) sleep
+B) write
+C) make bread
+D) stay in bed
+E) enjoy film",D,"Егер сіз жақсы демалмаған болсаңыз және жаңбырлы күн болса, не істер едіңіз?","A) ұйықтау
+B) жазу
+C) нан пісіру
+D) төсекте қалу
+E) фильм көру",D,D,D
+99e0b2ddf88ebed98b977043b7c2331b,John wanted scatter his wife's remains in a lake in the wilderness.  He had to delay before of where he lived.  Where did he live?,"A) mountains
+B) dead body
+C) pay debts
+D) state park
+E) new york",E,Джон әйелінің күлін жабайы табиғаттағы көлге шашқысы келді. Ол тұрған жеріне байланысты кешіктіруге тура келді. Ол қайда тұрды?,"A) таулар
+B) мәйіт
+C) қарыздарды төлеу
+D) мемлекеттік саябақ
+E) Нью-Йорк",E,E,D
+5bba03b425f5abc6e017f194cf074b06,Many homes in this country are built around a courtyard. Where is it?,"A) candidate
+B) spain
+C) lawn
+D) asshole
+E) office complex",B,Бұл елде көптеген үйлер аула айналасында салынған. Бұл қай жерде?,"A) кандидат
+B) испания
+C) көгал
+D) есек
+E) кеңсе кешені",B,B,B
+ec882fc3a9bfaeae2a26fe31c2ef2c07,Where did you meet your best friend since Kindergarten?,"A) friend's house
+B) school
+C) fraternity house
+D) internet cafe
+E) airplane",B,Сіз балабақшадан бері ең жақын досыңызбен қай жерде кездестіңіз?,"A) досымның үйі
+B) мектеп
+C) бауырластық үйі
+D) интернет кафе
+E) ұшақ",B,B,B
+8bbfe8cd056d612e9d3190f278bef287,"If I keep getting crumbs under my table, what should I put under it?","A) conference
+B) neighbor's house
+C) rug
+D) net
+E) card room",C,"Егер менің үстелімнің астына үнемі үгінділер түсіп жатса, мен оның астына не қоюым керек?","A) конференция
+B) көршінің үйі
+C) кілем
+D) тор
+E) карта бөлмесі",C,C,C
+93bbaccb1c46d22124a846b8514de5bc,The bald eagle flew from Mount St Helen's to the Puget Sound and all over what?,"A) washington state
+B) utah
+C) pacific northwest
+D) northern california
+E) the desert",A,Жалаңаш қыран құсы Сент-Хелен тауларынан Пьюджет-Саундқа және барлық жерге ұшты?,"A) Вашингтон штаты
+B) Юта
+C) Тынық мұхитының солтүстік-батысы
+D) Солтүстік Калифорния
+E) Шөл дала",A,A,A
+46351b3a6beb694c5f623583a3b1473d,What language type is someone from Iran likely to use?,"A) books
+B) dard
+C) sky
+D) closed room
+E) television",B,Ираннан келген адам қандай тіл түрін қолдануы мүмкін?,"A) кітаптар
+B) дард
+C) аспан
+D) жабық бөлме
+E) теледидар",B,B,B
+6386bcf080633bc3eeb3317a5435b7b7,The gimmicky low brow TV show was about animals when they what?,"A) sick
+B) mammals
+C) males
+D) bite
+E) attack",E,Жеңіл-желпі телешоу жануарлар туралы не болғанда болды?,"A) ауырады
+B) сүтқоректілер
+C) еркектер
+D) тістейді
+E) шабуылдайды",B,B,E
+24ceaf5c10863e73919b5f1b0f2db38e,"I'm having some food at my party, what will I need to serve it?","A) zoo
+B) pan
+C) bowl
+D) kitchen
+E) spoon",E,"Менің кешімде тамақ бар, оны беру үшін не қажет болады?","A) зоопарк
+B) таба
+C) тостаған
+D) ас үй
+E) қасық",E,E,E
+b4cde6a56fb19afc84876ebf2fb9e71a,Where would you find a toy soldier that is being played with?,"A) toy box
+B) movies
+C) child's hand
+D) toybos
+E) child park",C,Ойыншық сарбазды қай жерден табуға болады?,"A) ойыншық қорабы
+B) фильмдер
+C) баланың қолы
+D) ойыншық қорабы
+E) балалар саябағы",A,A,A
+aa5aa36557a5fbb93391506182f1025c,Some people prefer releasing energy through work while others prefer to release it through what?,"A) motion
+B) stretch
+C) exercise
+D) movement
+E) muscles",C,"Кейбір адамдар энергияны жұмыс арқылы шығаруды жөн көреді, ал басқалары оны не арқылы шығаруды жөн көреді?","A) қозғалыс
+B) созылу
+C) жаттығу
+D) қозғалыс
+E) бұлшықеттер",C,C,C
+ac6378b5e8462dc1bde1155d706213d8,What is likely to have a better school cafeteria?,"A) high school
+B) canteen
+C) polytechnic
+D) large room
+E) all kinds of schools",C,Қайсысы жақсырақ мектеп асханасына ие болуы мүмкін?,"A) орта мектеп
+B) асхана
+C) политехникалық
+D) үлкен бөлме
+E) барлық түрдегі мектептер",A,A,A
+eb4b2cd0f2a69686e5a82250c5806b84,"The child was politely waiting for dessert, he was eventually rewarded for his what?","A) timing
+B) expenditure of time
+C) getting bored
+D) anger
+E) patience",E,"Бала десертті сыпайы күтіп отырды, ол ақырында несі үшін марапатталды?","A) уақытты таңдау
+B) уақыт жұмсау
+C) жалығу
+D) ашу
+E) шыдамдылық",E,E,E
+ec86900559a0faf2aef066e511a4cfa6,what do you fill with ink to write?,"A) squid
+B) fountain pen
+C) pencil case
+D) newspaper
+E) printer",B,жазу үшін сиямен нені толтырасыз?,"A) кальмар
+B) қаламсап
+C) қаламсап қорабы
+D) газет
+E) принтер",B,B,B
+912676495cceefadccbbf8c604486f97,What very large group of western citizens has bees everywhere?,"A) united states
+B) space station
+C) trash can
+D) field of flowers
+E) bouquet of flowers",A,Батыс азаматтарының өте үлкен тобы қай жерде аралар бар?,"A) Америка Құрама Штаттары
+B) ғарыш станциясы
+C) қоқыс жәшігі
+D) гүлдер алаңы
+E) гүл шоғы",D,D,B
+9c596382ea15768f95b5ef9ceec191dc,"The bell rang, and the congregation began to what in to the church?","A) run away
+B) wind instrument
+C) funnel
+D) blunderbuss
+E) associated with telephones",C,"Қоңырау соғылды, және жиналғандар шіркеуге не істеуге кірісті?","A) қашып кету
+B) үрмелі аспап
+C) құйғыш
+D) мылтық
+E) телефондармен байланысты",B,A,B
+f4bb8ecacb9ce89e040f5f76bc79afb3,How can people fulfill their own calorie requirements?,"A) compete with each other
+B) feed themselves
+C) feel lonely
+D) talk to each other
+E) ask a doctor",B,Адамдар өздерінің калория қажеттіліктерін қалай қанағаттандыра алады?,"A) бір-бірімен бәсекелесу
+B) өздерін тамақтандыру
+C) жалғыз сезіну
+D) бір-бірімен сөйлесу
+E) дәрігерден сұрау",B,B,B
+315baf79f8dd3673f67a90de0758240e,Where is the control room that controls a PWR located?,"A) building
+B) factory
+C) window
+D) prison
+E) nuclear power plant",E,PWR-ді басқаратын басқару бөлмесі қайда орналасқан?,"A) ғимарат
+B) зауыт
+C) терезе
+D) түрме
+E) атом электр станциясы",E,E,E
+26bd85f05d29863ed777a4f1a4b8fa63,What would you need if you want to smoke?,"A) you're stupid
+B) kill yourself
+C) roll joint
+D) cigarette
+E) lighter fluid.",D,Шылым шегу үшін не қажет?,"A) сен ақымақсың
+B) өзіңді өлтір
+C) шылым орау
+D) темекі
+E) оттық сұйықтығы.",D,D,D
+a5097b7f56d20217679f28201801476f,Where do you head to travel to a star?,"A) night sky
+B) galaxy
+C) outer space
+D) hollywood
+E) eat cake",C,Жұлдызға саяхатқа қайда барасыз?,"A) түнгі аспан
+B) галактика
+C) ғарыш
+D) голливуд
+E) торт жеу",D,C,C
+636fc69dee35cd357b4191b47e64d0e5,What should I do with a jumping rope?,"A) fatigue
+B) sweating
+C) get tired
+D) tiredness
+E) hopping",E,Секіргіш арқанмен не істеуім керек?,"A) шаршау
+B) терлеу
+C) шаршау
+D) шаршау
+E) секіру",E,E,E
+80930e9df9ac4ad752749a54e7fc124f_1,I house outside the center of a community is said to be where?,"A) city
+B) subdivision
+C) newspaper
+D) residential area
+E) street",B,Қауымдастық орталығынан тыс орналасқан үй қайда деп айтылады?,"A) қала
+B) шағын аудан
+C) газет
+D) тұрғын аймақ
+E) көше",B,D,D
+21763a65765b5405c9a54484c2e54a72,Where are people likely to become impatient?,"A) end of line
+B) buildings
+C) apartment
+D) neighbor's house
+E) address",A,Адамдар қай жерде шыдамсыз болуы мүмкін?,"A) кезектің соңы
+B) ғимараттар
+C) пәтер
+D) көршінің үйі
+E) мекенжай",A,A,A
+60e8f1a86d4063895f340cd1e3c55f50,What is likely to happen to someone who is learning?,"A) overconfidence
+B) effectiveness
+C) knowing more
+D) head grows larger
+E) growth",C,Үйреніп жатқан адамға не болуы мүмкін?,"A) артық сенімділік
+B) тиімділік
+C) көбірек білу
+D) басының үлкеюі
+E) өсу",C,C,C
+d78baca23e0a636a8961e17119047e63,People played a variety of games in the soccer field.  It was the closest thing they had to what?,"A) town
+B) beach
+C) park
+D) near
+E) outside",C,Адамдар футбол алаңында әртүрлі ойындар ойнады. Бұл олардың неге ең жақын болған нәрсесі еді?,"A) қала
+B) жағажай
+C) саябақ
+D) жақын
+E) сыртта",C,C,D
+1ab746bcd100ccf513055fe93c61010b,"The tourist entered Mammoth cave, what state were they in?","A) west virginia
+B) kentucky
+C) rocky hills
+D) scotland
+E) canyon",B,"Турист Мамонт үңгіріне кірді, олар қай штатта болды?","A) Батыс Вирджиния
+B) Кентукки
+C) Тау жоталары
+D) Шотландия
+E) Каньон",B,B,B
+fb35c7aa5694bab2cde4b7257bfae003,What kind of status is the bald eagle given?,"A) outside
+B) world
+C) protection
+D) colorado
+E) america",C,Жалаңаш қыранға қандай мәртебе берілген?,"A) сыртында
+B) әлем
+C) қорғау
+D) колорадо
+E) америка",C,E,E
+07b51b231a9d6a143d8a73e69121e1b1,What is the best way to begin going into trance?,"A) religious experience
+B) closed eyes
+C) loss of control
+D) sleep
+E) hallucination",B,Трансқа кірудің ең жақсы жолы қандай?,"A) діни тәжірибе
+B) жабық көздер
+C) бақылауды жоғалту
+D) ұйқы
+E) галлюцинация",A,A,A
+e145618c2062eb9ea8928fdb0d42185e,Where would I not want a fox?,"A) hen house
+B) english hunt
+C) mountains
+D) outside bedroom window
+E) england",A,Түлкіні қайда қаламас едім?,"A) тауық қорасы
+B) ағылшын аң аулауы
+C) таулар
+D) жатын бөлменің терезесінің сыртында
+E) Англия",D,A,A
+5502dc807d4921679ae1abd0dc9570d6,Why does someone flirt with many people at once?,"A) have sex
+B) get laid
+C) were lonely
+D) attract attention
+E) dance",D,Неліктен біреу бір уақытта көптеген адамдармен флирт жасайды?,"A) жыныстық қатынасқа түсу
+B) жыныстық қатынасқа түсу
+C) жалғыз болды
+D) назар аударту
+E) би билеу",D,D,D
+26ce83b8e9a263079aa8cdbd5258d667,"The man tried to reply to the woman, but he had difficulty keeping track of conversations that he didn't do what to?","A) initiate
+B) ignore
+C) question
+D) answer
+E) ask",A,"Ер адам әйелге жауап беруге тырысты, бірақ ол әңгімелерді бақылауда қиындық көрді, себебі ол не істемеді?","A) бастау
+B) елемеу
+C) сұрау
+D) жауап беру
+E) сұрау қою",E,E,E
+30e66db11e0257a14a17108b90cd69fb,"Jan tested the current, and noticed that it was high.  He thought that the wires might have too much what?","A) later
+B) updated
+C) still
+D) resistance
+E) now",D,"Ян токты тексеріп, оның жоғары екенін байқады. Ол сымдарда тым көп не болуы мүмкін деп ойлады?","A) кейін
+B) жаңартылған
+C) әлі
+D) кедергі
+E) қазір",D,D,D
+80c19c62338edae0e8a1f5c6fec0d29a,Where is food likely to stay dry?,"A) etna
+B) cupboard
+C) oven
+D) stomach
+E) fridge",B,Тамақ қай жерде құрғақ болуы мүмкін?,"A) етна
+B) шкаф
+C) пеш
+D) асқазан
+E) тоңазытқыш",B,B,B
+24eebfa678112100803da16dde148b2d,Where would you put a container can after you buy it?,"A) pantry
+B) store
+C) gas
+D) liquid
+E) garage",E,Контейнерді сатып алғаннан кейін қайда қоясыз?,"A) қойма
+B) дүкен
+C) газ
+D) сұйықтық
+E) гараж",A,A,A
+ec8797b12e3c6666ebe70b2a7680b66f,"Many humans enjoy fishing and enjoy another relaxing activity at the same time, what activity is it?","A) getting tied up lure.
+B) looking for information
+C) get wet
+D) drink beer
+E) sit quietly",D,"Көптеген адамдар балық аулауды ұнатады және сол уақытта тағы бір демалыс әрекетін ұнатады, ол қандай әрекет?","A) қармаққа байлану.
+B) ақпарат іздеу
+C) су болу
+D) сыра ішу
+E) тыныш отыру",E,E,E
+4c968fa73699a38639ba3ffa1745bc21,What event might one buy tickets for seats?,"A) park
+B) show
+C) auditorium
+D) movies
+E) rest area",B,Қандай шараға орындарға билет сатып алуға болады?,"A) парк
+B) шоу
+C) аудитория
+D) кино
+E) демалыс аймағы",B,B,B
+c410a4626dfce4b4cfd3e5937602cd77,"After recovering from the disease, what did the doctor call the patient?","A) healthy
+B) passing around
+C) cure
+D) wellness
+E) healthy",A,Аурудан айыққаннан кейін дәрігер науқасты қалай атады?,"A) сау
+B) айналып өту
+C) емдеу
+D) саулық
+E) сау",A,A,A
+f9243ef9f0037657c337d3c6a9832f05,"The car's steering seem quite loose, but he still considered purchasing it because he needed something small and what?","A) sturdy
+B) faithful
+C) bound
+D) compact
+E) packaged",D,"Көліктің рөлі өте бос сияқты, бірақ ол әлі де оны сатып алуды ойлады, себебі оған кішкентай және қандай нәрсе қажет болды?","A) берік
+B) сенімді
+C) байланған
+D) ықшам
+E) оралған",D,D,D
+715583129369c0c5c9f499c93a1c095e,The potato might be the official vegetable of what?,"A) vegans
+B) kitchen cupboard
+C) restaurants
+D) chicken
+E) maryland",E,Картоп қандай нәрсенің ресми көкөнісі болуы мүмкін?,"A) вегандар
+B) ас үй шкафы
+C) мейрамханалар
+D) тауық
+E) Мэриленд",B,E,E
+88f1fe6cfbcb1a25f25454341c789463,"His compressor needed a new hose, where did he go?","A) garden shed
+B) hardware store
+C) brothel
+D) garage
+E) greenhouse",B,"Оның компрессорына жаңа шланг қажет болды, ол қайда барды?","A) бақша қоймасы
+B) құрылыс дүкені
+C) жезөкшелер үйі
+D) гараж
+E) жылыжай",B,B,B
+1db19a32a3edbff9981976dc9ec800ce,"If a small flying animal picks up a string, where are they taking it?","A) bird's nest
+B) park
+C) guitar
+D) kite
+E) quark",A,"Егер кішкентай ұшатын жануар жіпті алып кетсе, олар оны қайда апарады?","A) құстың ұясы
+B) саябақ
+C) гитара
+D) батпырауық
+E) кварк",A,A,A
+b231a732a3fdf0621391e7e385f8d651,"The child was getting many gifts for his birthday, his father reminded him to do what after opening each one?","A) show appreciation
+B) asking for
+C) exchanging
+D) say thank
+E) smile",D,"Бала туған күніне көп сыйлықтар алып жатты, әкесі оған әрқайсысын ашқаннан кейін не істеу керектігін ескертті?","A) ризашылығын білдіру
+B) сұрау
+C) ауыстыру
+D) рахмет айту
+E) күлімдеу",D,D,D
+42c46e28baf0fc617a07419286178c0a,You can find a monkey in what West African region on the Gulf of Guinea,"A) south american country
+B) rain forest
+C) pay debts
+D) works
+E) nigeria",E,Гвинея шығанағындағы Батыс Африка аймағында маймылды қайдан табуға болады?,"A) оңтүстік америкалық ел
+B) тропикалық орман
+C) қарыздарды төлеу
+D) жұмыс істейді
+E) нигерия",B,B,B
+cbf3dd48b4d591fc872a53cd4b9dd3af,"The hostess was good at her job, she always had a smile when she would what?","A) group people
+B) ready parlor for guests
+C) welcome guests
+D) work room
+E) park",C,"Қожайын өз жұмысын жақсы істеді, ол әрқашан күлімсіреп тұратын, қашан не істейтін?","A) адамдарды топтастыру
+B) қонақтарға арналған бөлмені дайындау
+C) қонақтарды қарсы алу
+D) бөлмеде жұмыс істеу
+E) көлік қою",C,C,C
+047c2d8c65d297b39aa42821c1ca76a9,"Nature can be good and bad for the person who walks, what are some things?","A) seeing bear
+B) see beautiful views
+C) get wet
+D) getting lost
+E) murdered by a landshark",B,"Табиғат жаяу жүретін адам үшін жақсы да, жаман да болуы мүмкін, қандай нәрселер бар?","A) аюды көру
+B) әдемі көріністерді көру
+C) су болу
+D) адасу
+E) жер акулаларының қолынан қаза табу",A,A,A
+31bd05ba62a16ee35217224b98c6baea,What is a person likely to experience after they stop being married to a mean person?,"A) isolation
+B) grief
+C) happiness
+D) relief
+E) angry",C,Адам қатал адаммен некесін тоқтатқаннан кейін не сезінуі мүмкін?,"A) оқшаулану
+B) қайғы
+C) бақыт
+D) жеңілдік
+E) ашу",D,D,D
+fa031cff8e11e75c68d6a99ef0e5ca3a,How can someone be let into a brownstone?,"A) brooklyn
+B) ring
+C) subdivision
+D) bricks
+E) new york city",B,Біреуді қоңыр тастан қалай кіргізуге болады?,"A) бруклин
+B) қоңырау
+C) бөлімше
+D) кірпіштер
+E) нью-йорк қаласы",B,B,D
+7a900bc3a373806b6c56f0e19534005f,What would you do to a crime scene before asking a question?,"A) express information
+B) touch everything
+C) think
+D) give clue
+E) analyse",E,Сұрақ қоймас бұрын қылмыс орнында не істер едіңіз?,"A) ақпарат беру
+B) бәріне қол тигізу
+C) ойлану
+D) айғақ беру
+E) талдау",E,E,E
+15556e26feaa5a8a29c9f30896e535d4,Where do you throw a ball at pins?,"A) bowling alley
+B) football stadium
+C) soccer field
+D) sporting event
+E) sporting goods store",A,Сіз допты кегельдерге қайда лақтырасыз?,"A) боулинг алаңы
+B) футбол стадионы
+C) футбол алаңы
+D) спорттық шара
+E) спорт тауарлары дүкені",A,A,A
+7d7f7d7a8ae3b20ca9fc0da6efe467b4,"The man was going fishing instead of work, what is he seeking?","A) food
+B) relaxation
+C) killing
+D) missing morning cartoons
+E) boredom",B,"Ер адам жұмыс орнына балық аулауға барды, ол нені іздеп жүр?","A) тамақ
+B) демалу
+C) өлтіру
+D) таңертеңгі мультфильмдерді өткізіп алу
+E) зерігу",B,B,B
+bcc5dd6292a64d8fa17cd07c360b335d,"The player lifted his cornet and walked in rhythm, what was the player a member of?","A) museum
+B) high school band
+C) marching band
+D) orchestra
+E) band",C,"Ойыншы корнетін көтеріп, ырғақпен жүрді, ойыншы қандай топтың мүшесі болды?","A) мұражай
+B) орта мектеп тобы
+C) марш тобы
+D) оркестр
+E) топ",C,C,C
+e4976ee741cf4b28b8a42780ffb15774,What is made up of people?,"A) buildings
+B) audience
+C) apartment
+D) classroom
+E) falling down",B,Адамдардан не құралады?,"A) ғимараттар
+B) көрермендер
+C) пәтер
+D) сынып
+E) құлау",B,B,B
+6b0bf501aa68b06ddc5ad72ac5ff68fc,"Though a mouse might prefer your house, you might also see him where?","A) tin
+B) department store
+C) garden
+D) small hole
+E) cupboard",C,"Тышқан сіздің үйіңізді ұнатуы мүмкін, бірақ сіз оны қайда көре аласыз?","A) қаңылтыр банка
+B) әмбебап дүкен
+C) бақша
+D) кішкентай тесік
+E) шкаф",D,D,D
+952cf4b2f7a434b2eeae9f4c7ed89c0a,They were hoping their campaign would create a rise in awareness of the problem and hopefully do what to its effect?,"A) set
+B) fall
+C) park
+D) descend
+E) reduce",E,Олар өздерінің науқаны мәселенің хабардарлығын арттырады және оның әсерін не істейді деп үміттенді?,"A) орнату
+B) құлау
+C) қою
+D) төмендеу
+E) азайту",E,E,E
+487cabfcd776d89748ee7e7bb681ad59,Why do young people swallow semen ?,"A) you're into
+B) prostitute
+C) you're curious
+D) curiosity
+E) heterosexual woman in love",C,Неліктен жастар шәуетті жұтады?,"A) сен қызығасың
+B) жезөкше
+C) сен қызығушылық танытасың
+D) қызығушылық
+E) ғашық гетеросексуал әйел",D,D,D
+0e6a005eec5e6746f3facf4d608bfd8b,A story about World War II would be set when?,"A) book or library
+B) book or magazine
+C) newspaper
+D) past
+E) future",D,Екінші дүниежүзілік соғыс туралы әңгіме қашан орын алады?,"A) кітап немесе кітапхана
+B) кітап немесе журнал
+C) газет
+D) өткен
+E) болашақ",D,D,D
+83dad4fe630fddbdcd5b18ef890c66f2,What is the likely result of buying products in excess?,"A) running out of money
+B) spending money
+C) poverty
+D) comparison shopping
+E) overstocking",E,Өнімдерді артық сатып алудың ықтимал нәтижесі қандай?,"A) ақшаның таусылуы
+B) ақшаны жұмсау
+C) кедейлік
+D) салыстырмалы сауда
+E) артық қор жинау",E,E,E
+ec5a336080e37fbe95d72ad5f9c65ba7,If a person with mental illness stops treatment what will likely happen?,"A) managed
+B) dancing
+C) recur
+D) effectively treated
+E) cause suffering",C,"Психикалық ауруы бар адам емдеуді тоқтатса, не болуы мүмкін?","A) басқарылды
+B) би билеу
+C) қайталану
+D) тиімді емделді
+E) азап шегуіне себеп болу",C,C,C
+d910859b9d1acae40456dbeaa8334bc0,"James slamed into someone playing football, and not for the first time.  He was concerned about the consequences of many what?","A) exhilaration
+B) interactions
+C) head injuries
+D) death
+E) having fun",C,"Джеймс футбол ойнап жүріп біреуге соғылды, және бұл бірінші рет емес. Ол көптеген ненің салдары туралы алаңдады?","A) қуаныш
+B) өзара әрекеттесулер
+C) бас жарақаттары
+D) өлім
+E) көңіл көтеру",C,C,C
+e5ebbe0ea4097bb197ac525b49108362,what is printed with ink and distributed daily?,"A) fountain pen
+B) squid
+C) newspaper
+D) book
+E) printer",C,"күн сайын сиямен басылып, таратылатын не?","A) қалам
+B) кальмар
+C) газет
+D) кітап
+E) принтер",C,C,C
+81e016974d33fe383c848b6c819791cd,For what entity should the government work?,"A) country
+B) democracy
+C) canada
+D) civilization
+E) tax office",A,Үкімет қандай ұйым үшін жұмыс істеуі керек?,"A) ел
+B) демократия
+C) Канада
+D) өркениет
+E) салық басқармасы",A,A,A
+66275550d64d16339c944e6a6d63eb5b,What attraction is sometimes so large that you need a map to find your way around?,"A) amusement park
+B) truck stop
+C) mcdonalds
+D) backpack
+E) classroom",A,"Қай көрнекті орын кейде соншалықты үлкен, сондықтан айналаңызда жол табу үшін карта қажет?","A) ойын-сауық паркі
+B) жүк көліктерінің аялдамасы
+C) мкдональдс
+D) рюкзак
+E) сынып",A,A,A
+26d7d59ef7b9f2e0c2d47419fa5bca91,Where might you see a green field while driving?,"A) kansas
+B) meadow
+C) farmland
+D) countryside
+E) rural area",D,Көлік жүргізу кезінде жасыл алқапты қайдан көруге болады?,"A) Канзас
+B) шабындық
+C) егістік
+D) ауылдық жер
+E) ауылдық аймақ",B,B,D
+235094c966bcbdc94701b41b969f9c75,when communicating with my boss what should i do,"A) misunderstandings
+B) transfer of information
+C) learning
+D) confusion
+E) silence",B,бастығыммен сөйлескенде не істеуім керек,"A) түсінбеушіліктер
+B) ақпарат беру
+C) үйрену
+D) шатасу
+E) үнсіздік",B,B,B
+449de58e919975867255218484a9fc89,"If you want to learn about the world and understand the real reasons behind cultural norms and mores, you have achieved a sense of what?","A) enlightenment
+B) open mind
+C) confusion
+D) smartness
+E) anger",A,"Егер сіз әлем туралы білгіңіз келсе және мәдени нормалар мен әдет-ғұрыптардың шынайы себептерін түсінгіңіз келсе, сіз қандай сезімге қол жеткіздіңіз?","A) ағартушылық
+B) ашық ақыл
+C) шатасу
+D) ақылдылық
+E) ашу",B,A,B
+159d50e325b59c6d29ec371500e173b4,What is a form of anaerobic exercising?,"A) shortness of breath
+B) lift weights
+C) error
+D) fall down
+E) run",E,Анаэробты жаттығудың бір түрі қандай?,"A) ентігу
+B) салмақ көтеру
+C) қате
+D) құлау
+E) жүгіру",B,B,B
+eb6807290df71b040e2c7bcc5d11fdea,"If a person stutters when he experiences anxiety or excitement, he'll have difficult doing what?","A) express information
+B) dance
+C) library
+D) go somewhere
+E) study",A,"Егер адам мазасыздық немесе толқу кезінде кекештенсе, ол не істеуде қиындыққа тап болады?","A) ақпаратты жеткізу
+B) би билеу
+C) кітапхана
+D) бір жерге бару
+E) оқу",A,A,A
+f8a2cbc7189b92a809ce9cd857030621,Stabbing to death of a person is what sort of way to die?,"A) pool of blood
+B) gruesome
+C) charming
+D) being arrested
+E) killing",B,Адамды пышақтап өлтіру қандай өлім түріне жатады?,"A) қанға боялу
+B) сұмдық
+C) сүйкімді
+D) қамауға алу
+E) өлтіру",E,E,E
+a4b4242fab25e86a9d7ffedcaecdcdbe,Where is a good place to store pamphlets in your home or office?,"A) library
+B) health department
+C) mail box
+D) drawer
+E) bookstore",D,Үйіңізде немесе кеңсеңізде парақшаларды сақтауға жақсы орын қайда?,"A) кітапхана
+B) денсаулық сақтау бөлімі
+C) пошта жәшігі
+D) тартпа
+E) кітап дүкені",D,D,D
+ef22ef7aeec70aaa688720f805c1cf38,Billy set aside a block of time for having fun after work. Why might he do this?,"A) happiness
+B) stress relief
+C) pleasure
+D) ocean
+E) may laugh",B,Билли жұмыстан кейін көңіл көтеру үшін уақыт бөлді. Ол мұны не үшін жасауы мүмкін?,"A) бақыт
+B) стрессті жеңілдету
+C) ләззат
+D) мұхит
+E) күлуі мүмкін",B,B,B
+35872be88df5f6c4a6600020266a5458,What type of building has the most top floor?,"A) go down
+B) apartment building
+C) tall building
+D) office building
+E) cabin",C,Қай ғимараттың жоғарғы қабаты ең көп?,"A) төмен түсу
+B) көп қабатты үй
+C) биік ғимарат
+D) кеңсе ғимараты
+E) кабина",B,C,B
+cf33e0f5891ce53a716432be06a46ee1,What would be happening if you are pretending to be a police officer?,"A) fighting
+B) misunderstanding
+C) deception
+D) play
+E) distrust",C,"Егер сіз полиция қызметкері болып көрінсеңіз, не болар еді?","A) төбелес
+B) түсінбеушілік
+C) алдау
+D) ойын
+E) сенімсіздік",B,E,B
+76b6f0765a3b2fba71021f902142edc0,Why would you be watching tv instead of doing something else?,"A) headache
+B) laughter
+C) laziness
+D) erections
+E) wasting time",C,Неліктен сіз басқа нәрсе жасаудың орнына теледидар көріп отырсыз?,"A) бас ауруы
+B) күлкі
+C) жалқаулық
+D) эрекциялар
+E) уақытты босқа өткізу",C,C,E
+8d3dc21a53523850ec80771daaa5ff20,James wanted to find an old underground map from the 50s.  Where might he look for one?,"A) library
+B) subway station
+C) county engineer's office
+D) super market
+E) home",A,Джеймс 50-жылдардағы ескі жер асты картасын тапқысы келді. Ол оны қайдан іздеуі мүмкін?,"A) кітапхана
+B) метро станциясы
+C) округ инженері кеңсесі
+D) супермаркет
+E) үй",A,A,A
+75b8195e23c6bada574f1e41471b8f23,What can happen when you contemplate alone for a long time?,"A) daydream
+B) headache
+C) get ideas
+D) sleep
+E) become distracted",A,Ұзақ уақыт жалғыз ойланған кезде не болуы мүмкін?,"A) қиялдау
+B) бас ауруы
+C) идеялар пайда болу
+D) ұйықтау
+E) алаңдау",C,C,C
+cef855ec07c66a731741026c2839b0d3,"The student explained he had a clue what neuroepithelium was and got really nervous, he then lost his balance because a what issue?","A) tastebud
+B) retina
+C) inner ear
+D) nasal cavity
+E) autistic",C,"Студент нейроэпителийдің не екенін түсіндіріп, қатты қобалжыды, содан кейін ол тепе-теңдігін жоғалтты, себебі қандай мәселе болды?","A) дәм бүршігі
+B) тор қабық
+C) ішкі құлақ
+D) мұрын қуысы
+E) аутистік",C,C,C
+56d0fc282a144565f2c852415c6fa92c,What does a person often feel about someone judging them guilty?,"A) controversy
+B) responsibility
+C) resentment
+D) judge feelings
+E) hurt feelings",C,Адам өзін кінәлі деп айыптаған біреуге қатысты жиі не сезінеді?,"A) дау-дамай
+B) жауапкершілік
+C) реніш
+D) төрешінің сезімдері
+E) ренжіген сезімдер",C,C,C
+3957ac6bab96fc9d4f173ada4692d16b,What do people do when they think too quickly?,"A) jump to conclusions
+B) hurry home
+C) build trust
+D) pay bills
+E) sing",A,Адамдар тым тез ойлағанда не істейді?,"A) қорытынды жасауға асығу
+B) үйге асығу
+C) сенім қалыптастыру
+D) шоттарды төлеу
+E) ән айту",A,A,A
+163d83851ecd4a4144b31b8738e4c335,Women used to be expected to wear a dress but it's now acceptable for them to wear what?,"A) man suit
+B) pants
+C) naked
+D) action
+E) long skirt",B,"Әйелдерден бұрын көйлек кию күтілетін, бірақ қазір оларға не киюге рұқсат етілген?","A) ерлер костюмі
+B) шалбар
+C) жалаңаш
+D) әрекет
+E) ұзын юбка",B,B,B
+651785ed4f7b0bd2e7ca9f70a42acea5,What is happening while he's playing basketball for such a long time?,"A) sweating
+B) pain
+C) having fun
+D) medium
+E) knee injury",A,Ол ұзақ уақыт бойы баскетбол ойнап жатқанда не болып жатыр?,"A) терлеу
+B) ауырсыну
+C) көңіл көтеру
+D) орташа
+E) тізе жарақаты",A,A,A
+1a8fbab20bbdf0bbf3961894662d5f7c,"You have to a lot of thinking while studying a new subject, but it is how you gain what?","A) fatigue
+B) depression
+C) best way
+D) weight
+E) knowledge",E,"Жаңа пәнді оқып жатқанда көп ойлануға тура келеді, бірақ бұл сізге не береді?","A) шаршау
+B) депрессия
+C) ең жақсы жол
+D) салмақ
+E) білім",E,E,E
+8c8052980e357545398d27d1c3c832d8,What has a shelf that does not allow you to see what is inside of it?,"A) chest of drawers
+B) stove
+C) hold alcohol
+D) bookcase
+E) grocery store",A,Ішін көруге мүмкіндік бермейтін сөресі бар не нәрсе?,"A) жәшіктері бар шкаф
+B) пеш
+C) алкоголь сақтау
+D) кітап сөресі
+E) азық-түлік дүкені",A,A,B
+1a8b3c2a46efabcbd506f9cf70886ed0,Which large land mass is home to the most monkeys?,"A) amazon basin
+B) friend's house
+C) lift number 3
+D) research laboratory
+E) african continent",E,Қай үлкен жер массасы ең көп маймылдардың мекені болып табылады?,"A) амазон бассейні
+B) досының үйі
+C) 3-нөмірлі лифт
+D) зерттеу зертханасы
+E) африка құрлығы",E,E,E
+8086f022f2d4a4888ae1f8c7e4541ab9,How can someone die from eating hamburger?,"A) gas
+B) getting full
+C) mad cow disease
+D) death
+E) feel full",C,Адам гамбургер жеп қалай қайтыс болуы мүмкін?,"A) газ
+B) тойып кету
+C) құтырған сиыр ауруы
+D) өлім
+E) тойып қалу",C,C,C
+27f2074270ea8a5e8f5ec2a017ec4a50,"Dan was a farmer with just one heifer.  But that was okay, he only kept her for milk, and he didn't think he'd find good farmland in a place as cold as where?","A) arizona
+B) farm yard
+C) michigan
+D) german field
+E) dairy farm",C,"Дэн тек бір қашары бар фермер еді. Бірақ бұл жақсы болды, ол оны тек сүт үшін ұстады, және ол мұндай суық жерде жақсы егістік жер табамын деп ойламады, қайда?","A) аризона
+B) ферма ауласы
+C) мичиган
+D) неміс алқабы
+E) сүт фермасы",C,C,E
+8b23cd355ffc8b6e7aa5459ffb21b4e0,Where is a dining area likely to be small?,"A) cruise ship
+B) home
+C) mall
+D) restaurant
+E) dark cave",B,Асхана қай жерде кіші болуы мүмкін?,"A) круиздік кеме
+B) үй
+C) сауда орталығы
+D) мейрамхана
+E) қараңғы үңгір",B,E,B
+aa7c4c351cf8d59792aa68e3de339db4,Christians believe you will go to heaven if you're what?,"A) unable to work
+B) born again
+C) change of color
+D) dead
+E) no longer exist",B,"Христиандар сенің жұмаққа баратыныңа сенеді, егер сен қандай болсаң?","A) жұмыс істей алмайтын
+B) қайта туылған
+C) түсін өзгерту
+D) өлген
+E) енді жоқ болу",B,B,B
+aa984e2b487d08889bc0c73bab5ac945,If someone laughs after surprising them they have a good sense of what?,"A) joy
+B) fight
+C) frightened
+D) humor
+E) laughter",D,"Егер біреу оларды таң қалдырғаннан кейін күлсе, олардың қандай сезімі жақсы?","A) қуаныш
+B) күрес
+C) қорқыныш
+D) әзіл
+E) күлкі",A,A,A
+3b9ccdcb1c932c46a38e040d3e6c7f5b,A statue that shoots liquid is called a what?,"A) water fountain
+B) large city
+C) museum
+D) pool
+E) central park",A,Сұйықтық атқылайтын мүсін қалай аталады?,"A) субұрқақ
+B) үлкен қала
+C) мұражай
+D) бассейн
+E) орталық саябақ",A,A,A
+e53ba4c7d2a818bdb6001e6924bc8896,What do the terms need to be in order to compete against someone?,"A) cheat
+B) fair
+C) in competition
+D) practice
+E) sabotage",B,Біреумен бәсекелесу үшін қандай шарттар қажет?,"A) алдау
+B) әділ
+C) бәсекелестік
+D) жаттығу
+E) диверсия",C,C,C
+44120a9443c619d98ce5bfe4bb219c43,Where are traveling clothes often kept?,"A) suitcase
+B) bedroom
+C) closet
+D) draws
+E) dresser",A,Саяхат киімдері жиі қайда сақталады?,"A) чемодан
+B) жатын бөлме
+C) шкаф
+D) тартпалар
+E) комод",A,A,A
+cebc07bd5080cc72862cb333b10d782d,"Joe is a  squirrel, which is an animal. He probably lives in what sort of place.","A) pet store
+B) outside
+C) woodland
+D) ocean
+E) cafe",C,"Джо - жануар болып табылатын тиін. Ол, мүмкін, қандай жерде тұрады.","A) үй жануарлары дүкені
+B) сыртта
+C) орман
+D) мұхит
+E) кафе",C,C,C
+4536489e5d8e02aadc3fcc7a55effe20,Where would you get some maps that you own?,"A) bookstore
+B) library
+C) electrical circuit
+D) cabinet
+E) important when traveling",D,Сіз өзіңізге тиесілі карталарды қайдан аласыз?,"A) кітап дүкені
+B) кітапхана
+C) электр тізбегі
+D) шкаф
+E) саяхаттағанда маңызды",A,E,A
+790b3f583e9bc9424c771691ecc70c20,Where can you buy a two wheel transportation machine?,"A) boat
+B) michigan
+C) train station
+D) bicycle shop
+E) trunk of car",D,Екі дөңгелекті көлік құралын қайдан сатып алуға болады?,"A) қайық
+B) мичиган
+C) теміржол станциясы
+D) велосипед дүкені
+E) көліктің жүксалғышы",D,D,D
+520b0eea9148e3cb4d45aa69a55491eb,What kind of cold storage could you find in your house?,"A) ice pack
+B) freezer
+C) laboratory
+D) warehouse
+E) refrigerator",E,Үйіңізде қандай суық сақтау түрін таба аласыз?,"A) мұз пакеті
+B) мұздатқыш
+C) зертхана
+D) қойма
+E) тоңазытқыш",E,E,E
+3fdc0c422c524c994b9911a17f1f1834,"A showroom feature washers and refrigerators, where is this showroom located?","A) appliance store
+B) vegas
+C) electronics store
+D) car dealership
+E) kitchen",A,"Көрме залы кір жуғыш машиналар мен тоңазытқыштарды көрсетеді, бұл көрме залы қай жерде орналасқан?","A) тұрмыстық техника дүкені
+B) Вегас
+C) электроника дүкені
+D) автокөлік салоны
+E) ас үй",A,A,A
+c7526b682e64f355384631b35cd78fc9,Dan fell off a bar stool.  He did this because he was what than ever before?,"A) kitchen
+B) drunker
+C) tavern
+D) restaurant
+E) shorter",B,Дэн бар табуреткасынан құлап қалды. Ол мұны бұрынғыдан да қандай болғандықтан жасады?,"A) ас үй
+B) масырақ
+C) таверна
+D) мейрамхана
+E) қысқарақ",B,B,B
+3c90a632f46aeab11fbb73aa59a33892,What is something children can do while traveling in a car?,"A) listen to music
+B) watch television
+C) play chess
+D) walk
+E) play basketball",A,Балалар көлікте жүргенде не істей алады?,"A) музыка тыңдау
+B) теледидар көру
+C) шахмат ойнау
+D) жүру
+E) баскетбол ойнау",A,A,A
+57f92025d860e32c4e780c0d51c1c20c,What would vinyl be an odd thing to replace?,"A) pants
+B) record albums
+C) record store
+D) cheese
+E) wallpaper",E,Винилді ауыстыруға оғаш нәрсе не болар еді?,"A) шалбар
+B) жазба альбомдары
+C) жазба дүкені
+D) ірімшік
+E) тұсқағаз",D,D,D
+6bc3ebcfd04965c25bde71339955746c,What is the purpose of playing games for children?,"A) winning
+B) learning
+C) losing
+D) fatigue
+E) skill",B,Балалар үшін ойын ойнаудың мақсаты қандай?,"A) жеңу
+B) үйрену
+C) жеңілу
+D) шаршау
+E) шеберлік",B,B,B
+3f4b48708d08f8bf7bec796531023f9c,"Billy was reading the newspaper as he commuted to work, but once he got to his destination he balled it up and put it somewhere. Where did it put it?","A) trash
+B) floor
+C) subway
+D) ground
+E) lawn",A,"Билли жұмысқа бара жатқанда газет оқып отырды, бірақ ол межелі жерге жеткенде газетті бүктеп, бір жерге қойды. Ол оны қайда қойды?","A) қоқыс
+B) еден
+C) метро
+D) жер
+E) көгал",C,C,C
+c82ed0c2a2e115452b4d596c5faafbcf,What is a treat that you dog will enjoy?,"A) salad
+B) petted
+C) affection
+D) bone
+E) lots of attention",D,Итіңізге ұнайтын сыйлық не?,"A) салат
+B) сипау
+C) мейірім
+D) сүйек
+E) көп көңіл бөлу",D,D,D
+74ad13a03634e79c85382f1b90969b74,What is likely to satisfy someone's curiosity?,"A) hear news
+B) read book
+C) see favorite show
+D) comedy show
+E) go somewhere",A,Біреудің қызығушылығын не қанағаттандыруы мүмкін?,"A) жаңалықтарды есту
+B) кітап оқу
+C) сүйікті шоуды көру
+D) комедия шоуы
+E) бір жерге бару",B,B,A
+a90f9197a13c64089c9ba95bcba275ad,All the power tools like the drill used for fixing cars made for a very loud workplace where?,"A) basement
+B) work shop
+C) tool shed
+D) repair shop
+E) store room",D,Көліктерді жөндеуге арналған бұрғы сияқты барлық электр құралдары өте шулы жұмыс орнын қайда жасады?,"A) жертөле
+B) шеберхана
+C) құрал-сайман қоймасы
+D) жөндеу шеберханасы
+E) қойма бөлмесі",D,D,D
+4319eaa36d256a92b72445c0392f9c94,Where can you find a snake in tall grass?,"A) tree
+B) in a jar
+C) pet shops
+D) feild
+E) tropical forest",D,Жыланды биік шөптің арасында қайдан табуға болады?,"A) ағаш
+B) құмыраның ішінде
+C) үй жануарлары дүкендері
+D) дала
+E) тропикалық орман",D,D,D
+7d937233b4a9043da0b976dbd42d141b,What is a possible outcome for committing murder?,"A) problems
+B) incarceration
+C) trial
+D) imprisonment
+E) prosecution",D,Кісі өлтіру қылмысын жасаудың мүмкін нәтижесі қандай?,"A) мәселелер
+B) қамауға алу
+C) сот процесі
+D) түрмеге қамау
+E) қудалау",D,D,B
+2a0e82bbf1471290c93c8f2a11af197f,The old style pop ups literally let you see the story when you did what?,"A) giggle
+B) visualize
+C) open book
+D) reading
+E) go to movies",C,Ескі стильдегі қалқымалы терезелер сізге оқиғаны қашан көруге мүмкіндік берді?,"A) күлу
+B) елестету
+C) кітап ашу
+D) оқу
+E) киноға бару",C,B,D
+1272e693cf9152e7ac71095c643676b5,In the building where James worked there was a small mezzanine in the auditorium to make more space for seats.  Where might James work?,"A) theater
+B) floors
+C) concert hall
+D) education
+E) school",A,Джеймс жұмыс істеген ғимаратта орындықтарға көбірек орын жасау үшін аудиторияда кішкентай мезонин болды. Джеймс қайда жұмыс істеуі мүмкін?,"A) театр
+B) қабаттар
+C) концерт залы
+D) білім
+E) мектеп",A,A,A
+05490e6c191fbc3c2fe0033ed0bd8aa0,What can you use to store a book while traveling?,"A) library of congress
+B) pocket
+C) backpack
+D) suitcase
+E) synagogue",D,Саяхаттау кезінде кітапты сақтау үшін не қолдануға болады?,"A) конгресс кітапханасы
+B) қалта
+C) рюкзак
+D) чемодан
+E) синагога",D,C,C
+7ea57ee4580042b0a6a40479c8ace3e4,What does a person from Avalon live in?,"A) pain
+B) meaningful work
+C) english house
+D) cotton candy
+E) headache",C,Авалоннан келген адам неде тұрады?,"A) ауырсыну
+B) мағыналы жұмыс
+C) ағылшын үйі
+D) мақта кәмпиті
+E) бас ауруы",C,C,D
+506c2dbfe7b00a82bfdf0507a8de88fb,Who is not famous for a superhighway with no speed limit?,"A) europe
+B) germany
+C) industrialized country
+D) city
+E) america",E,Жылдамдық шектеуі жоқ супермагистральмен танымал емес кім?,"A) еуропа
+B) германия
+C) индустрияланған ел
+D) қала
+E) америка",D,D,D
+59eb56f366407ac7db72996be265883b,Joe owned back taxes as well as what other type of taxes?,"A) anterior
+B) front
+C) main
+D) front
+E) current",E,Джоның артқы салықтарымен қатар тағы қандай салық түрі болды?,"A) алдыңғы
+B) алдыңғы
+C) негізгі
+D) алдыңғы
+E) ағымдағы",E,E,E
+99af85081085e6228c6d78c95be01968,What is a very unlikely side effect of becoming inebriated?,"A) fights
+B) drunkenness
+C) staggering
+D) puke
+E) paralysis",E,Мас болудың өте сирек жанама әсері қандай?,"A) төбелестер
+B) мас болу
+C) теңселу
+D) құсу
+E) сал болу",E,E,E
+7850beb1209c41fabe385cbedc96a61a,What do singers need to do before a show?,"A) warm up
+B) use microphones
+C) clear throats
+D) create music
+E) sound beautiful",A,Әншілер концерт алдында не істеуі керек?,"A) дайындалу
+B) микрофондарды пайдалану
+C) тамағын тазалау
+D) музыка жасау
+E) әдемі дыбыстау",A,A,A
+e75e0c11e2d5a7b634455a1b4b76856c,What would be necessary for getting in shape?,"A) good health
+B) exercise
+C) muscle tone
+D) sweat
+E) feel better",B,Дене бітімін жақсарту үшін не қажет?,"A) жақсы денсаулық
+B) жаттығу
+C) бұлшықет тонусы
+D) терлеу
+E) өзіңді жақсы сезіну",B,B,B
+6a29b657b29e1506284d8328dffbbd21,If you have a child who gets in trouble for being hyperactive you may need to teach them how to what down?,"A) park
+B) calm
+C) being good
+D) good behavior
+E) safe",B,"Егер сіздің балаңыз гиперактивті болғаны үшін қиындыққа тап болса, сіз оларға қалай тынышталуды үйретуіңіз керек?","A) тұрақтау
+B) тынышталу
+C) жақсы болу
+D) жақсы мінез-құлық
+E) қауіпсіз болу",B,B,B
+6efaeb796307036719635242fa5ad0f3,When someone is physically competing what does their body do?,"A) tension
+B) perform better
+C) releases heat
+D) winning or losing
+E) sweat",E,"Біреу физикалық жарысқа түскенде, олардың денесі не істейді?","A) кернеу
+B) жақсырақ орындау
+C) жылу шығару
+D) жеңу немесе жеңілу
+E) терлеу",E,E,E
+17d9bfaee1efac51b1ca240125bc5977,What does a self assured person often do?,"A) acknowledgment
+B) focused
+C) know what time
+D) feel important
+E) trust himself",D,Өзіне сенімді адам жиі не істейді?,"A) мойындау
+B) шоғырланған
+C) уақытты білу
+D) маңызды сезіну
+E) өзіне сену",E,E,E
+d47986deb91d64b2b15d385da3d2f483,"The pitcher stepped on the mound ready to throw, where was he located specifically?","A) hell
+B) baseball stadium
+C) golf course
+D) africa
+E) baseball diamond",E,"Лақтырушы лақтыруға дайын болып, төбешікке шықты, ол нақты қай жерде орналасқан?","A) тозақ
+B) бейсбол стадионы
+C) гольф алаңы
+D) африка
+E) бейсбол алаңы",E,E,B
+d6bb990e8c409d2b3af37a2da198e01f,Kramer wrote a self-referential book.  What might that book be about?,"A) counter
+B) coffee table
+C) school room
+D) backpack
+E) bedside table",B,Крамер өзін-өзі сілтейтін кітап жазды. Бұл кітап не туралы болуы мүмкін?,"A) есептегіш
+B) кофе үстелі
+C) мектеп бөлмесі
+D) рюкзак
+E) төсек жанындағы үстел",A,B,B
+1d44fb5f4b7f1e23ff6c1c083db81ba1,What are people likely to want to do with their friends?,"A) own land
+B) own home
+C) talk to each other
+D) believe in god
+E) spend time",E,Адамдар достарымен не істегісі келеді?,"A) жерге иелік ету
+B) үйге иелік ету
+C) бір-бірімен сөйлесу
+D) құдайға сену
+E) уақыт өткізу",E,E,E
+e63a210053cf7f961ca0b5a7e6eb355d,The end of the barrel of what primitive firearm is bell shaped?,"A) barbell
+B) funnel
+C) blunderbuss
+D) wind instrument
+E) kettlebell",C,Қандай қарапайым атыс қаруының ұңғысының соңы қоңырау тәрізді?,"A) штанга
+B) құйғыш
+C) мушкетон
+D) үрмелі аспап
+E) гиря",C,C,C
+b5baf77d3855935c87f01f5fb2216667,"If a person were going to bed, what would be their goal?","A) lazy
+B) insomnia
+C) rest
+D) falling asleep
+E) dreaming of",D,"Егер адам ұйықтауға жатса, оның мақсаты қандай болар еді?","A) жалқау
+B) ұйқысыздық
+C) демалу
+D) ұйықтап қалу
+E) армандау",C,C,D
+fd243c96edec5b1b8520d5bfeddc6622,Where can I put this penny to save for later?,"A) piggy bank
+B) wallet
+C) toy
+D) ground
+E) pocket",A,Бұл тиынды кейінге сақтау үшін қайда қоюға болады?,"A) шошқа банкі
+B) әмиян
+C) ойыншық
+D) жер
+E) қалта",A,A,A
+273d0134e8ce53d4ebcf41ca7fde02af,Where could you find hundreds of thousands of home?,"A) field
+B) neighborhood
+C) star can
+D) city or town
+E) apartment building",D,Сіз жүздеген мың үйді қайдан таба аласыз?,"A) дала
+B) көршілестік
+C) жұлдызды банка
+D) қала немесе ауыл
+E) пәтер ғимараты",D,D,D
+f11a2975898033893d6a38f75d791fdf,What can machines do that humans cannot?,"A) fail to work
+B) perform work
+C) answering questions
+D) see work
+E) fly",E,Машиналар адамдар жасай алмайтын не істей алады?,"A) жұмыс істемеу
+B) жұмыс орындау
+C) сұрақтарға жауап беру
+D) жұмысты көру
+E) ұшу",E,E,E
+f232bfea2a7611999688a252e476c040,"They had a theory of what they could do in t he big game, so over and over they would what?","A) park
+B) practice
+C) fact
+D) practical
+E) practise",B,"Үлкен ойында не істей алатындары туралы теориялары болды, сондықтан олар қайта-қайта не істейтін еді?","A) парк
+B) жаттығу
+C) факт
+D) практикалық
+E) жаттығу жасау",D,E,D
+820df15b615d221e38a71fcc44461085,Where would your hear a bass clarinet along side other wood wind instruments?,"A) opera house
+B) school band
+C) music store
+D) orchestra
+E) bathroom stall",D,Бас кларнетті басқа ағаш үрмелі аспаптармен бірге қай жерде естуге болады?,"A) опера үйі
+B) мектеп оркестрі
+C) музыкалық дүкен
+D) оркестр
+E) дәретхана кабинасы",D,D,D
+029e36d8f65982b142c319064dc5e32f,What are people likely to do when an unexpected decent outcome occurs?,"A) kill each other
+B) thank god
+C) experience pain
+D) hatred
+E) talk to each other",B,Адамдар күтпеген жақсы нәтиже болғанда не істеуі мүмкін?,"A) бір-бірін өлтіру
+B) құдайға шүкір айту
+C) ауырсыну сезіну
+D) жек көру
+E) бір-бірімен сөйлесу",B,B,B
+a2cd03ed068f6d613e85f3a60f4db0a1,"The traveling business man was glad his credit card had perks, it offset the high prices for travel from a what?","A) car
+B) theatre
+C) airport
+D) hotel
+E) disneyland",C,"Іскер саяхатшы өзінің несие картасында артықшылықтар бар екеніне қуанды, бұл саяхаттың жоғары бағасын неден өтеді?","A) көлік
+B) театр
+C) әуежай
+D) қонақүй
+E) диснейленд",D,D,D
+d6ff2d749494d89e9c7a53f587c519f4,"The couple explained they were having trouble communicating, it seemed every conversation took great what?","A) thinking
+B) effort
+C) laugh
+D) force
+E) medium",B,"Жұп олар қарым-қатынас жасауда қиындықтарға тап болғанын түсіндірді, әрбір әңгіме үлкен не талап ететіндей көрінді?","A) ойлау
+B) күш
+C) күлкі
+D) мәжбүрлеу
+E) орташа",B,B,B
+ad769851a59375865607452d3bf2a45d,Why does someone want to examine thing closely?,"A) buy
+B) learn about
+C) buy
+D) complex
+E) interesting",B,Неліктен біреу нәрсені мұқият зерттегісі келеді?,"A) сатып алу
+B) білу
+C) сатып алу
+D) күрделі
+E) қызықты",B,B,B
+20a3bb788cf408d9a3e25e610fe60905,In what kind of environment does an anemone live?,"A) nursery
+B) south pacific
+C) desert
+D) sea water
+E) atlantic ocean",D,Анемон қандай ортада өмір сүреді?,"A) бала-бақша
+B) оңтүстік тынық мұхиты
+C) шөл
+D) теңіз суы
+E) атлант мұхиты",D,D,D
+9b4bbf3c4d24ecdb4b27320afb706808,Where would you find people standing in a line outside?,"A) bus depot
+B) end of line
+C) opera
+D) neighbor's house
+E) meeting",A,Сыртта кезекте тұрған адамдарды қайдан табуға болады?,"A) автобус депосы
+B) кезектің соңы
+C) опера
+D) көршінің үйі
+E) жиналыс",C,A,C
+e89a2762d578cb7bc2cc0a5b2a16d933,What kind of feelings does buying presents for others create?,"A) tears
+B) please
+C) like
+D) thank
+E) make happy",E,Басқаларға сыйлық сатып алу қандай сезімдер тудырады?,"A) көз жасы
+B) қуаныш
+C) ұнату
+D) алғыс айту
+E) бақытты ету",B,B,B
+6195ed74cf445cb5d991e1076a080dde,There was many a bottle to choose from behind the cashier where?,"A) grocery store
+B) diaper bag
+C) gas station
+D) liquor store
+E) medicine cabinet",D,Кассирдің артында қай жерде таңдау үшін көптеген бөтелкелер болды?,"A) азық-түлік дүкені
+B) жөргек сөмкесі
+C) жанармай құю станциясы
+D) ішімдік дүкені
+E) дәрі-дәрмек шкафы",D,D,D
+f21ef67b31bd36a3174b6b4c7b4bbc7b,What does a kindergarten teacher do before nap time?,"A) lower expectations
+B) encourage
+C) fear
+D) time test
+E) tell story",E,Балабақша мұғалімі ұйқы уақыты алдында не істейді?,"A) күтілімдерді төмендету
+B) жігерлендіру
+C) қорқыту
+D) уақытты тексеру
+E) әңгіме айту",E,E,E
+5496c7293f653120e5a5213db2d7b103,Where is beer drank by people watching sticks and pucks?,"A) bottle
+B) refrigerator
+C) hockey game
+D) casino
+E) bar",C,"Адамдар таяқтар мен шайбаларды қарап отырып, сыраны қайда ішеді?","A) бөтелке
+B) тоңазытқыш
+C) хоккей ойыны
+D) казино
+E) бар",C,C,C
+f18833ace65a54709377134168b457a9,Where might the stapler be if I cannot find it?,"A) office building
+B) office supply store
+C) desk drawer
+D) with dwight
+E) desktop",C,"Егер мен степлерді таба алмасам, ол қайда болуы мүмкін?","A) кеңсе ғимараты
+B) кеңсе жабдықтары дүкені
+C) үстел тартпасы
+D) дуайтпен бірге
+E) үстел үсті",C,C,C
+8becd2ee4e86258566a9c2b0e6d9544e,If you're going to a party in a new town what are you hoping to make?,"A) getting drunk
+B) making new friends
+C) new contacts
+D) doing drugs
+E) set home",B,"Егер сіз жаңа қаладағы кешке барсаңыз, не жасағыңыз келеді?","A) мас болу
+B) жаңа достар табу
+C) жаңа байланыстар орнату
+D) есірткі қолдану
+E) үйге оралу",B,B,B
+43cec0fff43a976fade9112d02b66021,What green area is a marmot likely to be found in?,"A) countryside
+B) great plains
+C) encyclopedia
+D) jungle
+E) north america",A,Сусар қай жасыл аймақта болуы мүмкін?,"A) ауылдық жер
+B) ұлы жазықтар
+C) энциклопедия
+D) джунгли
+E) солтүстік америка",D,D,D
+489a082aab43dd1a53f3f1f89c2365ed,Children's behavior is a direct reflection of their what?,"A) parents
+B) old people
+C) play ball
+D) many adults
+E) grown ups",A,Балалардың мінез-құлқы олардың нені тікелей көрсетеді?,"A) ата-аналары
+B) қарт адамдар
+C) доп ойнау
+D) көптеген ересектер
+E) ересектер",A,A,A
+f0c4622a082eb9ad0690dd36dcf61297,What do geese do every fall in fields?,"A) guard house
+B) fly
+C) eat
+D) follow ultralight airplane
+E) group together",E,Қаздар әр күзде егістіктерде не істейді?,"A) үйді күзетеді
+B) ұшады
+C) жейді
+D) жеңіл ұшақты қуады
+E) топтасады",C,C,C
+fee5f4e9d8e37f0183e36eb9b8dbcbb9,"Joan wants to cook a potato, where should she place it?","A) boiling water
+B) paper bag
+C) restaurants
+D) underground
+E) cupboard",A,"Джоан картоп пісіргісі келеді, оны қайда қою керек?","A) қайнаған су
+B) қағаз қап
+C) мейрамханалар
+D) жер астында
+E) шкаф",A,A,A
+bbe0a1ad733e5699f991ff91b3712a6f,Why would you take a bus to work?,"A) commute
+B) flying
+C) get somewhere
+D) travel
+E) go home",A,Неліктен жұмысқа автобуспен барасыз?,"A) қатынау
+B) ұшу
+C) бір жерге жету
+D) саяхаттау
+E) үйге бару",A,A,A
+1342c6aec9f5179d6ea6fa5fefbe5188,One of the potential hazards of attending school is what?,"A) cooties
+B) get smart
+C) boredom
+D) colds and flu
+E) taking tests",D,Мектепке барудың ықтимал қауіптерінің бірі не?,"A) бит
+B) ақылды болу
+C) зерігу
+D) суық тию және тұмау
+E) тест тапсыру",D,D,D
+70701f5d1d62e58d5c74e2e303bb4065,What is someone doing if he or she is sitting quietly and his or her eyes are moving?,"A) reading
+B) meditate
+C) fall asleep
+D) bunk
+E) think",A,"Біреу тыныш отырып, көзі қозғалса, ол не істеп отыр?","A) оқу
+B) медитация жасау
+C) ұйықтап кету
+D) жасыру
+E) ойлану",A,A,A
+3b4dcfcab4726496bdbe9535cc669082,"He has lactose intolerant, but was eating dinner made of cheese, what followed for him?","A) digestive
+B) feel better
+C) sleepiness
+D) indigestion
+E) illness",D,"Оның лактозаға төзімсіздігі бар, бірақ ірімшіктен жасалған кешкі асты жеді, оған не болды?","A) ас қорыту
+B) өзін жақсы сезіну
+C) ұйқышылдық
+D) асқазанның бұзылуы
+E) ауру",D,D,D
+8b25332de2894ab38784235838d38cec,"If the president wanted to ban snakes, where would he issue such a decree?","A) street
+B) tropical forest
+C) garden of eden
+D) new mexico
+E) white house",E,"Егер президент жыландарды тыйым салғысы келсе, ол мұндай жарлықты қайда шығарар еді?","A) көше
+B) тропикалық орман
+C) жұмақ бағы
+D) жаңа мексика
+E) ақ үй",E,E,E
+335b51bd3a8ada014bbe6754dcbd425f,Where are there likely to be a variety of flats to choose from?,"A) london
+B) apartment building
+C) city
+D) falling down
+E) town",C,Таңдау үшін әртүрлі пәтерлер қай жерде болуы мүмкін?,"A) лондон
+B) пәтер үйі
+C) қала
+D) құлап жатқан
+E) қала/қалашық",B,E,E
+38e61d4be0da46b3cbbd76dc20bce677,Mandy lived in a train station.  She longed to see distant places. Where might she imagine going?,"A) downtown area
+B) centre of town
+C) bedroom
+D) europe
+E) big city",D,Мэнди теміржол станциясында тұрды. Ол алыс жерлерді көргісі келді. Ол қайда баруды елестетуі мүмкін?,"A) қаланың орталығы
+B) қаланың ортасы
+C) жатын бөлме
+D) еуропа
+E) үлкен қала",D,D,D
+5393ba1ce298bd1ac4744c07d7373a9c,"When you get an F, you fail. If you get A's you are?","A) passed
+B) completing
+C) passed
+D) passing
+E) succeeding",D,"Егер сіз F алсаңыз, сіз құлайсыз. Егер сіз A алсаңыз, сіз?","A) өтті
+B) аяқтау
+C) өтті
+D) өту
+E) жетістікке жету",A,A,D
+061f326d2a87a10da6316b55bd5522bd,John bought a new water hose.  But he found his old one near his car.  Where did he find the old one?,"A) garden shed
+B) hardware store
+C) greenhouse
+D) garage
+E) in a van",D,Джон жаңа су шлангысын сатып алды. Бірақ ол ескі шлангысын көлігінің жанынан тапты. Ол ескі шлангысын қайдан тапты?,"A) бақша сарайы
+B) құрылыс дүкені
+C) жылыжай
+D) гараж
+E) фургонның ішінде",D,D,D
+0c1efb38e023ee9725486fbec4f2d797,"He looked at the field of pumps, all slowing churning oil out of the what?","A) manual
+B) street
+C) restaurant
+D) ground
+E) service station",D,"Ол мұнайды баяу шығарып жатқан сорғылар алаңына қарады, барлығы неден?","A) нұсқаулық
+B) көше
+C) мейрамхана
+D) жер
+E) қызмет көрсету станциясы",D,D,D
+c036ce033bc429ac1aba0a6ac8d057e1,"Something had the nerve to break into the garbage last night, what did it?","A) eyes
+B) animal
+C) fingertips
+D) brainstem
+E) human body",B,"Бір нәрсе өткен түні қоқысқа кіріп кетті, ол не болды?","A) көздер
+B) жануар
+C) саусақ ұштары
+D) ми сабауы
+E) адам денесі",B,B,B
+3a6140e475cbbd3ee1da5ba9a6953597_1,Where would you expect to find a dictionary along side other writings you can borrow?,"A) classroom
+B) shelf
+C) explain meaning of words
+D) table
+E) library",E,Сіз сөздікті басқа қарызға алуға болатын жазбалармен қайдан табасыз деп ойлайсыз?,"A) сынып
+B) сөре
+C) сөздердің мағынасын түсіндіру
+D) үстел
+E) кітапхана",E,E,E
+c5ad166ab5c5f5f067aa02b20f482523,"Of all the sports, Billy enjoys football, but what does his concerned mother think of the sport?","A) very entertaining
+B) fun
+C) slow
+D) competitive
+E) violent",E,"Барлық спорт түрлерінің ішінен Билли футболды ұнатады, бірақ оның алаңдаулы анасы бұл спорт түрі туралы не ойлайды?","A) өте қызықты
+B) көңілді
+C) баяу
+D) бәсекеге қабілетті
+E) зорлықшыл",E,E,E
+9d97e2bb458d93a8bafe4380b08727e3,Where is there a telephone book in almost every room?,"A) at hotel
+B) house
+C) library
+D) bedsit
+E) closet",A,Дерлік әр бөлмеде телефон кітапшасы қайда бар?,"A) қонақүйде
+B) үйде
+C) кітапханада
+D) жатақханада
+E) шкаф ішінде",A,A,A
+7b7941b883328ad39048d4dfb1eb5623,Sally thought that competing wasn't worth the risk. If she pushed more what might happen?,"A) pressure
+B) trying harder
+C) put harder
+D) enemies
+E) death",E,"Салли жарысқа қатысу тәуекелге тұрмайды деп ойлады. Егер ол көбірек күш салса, не болуы мүмкін?","A) қысым
+B) көбірек тырысу
+C) қаттырақ қою
+D) жаулар
+E) өлім",B,B,B
+63db79b940f36f0333377f85c19eacb2,"I listened to lecture intensely, what is my goal?","A) gain confidence
+B) concentrate
+C) get attention
+D) pay attention
+E) stop talking",B,"Мен дәрісті мұқият тыңдадым, менің мақсатым қандай?","A) сенімділікті арттыру
+B) назар аудару
+C) назар аударту
+D) зейін қою
+E) сөйлеуді тоқтату",D,D,D
+dbcedaa6a6f1f68bc8f2bf7aef23294e,What do people feel after having sex that requires them to shower?,"A) bedroom
+B) pleasant
+C) obesity
+D) painful
+E) dirty",E,"Адамдар жыныстық қатынастан кейін не сезінеді, оларды душ қабылдауға мәжбүрлейтін?","A) жатын бөлме
+B) жағымды
+C) семіздік
+D) ауырсыну
+E) лас",E,E,E
+fb54a118d46b2776e435d411ae3dd9c8,What happens when you go somewhere and forget something at home?,"A) arriving
+B) arrive there
+C) turn around
+D) go back
+E) fart",D,"Бір жерге барып, үйде бірдеңе ұмытып кеткенде не болады?","A) келу
+B) сол жерге жету
+C) кері бұрылу
+D) қайтып бару
+E) пысқырту",D,D,D
+cce13a32fedb997c017d3fac87c34912,How might releasing energy that has built up feel?,"A) damage
+B) wonderful
+C) exhaustion
+D) orgasm
+E) lazy",B,Жиналған энергияны босату қандай сезім тудыруы мүмкін?,"A) зиян
+B) керемет
+C) шаршау
+D) оргазм
+E) жалқау",D,D,D
+113aaea2b1a27a976547f54e531d99bb,Where is a doormat likely to be in front of?,"A) facade
+B) front door
+C) doorway
+D) entrance porch
+E) hallway",B,Есіктің алдына төсеніш қай жерде болуы мүмкін?,"A) фасад
+B) алдыңғы есік
+C) есік аузы
+D) кіреберіс айван
+E) дәліз",C,C,C
+bdcfbe2132295d437e4c5701085f19c0,If you are prone to postpone work what will you have to do in order to finish on time?,"A) eat
+B) hasten
+C) antedate
+D) bring forward
+E) advance",B,"Егер сіз жұмысты кейінге қалдыруға бейім болсаңыз, уақытында аяқтау үшін не істеуіңіз керек?","A) жеу
+B) асығу
+C) алдын ала белгілеу
+D) алға жылжыту
+E) ілгерілеу",C,C,C
+ea6d1a739ea841be282e13789270651e,What makes someone a nomad?,"A) unpleasant things
+B) hangnail
+C) have no home
+D) have no car
+E) schizophrenia",C,Біреуді көшпенді ететін не?,"A) жағымсыз нәрселер
+B) тырнақтың жарылуы
+C) үйдің болмауы
+D) көліктің болмауы
+E) шизофрения",C,C,C
+79c3378b7660d328902d7c0ad442a37f,What did the policemen do when they heard a cry from a distance?,"A) run away
+B) hurry along
+C) fine motorists
+D) direct traffic
+E) help",E,Полицейлер алыстан айқай естігенде не істеді?,"A) қашып кетті
+B) асықты
+C) жүргізушілерге айыппұл салды
+D) қозғалысты реттеді
+E) көмектесті",B,B,B
+af836abc58e0daf36df1d8d6830b70c5,What does someone typically feel when applying for a job?,"A) horror
+B) anxiety and fear
+C) rejection
+D) increased workload
+E) being employed",B,Біреу жұмысқа орналасуға өтініш бергенде әдетте не сезінеді?,"A) қорқыныш
+B) мазасыздық пен үрей
+C) бас тарту
+D) жұмыс жүктемесінің артуы
+E) жұмысқа орналасу",B,B,B
+3ed6391c539e6daa5b5fdb1b6d5d8ace,What does every person want?,"A) life partner
+B) larger house
+C) second chances
+D) money
+E) headache",A,Әр адам не қалайды?,"A) өмірлік серіктес
+B) үлкен үй
+C) екінші мүмкіндік
+D) ақша
+E) бас ауруы",D,A,E
+6bd176cc91a2a2088807ec446c008856,where is a good place to obtain new soap?,"A) supermarket
+B) washing
+C) cabinet
+D) own home
+E) sink",A,жаңа сабын алу үшін жақсы орын қайда?,"A) супермаркет
+B) жуу
+C) шкаф
+D) өз үйі
+E) раковина",A,A,A
+e68fb2448fd74e402aae9982aa76e527,Where are  you likely to find a hamburger?,"A) fast food restaurant
+B) pizza
+C) ground up dead cows
+D) mouth
+E) cow carcus",A,Сіз гамбургерді қайдан таба аласыз?,"A) тез тамақтану мейрамханасы
+B) пицца
+C) өлген сиырлардың еті
+D) ауыз
+E) сиырдың өлігі",A,A,A
+4779be55f47a301debfc472e4fc2c7b6,What are you using if there are speakers strapped on your ears?,"A) take it all in
+B) headphones
+C) desktop
+D) conference
+E) concert",B,"Құлағыңызға динамиктер байланған болса, сіз не қолданасыз?","A) бәрін қабылдау
+B) құлаққап
+C) үстел үсті компьютер
+D) конференция
+E) концерт",B,B,B
+420641003ba20b966887dfac684efb17,"If you spend a long time shopping in uncomfortable shoes, you might develop what?","A) tiredness
+B) calluses
+C) bankruptcy
+D) standing in line
+E) sleepyness",B,"Егер сіз ыңғайсыз аяқ киіммен ұзақ уақыт сауда жасасаңыз, не дамуы мүмкін?","A) шаршау
+B) мүйізгек
+C) банкроттық
+D) кезекте тұру
+E) ұйқышылдық",B,B,B
+bd47827418d5b8d7fb3502a398644435,"The hostess greeted the employees to the program, she then led them to their what?","A) group people
+B) welcome guests
+C) occupations
+D) work room
+E) seat customer",D,"Жүргізуші қызметкерлерді бағдарламаға қарсы алды, содан кейін оларды қайда апарды?","A) топ адам
+B) қонақтарды қарсы алу
+C) кәсіптер
+D) жұмыс бөлмесі
+E) орындық клиент",D,D,D
+bbcef409e0acb71b515acc144d5b402c_1,Where would you get jeans and other wearable items to take home with you?,"A) shopping mall
+B) museum
+C) laundromat
+D) clothing store
+E) bedroom",D,Сіз джинсы мен басқа да киюге болатын заттарды үйге қай жерден алып кетер едіңіз?,"A) сауда орталығы
+B) мұражай
+C) кір жуатын орын
+D) киім дүкені
+E) жатын бөлме",D,D,D
+78276a4eab6e8d6b9ae3749211816977,"Sean was a wreck.  He  loved to build houses, but in his current state, he couldn't do what?","A) stand up
+B) produce
+C) construct
+D) make
+E) build",C,"Шон қирап қалды. Ол үйлер салуды жақсы көретін, бірақ қазіргі күйінде не істей алмады?","A) тұру
+B) өндіру
+C) құрастыру
+D) жасау
+E) салу",E,E,E
+d6c002d46d9bfa466637cec4a134f332,How many hours are in a day?,"A) week
+B) bright
+C) night
+D) twenty four
+E) year",D,Бір тәулікте неше сағат бар?,"A) апта
+B) жарық
+C) түн
+D) жиырма төрт
+E) жыл",D,D,D
+3d1a67f87b34303f97549ba83e5521c2,"The terrace had Kanji written on it, indicating that it was made where?","A) japan
+B) rice paddy
+C) garden
+D) michigan
+E) italy",A,"Террасаның үстінде канжи жазуы бар еді, бұл оның қай жерде жасалғанын көрсетеді?","A) жапония
+B) күріш алқабы
+C) бақша
+D) мичиган
+E) италия",A,A,A
+2c9f4a98ce774cd734b6e384d95051a7,"They children loved having a back yard, and the parents loved that it was a safe what?","A) suburb
+B) neighborhood
+C) back of house
+D) roundabout
+E) property",B,"Балалар артқы аулада болғанды жақсы көрді, ал ата-аналар оның қауіпсіз екенін жақсы көрді, ол не?","A) қала маңы
+B) көршілестік
+C) үйдің артқы жағы
+D) айналма жол
+E) мүлік",C,C,C
+3d9c3253e24fb108cea9083e8a853cf2,"Bill wanted to pick up a stranger, preferably a responsible one with kids.  Where might he look for one?","A) bus station
+B) paradise
+C) train station
+D) park
+E) sea",D,"Билл бейтаныс адамды, мүмкіндігінше балалары бар жауапты адамды тапқысы келді. Ол қай жерден іздеуі мүмкін?","A) автобус станциясы
+B) жұмақ
+C) теміржол станциясы
+D) саябақ
+E) теңіз",D,D,D
+668dc6bce771b10cbf6336f3ec76520a,Why do people play chess on the weekends?,"A) satisfaction
+B) have fun
+C) thrilling
+D) made
+E) smart",B,Адамдар неге демалыс күндері шахмат ойнайды?,"A) қанағаттану
+B) көңіл көтеру
+C) қызықты
+D) жасалған
+E) ақылды",B,B,B
+52ab95f9216f1994e37cc08f7f258f13,What happens when driving?,"A) lack of fuel
+B) paint scratching
+C) wheels turning
+D) tire wear
+E) traffic accident",C,Көлік жүргізгенде не болады?,"A) жанармайдың жетіспеуі
+B) бояудың сызылуы
+C) дөңгелектердің айналуы
+D) шиналардың тозуы
+E) жол-көлік оқиғасы",C,C,C
+b9b82aa4c236cd342ff95455b8516a42,Sitting down quickly after eating beans could lead to what?,"A) flatulence
+B) happiness
+C) laziness
+D) fall asleep
+E) comfort",A,Бұршақ жегеннен кейін тез отыру неге әкелуі мүмкін?,"A) жел шығару
+B) бақыт
+C) жалқаулық
+D) ұйықтап қалу
+E) жайлылық",A,A,A
+a4892551cb4beb279653ae52d0de4c89,What island country is ferret popular?,"A) own home
+B) north carolina
+C) great britain
+D) hutch
+E) outdoors",C,Қай арал елінде феррет танымал?,"A) өз үйі
+B) солтүстік каролина
+C) ұлыбритания
+D) тор
+E) ашық ауада",C,C,C
+e1f90cd664a6b150291e6d8444d85c54,I did not need a servant.  I was not a what?,"A) freedom
+B) rich person
+C) hired help
+D) in charge
+E) busy",B,Маған қызметші қажет болмады. Мен не болмадым?,"A) еркіндік
+B) бай адам
+C) жалдамалы көмекші
+D) жауапты
+E) бос емес",B,B,B
+15b090801256085ad465e74af47cbee9,Why are dogs often known as man's best friend?,"A) aggressive
+B) friendly
+C) very loyal
+D) found outside
+E) very smart",C,Иттер неге көбінесе адамның ең жақын досы деп аталады?,"A) агрессивті
+B) достық
+C) өте адал
+D) сыртта табылған
+E) өте ақылды",C,C,C
+28357ebf85f8bb82b6a3210c4397e0aa,Where would you put a plate immediately after eating from it?,"A) kitchen cupboard
+B) floor
+C) table
+D) dishwasher
+E) flea market",D,Тарелкеден жегеннен кейін оны қайда қоясыз?,"A) ас үй шкафы
+B) еден
+C) үстел
+D) ыдыс жуғыш машина
+E) базар",D,D,D
+e18dd9ffc7b7934c39f2b5e9dee5a8c2,"The person wasn't bothered by the weather, she had remembered to bring her what?","A) read book
+B) own house
+C) apartment
+D) more rice
+E) warm coat",E,"Адамды ауа райы мазаламады, ол өзімен не әкелуді есіне алды?","A) оқылған кітап
+B) өз үйі
+C) пәтер
+D) көбірек күріш
+E) жылы пальто",E,E,E
+27c523eb9099d2eec66296558eb4448e,"The child didn't know the problems his mother was going through, all he had was what for her?","A) care
+B) balloon
+C) loved
+D) become adult
+E) learn",C,"Бала анасының қандай қиындықтарға тап болғанын білмеді, ол үшін не болды?","A) қамқорлық
+B) шар
+C) сүйікті
+D) ересек болу
+E) үйрену",D,D,D
+f794e376672c98ac25d8f70506a26e68,Where can you find a dogs house?,"A) found outside
+B) faithful
+C) frightening
+D) cold
+E) four legs",A,Иттің үйін қайдан табуға болады?,"A) сыртта табылды
+B) адал
+C) қорқынышты
+D) суық
+E) төрт аяқ",A,A,A
+83c25b9a5db5f9b3fd1ff6c7453d23d0,What does a gambler do that causes him or her to be unhappy?,"A) play cards
+B) double winnings
+C) lose money
+D) play poker
+E) to win the prize",C,Ойыншыны бақытсыз ететін не нәрсе?,"A) карта ойнау
+B) ұтысты екі есе көбейту
+C) ақшаны жоғалту
+D) покер ойнау
+E) жүлдені ұту",C,C,C
+2ec7f8fe7948f9997e73f9bff7ba6e05,What do most companies not want to have relative to demand?,"A) oversupply
+B) plentitude
+C) stockpile
+D) superabundance
+E) busy",A,Көптеген компаниялар сұранысқа қатысты нені қаламайды?,"A) артық ұсыныс
+B) молшылық
+C) қор жинау
+D) аса молшылық
+E) бос емес",A,A,A
+52f3eb6c9a6b9671050fc769d465ed03,How are the conditions for someone who is living in a homeless shelter?,"A) sometimes bad
+B) happy
+C) respiration
+D) growing older
+E) death",A,Үйсіздерге арналған баспанада тұратын адамның жағдайы қандай?,"A) кейде жаман
+B) бақытты
+C) тыныс алу
+D) қартаю
+E) өлім",A,A,A
+b9e04a53c0ee7325b901de4d12d56884,Where do you keep musical instrument so it doesn't get scratched?,"A) bank
+B) orchestra
+C) case
+D) music room
+E) movie",C,Музыкалық аспапты сызылып қалмауы үшін қайда сақтайсыз?,"A) банк
+B) оркестр
+C) қап
+D) музыка бөлмесі
+E) кино",C,C,C
+d07f149d8d953dcc45dda432194c375e,"Stark was just having fun, and he wasn't hurting anyone.  What might have he been doing?","A) painting his nails
+B) playing marbles
+C) constructing
+D) need for rest
+E) wild ride",B,"Старк жай ғана көңіл көтеріп жүрді, және ол ешкімге зиян тигізіп жатқан жоқ. Ол не істеп жатқан болуы мүмкін?","A) тырнақтарын бояу
+B) асық ойнау
+C) құрастыру
+D) демалуға қажеттілік
+E) жабайы серуендеу",B,B,B
+761b0f6c68b1540949b70f76a9e67c78,If someone rules the universe of what are they in charge?,"A) classroom
+B) football game
+C) everything
+D) text book
+E) lawbook",C,"Егер біреу ғаламды билесе, олар неге жауапты?","A) сынып
+B) футбол ойыны
+C) бәрі
+D) оқулық
+E) заң кітабы",C,C,C
+e1d354cbfcd620e5dacf83c17746c4b3,Joe found spiders while checking something outside.  What might that be?,"A) cupboard
+B) closet
+C) storage bag
+D) mail box
+E) garage",D,Джо сыртта бірдеңені тексеріп жатқанда өрмекшілерді тапты. Бұл не болуы мүмкін?,"A) шкаф
+B) киім ілгіш
+C) сақтау сөмкесі
+D) пошта жәшігі
+E) гараж",E,E,E
+cc46d936bf69d69a3863b0cb85d75c17,He was beginning to regret taking the fight when he saw how what his opponent was?,"A) fun
+B) joy
+C) satisfaction
+D) confident
+E) pride",D,"Қарсыласының қандай екенін көргенде, ол төбелеске қатысқанына өкінуді бастады?","A) көңілді
+B) қуаныш
+C) қанағат
+D) сенімді
+E) мақтаныш",D,D,D
+46bc1a50eeead10509a43a048e01194e,Where would you find a single shower curtain being used?,"A) bathtub
+B) washing area
+C) hotel
+D) shower stall
+E) department store",A,Бір душ пердесі қай жерде қолданылады?,"A) ванна
+B) жуу аймағы
+C) қонақ үй
+D) душ кабинасы
+E) әмбебап дүкен",D,D,D
+64931f9097155672bfe3e16f03b2c195,"Pens, computers, text books and paper clips can all be found where?","A) desktop
+B) university
+C) drawer
+D) table
+E) work",B,"Қаламдар, компьютерлер, оқулықтар және қағаз қыстырғыштар қайда табылуы мүмкін?","A) үстел үсті
+B) университет
+C) тартпа
+D) үстел
+E) жұмыс",C,D,D
+9a23a7f04e63bf9f4c7dfe50c58abfd2,"After standing up I had to sit right back down, why would I feel like this?","A) train
+B) effort
+C) balance
+D) feet
+E) muscles",C,"Орнымнан тұрғаннан кейін қайтадан отыруға тура келді, неге мен өзімді осылай сезінемін?","A) пойыз
+B) күш
+C) тепе-теңдік
+D) аяқтар
+E) бұлшықеттер",E,C,C
+d807e7ae60976324920c8d29eb42dad6,Where does a heifer's master live?,"A) farm house
+B) barnyard
+C) stockyard
+D) slaughter house
+E) eat cake",A,Қашардың иесі қайда тұрады?,"A) ферма үйі
+B) қора
+C) мал қорасы
+D) сою үйі
+E) торт жеу",A,A,A
+a7e3de0719fe30e7048f67426e29fdd1,James tore the antenna off of his boat due to bad reception as he was crossing the channel from France.  Where was he going?,"A) river
+B) television
+C) india
+D) england
+E) europe",D,Джеймс Франциядан арна арқылы өтіп бара жатқанда нашар қабылдау салдарынан қайығынан антеннаны жұлып алды. Ол қайда бара жатыр еді?,"A) өзен
+B) теледидар
+C) Үндістан
+D) Англия
+E) Еуропа",D,D,D
+c6f10fd07348bf2cf5488b0d9f38d806,"Some people got escorted out of the library, they were probably what?","A) state facts
+B) talking loudly
+C) making money
+D) amount to nothing
+E) believe in god",B,"Кейбір адамдар кітапханадан шығарып салынды, олар, мүмкін, не істеді?","A) фактілерді айту
+B) қатты сөйлеу
+C) ақша табу
+D) ештеңеге тұрмау
+E) құдайға сену",B,B,B
+4858669d0193e5d9384dc37d4bb5c00c,Where do play a game for money?,"A) casino
+B) football ground
+C) ballpark
+D) family room
+E) toy store",A,Ақшаға ойын қайда ойнайды?,"A) казино
+B) футбол алаңы
+C) бейсбол алаңы
+D) отбасы бөлмесі
+E) ойыншық дүкені",A,A,A
+4423c006f2a43f222d4c4e97360c25d3,"The fresh herbs, flowers, and vegetables will shrivel up if people don't do this?","A) water plants
+B) believe in god
+C) drive to the nearest pool
+D) speaking english
+E) raise children",A,"Адамдар мұны жасамаса, жаңа піскен шөптер, гүлдер және көкөністер қурап қалады?","A) өсімдіктерді суару
+B) құдайға сену
+C) ең жақын бассейнге бару
+D) ағылшын тілінде сөйлеу
+E) балаларды тәрбиелеу",A,A,A
+b9bed83138901f4a45041b02c5b242c1,"The business man was promoted recently, to celebrate he went where to buy an expensive wristwatch?","A) case
+B) jewelry store
+C) shopping
+D) jewelery box
+E) hock",B,"Жақында кәсіпкер қызметте жоғарылады, оны атап өту үшін ол қымбат білезік сағат сатып алу үшін қайда барды?","A) қорап
+B) зергерлік дүкен
+C) сауда жасау
+D) зергерлік қорап
+E) ломбард",B,B,B
+c1aebf059c5102f4e773f7fe4afe13f0,When someone has little knowledge and is judging someone they are considered what?,"A) objectivity
+B) knowing yourself
+C) experience
+D) ignorance
+E) introduction",D,Біреудің білімі аз болғанда және біреуді бағалағанда олар не деп саналады?,"A) объективтілік
+B) өзін-өзі тану
+C) тәжірибе
+D) надандық
+E) кіріспе",D,D,D
+22fc45d9e6d0baea4a5b0526504225b8,What might a person be watching if they see a man with a suitcase full of money?,"A) baggage compartment
+B) movie
+C) subway
+D) airplane
+E) cargo hold",B,"Адам ақшаға толы чемодан ұстаған ер адамды көрсе, ол не көріп отыруы мүмкін?","A) жүк бөлімі
+B) фильм
+C) метро
+D) ұшақ
+E) жүк қоймасы",B,B,B
+d0c67c7ae6f2361fe237110455127866,What region of a west coast U.S. city would you find a Japanese restaurant?,"A) california
+B) tokio
+C) downtown
+D) narnia
+E) large town",C,АҚШ-тың батыс жағалауындағы қаланың қай аймағында жапон мейрамханасын табуға болады?,"A) калифорния
+B) токио
+C) орталық
+D) нарния
+E) үлкен қала",A,A,A
+f427f9de6bf580314531baf86de8acbc,What type of fruit is easily broken in to sections?,"A) slide
+B) citrus
+C) band
+D) orchestra
+E) coconut",B,Қандай жеміс түрі оңай бөліктерге бөлінеді?,"A) сырғанау
+B) цитрус
+C) таспа
+D) оркестр
+E) кокос",B,B,B
+84ea43b967259814d939c62131f74df0,"Seeing idea become reality was a dream of hers for a long time, but as the time came to get on stage she had more what?","A) build
+B) anxiety
+C) celebrate
+D) very nice
+E) ocean",B,"Идеяның шындыққа айналғанын көру оның ұзақ уақыт бойы арманы болды, бірақ сахнаға шығатын уақыт келгенде ол көбірек не сезінді?","A) құру
+B) мазасыздық
+C) тойлау
+D) өте жақсы
+E) мұхит",B,B,B
+dd4a811d18549f1ae1954cf938b28536,"They were searching for rocks, so they missed the birds overhead as they stared at the what?","A) ground
+B) drawer
+C) surface of earth
+D) pizza
+E) waterfall",A,"Олар тастарды іздеп жүрді, сондықтан олар жоғарыдағы құстарды байқамай қалды, өйткені олар неге қарап тұрды?","A) жер
+B) тартпа
+C) жер беті
+D) пицца
+E) сарқырама",A,A,A
+edbb57ac2f476679ae547f75ec2bef3e,John saw a fox running along the beach and was glad to be on the east coast.  Where might he have been?,"A) tennessee
+B) south carolina
+C) louisiana
+D) oklahoma
+E) mountains",B,"Джон жағажай бойымен жүгіріп бара жатқан түлкіні көріп, шығыс жағалауында болғанына қуанды. Ол қайда болуы мүмкін?","A) теннесси
+B) оңтүстік каролина
+C) луизиана
+D) оклахома
+E) таулар",B,B,B
+611a4cc0e288b8a11afa923f48cb2ab4,When did mammoth's live?,"A) boscage
+B) forest
+C) prehistory
+D) prehistoric times
+E) ancient times",E,Мамонттар қашан өмір сүрді?,"A) орман
+B) орман
+C) тарихқа дейінгі кезең
+D) тарихқа дейінгі уақыт
+E) ежелгі уақыт",C,D,C
+1cd94405124031e8681cd12bd25e2d61,"He was trying to procreate with many individuals, this led to a what?","A) moaning
+B) die
+C) kiss
+D) std
+E) sanity",D,"Ол көптеген адамдармен ұрпақ қалдыруға тырысты, бұл неге әкелді?","A) ыңырсу
+B) өлу
+C) сүйісу
+D) жыныстық жолмен берілетін ауру
+E) ақыл-ойдың дұрыстығы",D,D,D
+55478486079423907508a06be13ca536,Where outside of a city would a squirrel live?,"A) roof
+B) inside home
+C) forest
+D) yard
+E) park",C,Қала сыртында тиін қайда өмір сүреді?,"A) шатыр
+B) үйдің ішінде
+C) орман
+D) аула
+E) саябақ",C,C,C
+b62d7d1b5eec31be0b65146a9fc069e0,What will god never do according to religion?,"A) anything
+B) judge people
+C) work miracles
+D) judge men
+E) everywhere",B,Дінге сәйкес құдай ешқашан не істемейді?,"A) ештеңе
+B) адамдарды соттау
+C) ғажайыптар жасау
+D) ер адамдарды соттау
+E) барлық жерде",A,A,A
+6915dfdefe3b1cd5fd8886c8bb84929a,"Sally was standing in queue.  The line was very, very slow.  What was she feeling?","A) frustration
+B) delays
+C) being annoyed
+D) moving forward
+E) progress",A,"Салли кезекте тұрды. Кезек өте, өте баяу жылжыды. Ол не сезінді?","A) күйзеліс
+B) кідірістер
+C) ашулану
+D) алға жылжу
+E) прогресс",A,A,A
+d64a676e9d22e7edd12e7f4ce267a9f0,What do you go to see for live entertainment?,"A) movie
+B) show
+C) concert venue
+D) casino
+E) theatre",B,Тікелей ойын-сауықты көру үшін қайда барасыз?,"A) кино
+B) шоу
+C) концерт залы
+D) казино
+E) театр",E,E,E
+cc917ca0e03c91a5141920f5a902a36c,If it is Chrismas time what came most recently before?,"A) halloween
+B) summer
+C) easter
+D) kwaanza
+E) give gift",A,"Рождество уақыты болса, оған дейін ең жақын не болды?","A) Хэллоуин
+B) жаз
+C) Пасха
+D) Кванза
+E) сыйлық беру",A,A,A
+b8c0a4703079cf661d7261a60a1bcbff,Where would you find magazines along side many other printed works?,"A) doctor
+B) bookstore
+C) market
+D) train station
+E) mortuary",B,Сіз көптеген басқа баспа жұмыстарымен қатар журналдарды қайдан таба аласыз?,"A) дәрігер
+B) кітап дүкені
+C) базар
+D) теміржол станциясы
+E) мәйітхана",B,B,B
+118a9093a30695622363455e4d911866,In what Spanish speaking North American country can you get a great cup of coffee?,"A) mildred's coffee shop
+B) mexico
+C) diner
+D) kitchen
+E) canteen",B,Испан тілінде сөйлейтін Солтүстік Америка елінде қай жерде керемет кофе ішуге болады?,"A) mildred's кофе дүкені
+B) мексика
+C) асхана
+D) ас үй
+E) асхана",B,B,B
+2ef2ae21a2d3a9ecbd5c45ff378d10e3,Sally was afraid of danger and always double checked what?,"A) fight enemy
+B) secure
+C) being safe
+D) safety
+E) vicinity",D,Салли қауіптен қорқатын және әрқашан нені екі рет тексеретін?,"A) жаумен күресу
+B) қауіпсіз ету
+C) қауіпсіз болу
+D) қауіпсіздік
+E) жақын маң",C,C,C
+22b8219d43a38a1130e0a35ece152337,Where might an alien use a vacuum?,"A) space
+B) closet
+C) kitchen
+D) orbit
+E) container",A,Бөгде ғаламшарлық шаңсорғышты қайда қолдануы мүмкін?,"A) ғарыш
+B) шкаф
+C) ас үй
+D) орбита
+E) контейнер",C,A,A
+a0d02fc32878efdf0b0d420972943492,"There's one obvious reason to eat vegetables, they're plain what you?","A) lose weight
+B) good for
+C) bland
+D) chewing
+E) fibre",B,"Көкөністерді жеудің бір айқын себебі бар, олар сізге не?","A) салмақ жоғалту
+B) сізге пайдалы
+C) дәмсіз
+D) шайнау
+E) талшық",B,B,B
+2d2b69ad187b7c40273ab13caab7dc19,What type of geographic area will you find a marmot?,"A) mountainous area
+B) wood pile
+C) jungle
+D) petting zoo
+E) animals",A,Сіз қандай географиялық аймақта суырды таба аласыз?,"A) таулы аймақ
+B) ағаш үйіндісі
+C) джунгли
+D) жануарлар бағы
+E) жануарлар",A,A,A
+9698232e3599157431c9dc8f2fe179cd,What is the hopeful result of going to see a play?,"A) sit
+B) being entertained
+C) jobless
+D) meet
+E) laugh",B,Спектакль көруге барудың үмітті нәтижесі қандай?,"A) отыру
+B) көңіл көтеру
+C) жұмыссыз
+D) кездесу
+E) күлу",B,B,B
+cf5a710c931779fb3dde198e0ace3b6a,What to kids do for boredom on a ramp?,"A) watch film
+B) fire game
+C) hang out at bar
+D) go skiing
+E) skateboard",E,Балалар еңісте зеріктіргенде не істейді?,"A) фильм көру
+B) от ойыны
+C) барда уақыт өткізу
+D) шаңғы тебу
+E) скейтборд тебу",D,D,D
+059155c50d1b04da7373e309868e67d2,"If I put in my key and open a hinged door, where am I likely entering?","A) kitchen
+B) safe
+C) own house
+D) building
+E) pantry",C,"Егер мен кілтімді салып, ілмекті есікті ашсам, мен қайда кіруім мүмкін?","A) ас үй
+B) сейф
+C) өз үйім
+D) ғимарат
+E) қойма",C,C,B
+65435b996ce9d1685bebb74b49c1ba7f,Blue read material outside of his comfort zone because he wanted to gain what?,"A) new perspective
+B) entertained
+C) understanding
+D) hunger
+E) tired eyes",A,"Көк өзінің ыңғайлы аймағынан тыс материалды оқыды, себебі ол нені алғысы келді?","A) жаңа көзқарас
+B) көңіл көтеру
+C) түсінік
+D) аштық
+E) шаршаған көздер",A,A,A
+4a4f6408fae400ce0beb5bea0f9913e9,Where is a drug kept in a home bathroom?,"A) nursery
+B) ghetto
+C) cupboard
+D) pharmacy
+E) medicine cabinet",E,Үйдегі жуынатын бөлмеде дәрі қайда сақталады?,"A) балалар бөлмесі
+B) гетто
+C) шкаф
+D) дәріхана
+E) дәрі-дәрмек шкафы",E,E,E
+8b94b61b604ec0d7508804033eec6d23,"When getting in shape, this is something that does wonders?","A) eat more
+B) starve
+C) give up
+D) period of recovery
+E) jogging",E,Дене шынықтыру кезінде керемет әсер ететін нәрсе не?,"A) көбірек жеу
+B) ашығу
+C) бас тарту
+D) қалпына келу кезеңі
+E) жүгіру",E,E,D
+7f25dbab26165b3c8800c2733ca759d6,John was an aristocratic fox hunter.  Where might he live?,"A) england
+B) new hampshire
+C) street
+D) arkansas
+E) north dakota",B,Джон аристократ түлкі аулаушы болды. Ол қайда тұруы мүмкін?,"A) англия
+B) жаңа гампшир
+C) көше
+D) арканзас
+E) солтүстік дакота",A,A,A
+8f2976690c83be6b8fa3a1196dfd9722,Jesse  enjoyed remembering the past because he helped him understand it.  And understanding the past helped him with doing what?,"A) phoning
+B) nostalgia
+C) writing down
+D) active
+E) being prepared",E,"Джесси өткенді еске алуды ұнататын, себебі бұл оған оны түсінуге көмектесетін. Ал өткенді түсіну оған не істеуге көмектесті?","A) телефон шалу
+B) ностальгия
+C) жазып алу
+D) белсенді
+E) дайын болу",E,E,E
+484f6e4fb8e6431b010c299490b72e3c,When you slip from a ladder propped on anything what will you do?,"A) obesity
+B) fall down
+C) matter to
+D) whatever
+E) surprise",B,Сіз бір нәрсеге сүйенген баспалдақтан тайған кезде не істейсіз?,"A) семіздік
+B) құлау
+C) маңызды болу
+D) бәрібір
+E) таң қалу",B,B,B
+1f492f556fae64f72ce36b6caa242dd0,"Steve thought that it was possible, but he agreed that it was what?","A) no go
+B) unable
+C) unlikely
+D) impossibility
+E) cant do",C,"Стив бұл мүмкін деп ойлады, бірақ ол оның не екенін келісті?","A) болмайды
+B) мүмкін емес
+C) екіталай
+D) мүмкін емес нәрсе
+E) істей алмайды",B,B,D
+39572e0ba1db51fa74f7fc2d90c5ec7f,Where would you get some wood if you do not have any?,"A) carpet
+B) boat
+C) river
+D) lumberyard
+E) synagogue",D,"Егер сізде ағаш болмаса, оны қайдан аласыз?","A) кілем
+B) қайық
+C) өзен
+D) ағаш қоймасы
+E) синагога",D,D,D
+7c95d753943c58757fe6e1ccff8aea14,"His parents thought he was suffering from boredom, but the teen loved to lay in bed and just do what?","A) meet interesting people
+B) lift weights
+C) listen to music
+D) play chess
+E) entertain",C,"Ата-анасы оны зерігуден зардап шегіп жатыр деп ойлады, бірақ жасөспірім төсекте жатып, жай ғана не істеуді ұнататын?","A) қызықты адамдармен кездесу
+B) салмақ көтеру
+C) музыка тыңдау
+D) шахмат ойнау
+E) көңіл көтеру",C,C,C
+2d3c9d3dff1a7a8253180cb3de1ceeea,"The man laid on the soft moss and looked up at the trees, where was the man?","A) niagra falls
+B) forest
+C) waterfall
+D) ground
+E) tree",B,"Ер адам жұмсақ мүктің үстіне жатып, ағаштарға қарады, ер адам қайда болды?","A) Ниагара сарқырамасы
+B) орман
+C) сарқырама
+D) жер
+E) ағаш",B,B,B
+c908d7c4633c5e6add9463bdd47cb27e,"If while driving to work another car makes a careless maneuver, what emotion might you feel?","A) boredom
+B) happiness
+C) transportation cost
+D) getting there
+E) road rage",E,"Жұмысқа бара жатқанда басқа көлік абайсыз маневр жасаса, сіз қандай эмоция сезінуіңіз мүмкін?","A) зерігу
+B) қуаныш
+C) көлік шығыны
+D) жету
+E) жолдағы ашу",E,E,E
+08d3175de59a639be02f2ebc032d56bd,Where would you find many varieties of plants including a rosebush?,"A) kew gardens
+B) garder
+C) backyard
+D) shop
+E) beautiful garden",E,"Сіз раушан бұтасын қоса алғанда, өсімдіктердің көптеген түрлерін қайдан таба аласыз?","A) kew gardens
+B) бақша
+C) аула
+D) дүкен
+E) әдемі бақ",B,B,A
+1875f70cf736c68c7a9df3ef870224a1,What could you be a few hours after you finish cashing in due to your cash?,"A) happy
+B) receiving money
+C) getting paid
+D) spending money
+E) selling out",A,Қолма-қол ақшаңызды алғаннан кейін бірнеше сағаттан соң сіз қандай күйде болуыңыз мүмкін?,"A) бақытты
+B) ақша алу
+C) жалақы алу
+D) ақша жұмсау
+E) сатылып кету",A,A,D
+99789083502af9bf111876a00fae44ac,If not in a stream but in a market where will you find fish?,"A) stream
+B) aquarium
+C) refrigerator
+D) boat ride
+E) market",C,"Егер ағын суда емес, базарда болса, балықты қайдан табасыз?","A) ағын су
+B) аквариум
+C) тоңазытқыш
+D) қайық серуені
+E) базар",E,E,E
+b0f7d7978ac41c465108a92660d70e84,When wildlife reproduce we often refer to what comes out as what?,"A) raise children
+B) have children
+C) photo copy
+D) offspring
+E) accidently got pregnant somehow",D,"Жабайы табиғат көбейгенде, біз көбінесе не шығатынын қалай атаймыз?","A) балаларды тәрбиелеу
+B) балаларды болу
+C) фотокөшірме
+D) ұрпақ
+E) кездейсоқ жүкті болу",D,D,D
+720b98fbc365736597147c984f6bd301,"The cancer patient was expecting to die, so he made out his what?","A) not to live
+B) write will
+C) never want
+D) seek help
+E) go to hell",B,"Қатерлі ісікпен ауыратын науқас өлімді күтіп жүрді, сондықтан ол өзінің не нәрсесін жасады?","A) өмір сүрмеу
+B) өсиет жазу
+C) ешқашан қаламау
+D) көмек іздеу
+E) тозаққа бару",B,B,B
+b1d5cdbf8ef7b3954a6a352bd4df5866,"The merchant wanted to open in a high-traffic space, where did he rent space?","A) mall
+B) business
+C) store
+D) sale
+E) sell goods",A,"Саудагер көп адам жүретін жерде ашқысы келді, ол қай жерде орын жалға алды?","A) сауда орталығы
+B) бизнес
+C) дүкен
+D) сату
+E) тауар сату",A,A,A
+91f512273a2da7ae796919069b20d6cf,"Because John was first violin, he had to bring something important to work ever day. What did he need to bring to work?","A) music store
+B) obesity
+C) symphony orchestra
+D) ochestra
+E) violin case",E,"Джон бірінші скрипкашы болғандықтан, ол күн сайын жұмысқа маңызды бір нәрсе әкелуі керек болды. Ол жұмысқа не әкелуі керек еді?","A) музыка дүкені
+B) семіздік
+C) симфониялық оркестр
+D) оркестр
+E) скрипка қорабы",E,E,E
+5215e26c99b2a9b376fb1c70096a388a,"They passed a apple tree on their way to the racetrack, the were going to watch the biggest motorsport spectacle in the world where?","A) maryland
+B) indiana
+C) on tv
+D) park
+E) new jersey",B,"Олар жарыс жолына бара жатқанда алма ағашының жанынан өтті, олар әлемдегі ең үлкен мотоспорт көрінісін қайда көруге бара жатыр?","A) Мэриленд
+B) Индиана
+C) теледидардан
+D) парк
+E) Нью-Джерси",B,B,B
+e3949997bf9d02048cfa5d8dd0f287aa,Seafood restaurants are used to draw tourists where?,"A) maine
+B) shoe shop
+C) city
+D) boston
+E) coastal cities",E,Теңіз өнімдері мейрамханалары туристерді қайда тарту үшін қолданылады?,"A) мейн
+B) аяқ киім дүкені
+C) қала
+D) бостон
+E) жағалаудағы қалалар",E,E,E
+af3b9a8b1962cd3bcd19e644d873e7bc,"The hardcovers were especially tall, so he removed a shelf on the what to make room?","A) chest of drawers
+B) grocery store
+C) hold alcohol
+D) nightstand
+E) bookcase",E,"Қатты мұқабалар әсіресе биік болды, сондықтан ол орын жасау үшін қай сөрені алып тастады?","A) жәшіктер
+B) азық-түлік дүкені
+C) алкоголь сақтау
+D) тумбочка
+E) кітап сөресі",E,E,E
+49b4c9e1bd7946a819e173ce8fa4c7c9,The teacher doesn't tolerate noise during a test in their what?,"A) movie theatre
+B) bowling alley
+C) factory
+D) store
+E) classroom",E,Мұғалім тест кезінде шуды қайда көтермейді?,"A) кинотеатр
+B) боулинг алаңы
+C) зауыт
+D) дүкен
+E) сынып",E,E,E
+fce1c5d069758aea57a787fc98dcf7a9,Where is a great place to buy fresh fruit?,"A) san francisco
+B) refrigerator
+C) big box retailer
+D) tree
+E) market",E,Жаңа піскен жемістерді сатып алуға тамаша орын қайда?,"A) Сан-Франциско
+B) тоңазытқыш
+C) ірі дүкендер желісі
+D) ағаш
+E) базар",E,E,E
+3526550b02d9594abd4fc43553010fc6,"The dad wanted to protect his house, where did he put his gun?","A) police station
+B) crime scene
+C) restroom
+D) drawer
+E) holster",D,"Әкесі үйін қорғағысы келді, ол мылтығын қайда қойды?","A) полиция бөлімшесі
+B) қылмыс орны
+C) дәретхана
+D) тартпа
+E) қапшық",D,D,D
+11d7db1d8e1cff2f40d4184f15cf7ae7,John and James are idiots. They bought two tickets to the Falcons vs the Jets even though neither wanted to see the what?,"A) internet cafe
+B) sporting event
+C) pressing wrong buttons
+D) obesity
+E) hockey game",B,"Джон мен Джеймс ақымақтар. Олар Фалконс пен Джетс арасындағы ойынға екі билет сатып алды, бірақ екеуі де нені көргісі келмеді?","A) интернет кафе
+B) спорттық шара
+C) қате түймелерді басу
+D) семіздік
+E) хоккей ойыны",B,B,C
+26c854d933d2115e7636fdcde57eb463,Athletes soak in hot tubs to relieve what after playing baseball?,"A) fame
+B) errors
+C) pain
+D) strikes
+E) sore muscles",E,Бейсбол ойнағаннан кейін спортшылар ыстық ваннаға не үшін шомылады?,"A) атақ
+B) қателіктер
+C) ауырсыну
+D) соққылар
+E) бұлшық еттердің ауыруы",E,E,E
+178cb8153123716aa94f286b615149d4,Where could you find hundreds of beauty salon?,"A) clerk
+B) mall
+C) strip mall
+D) city
+E) neighborhood",D,Сіз жүздеген сұлулық салонын қайдан таба аласыз?,"A) қызметкер
+B) сауда орталығы
+C) шағын сауда орталығы
+D) қала
+E) аудан",D,D,D
+6a1bf527af9ed0685ac5e2bf0bd76647,Riding a bike for a long time can cause what?,"A) enjoyment
+B) fatigue
+C) falling down
+D) getting lost
+E) thirst",B,Велосипед тебу ұзақ уақыт бойы неге әкелуі мүмкін?,"A) ләззат
+B) шаршау
+C) құлау
+D) адасу
+E) шөлдеу",B,B,B
+821b32d39f57396979069b948030afe9,The kids didn't clean up after they had done what?,"A) learn things
+B) play games
+C) disneyland
+D) play with toys
+E) talking",D,Балалар не істегеннен кейін жинамады?,"A) заттарды үйрену
+B) ойындар ойнау
+C) диснейленд
+D) ойыншықтармен ойнау
+E) сөйлесу",D,D,D
+7a28d31e66d870370642de3be47b9ef9,Because of his anger he couldn't clearly explain or what?,"A) cool off
+B) write letter
+C) get mad
+D) illustrate point
+E) destroy enemy",D,Ашуланғандықтан ол анық түсіндіре алмады немесе не?,"A) сабыр сақтау
+B) хат жазу
+C) ашулану
+D) ойды түсіндіру
+E) жауды жою",D,D,D
+3310b5b24f03d67179fababf9ae95144,"The field general began to write out a letter to the king, he was told to send what when the enemy was near?","A) syllable
+B) english alphabet
+C) word
+D) email
+E) invitation",C,"Дала генералы патшаға хат жаза бастады, оған жау жақындағанда не жіберу керектігі айтылды?","A) буын
+B) ағылшын әліпбиі
+C) сөз
+D) электрондық пошта
+E) шақыру",C,C,C
+72baf6ca5c4daa01c2cc7fda22183db8,Where could there be a battle that involves words?,"A) court room
+B) war
+C) video game
+D) iraq
+E) church",A,Сөздер қатысатын шайқас қай жерде болуы мүмкін?,"A) сот залы
+B) соғыс
+C) бейне ойын
+D) Ирак
+E) шіркеу",A,A,A
+0b30831fb1862bc62339bdf930cbc447,Where could you find a shark before it was caught?,"A) pool hall
+B) tomales bay
+C) marine museum
+D) business
+E) desert",B,Акуланы ұстағанға дейін қайдан табуға болады?,"A) бильярд залы
+B) томалес шығанағы
+C) теңіз мұражайы
+D) бизнес
+E) шөл дала",B,B,C
+2f85d53721ccc8b3fa4cfc184186d124,"The man  tried to break the glass in order to make his escape in time, but he could not.  The person in the cat, trying to kill him, did what?","A) accelerate
+B) putting together
+C) working
+D) construct
+E) train",A,"Ер адам уақытында қашып кету үшін әйнекті сындыруға тырысты, бірақ ол қолынан келмеді. Оны өлтіруге тырысқан мысықтағы адам не істеді?","A) жеделдету
+B) жинау
+C) жұмыс істеу
+D) құрастыру
+E) жаттығу",A,A,E
+31487ab8b1e8f12e252590cc58bd19c2,Where is a likely place to store unused soap?,"A) cabinet
+B) supermarket
+C) jail
+D) butt
+E) own home",A,Қолданылмаған сабынды қайда сақтау ықтимал?,"A) шкаф
+B) супермаркет
+C) түрме
+D) бөксе
+E) өз үйі",A,A,E
+cb5b39878be0e05a3ffe783801adbc3b,What might someone do after they finish creating art?,"A) frustration
+B) relax
+C) eat
+D) enlightenment
+E) communication",B,Біреу өнер туындысын жасауды аяқтағаннан кейін не істей алады?,"A) ашулану
+B) демалу
+C) тамақтану
+D) ағарту
+E) қарым-қатынас",B,B,B
+f996430ce208606452868fd2e739d409,What will happen if you inject water into yourself?,"A) dilute
+B) thin blood
+C) take several forms
+D) wet clothes
+E) move mountains",B,Егер сіз өзіңізге су енгізсеңіз не болады?,"A) сұйылту
+B) қанды сұйылту
+C) бірнеше формаға ену
+D) киімді сулау
+E) тауларды жылжыту",D,B,B
+9003c4748b08d5a734747e499599ff20,What will you do if you do not want to settle in one place?,"A) walk
+B) agitate
+C) wander
+D) remove
+E) disturb",C,"Егер сіз бір жерде тұрақтағыңыз келмесе, не істейсіз?","A) жүру
+B) қозғау
+C) қаңғыру
+D) алып тастау
+E) мазалау",C,C,B
+23df3bac9cfcb156f4cfd8a05f21c5e2,James loved to surf but he wasn't good at it. He would always do what?,"A) wipe out
+B) enjoy yourself
+C) start fighting
+D) get wet
+E) drown",A,"Джеймс серфингпен айналысуды жақсы көретін, бірақ ол бұл істе жақсы емес еді. Ол әрқашан не істейтін?","A) құлап қалу
+B) өзіңді жақсы сезіну
+C) төбелес бастау
+D) су болу
+E) суға бату",A,A,A
+1a86310d7279097205a3403752c3b914,WHat leads to an early death?,"A) poisonous gas
+B) homicide
+C) cinder
+D) nuclear weapons
+E) cyanide",B,Ерте өлімге не әкеледі?,"A) улы газ
+B) кісі өлтіру
+C) күл
+D) ядролық қару
+E) цианид",E,D,A
+5655a3002dd9a6b7dabede1dd26a5893,Where would using a boat not require navigation skills?,"A) water
+B) ocean
+C) garage
+D) harbor
+E) river",E,Қай жерде қайықты қолдану үшін навигация дағдылары қажет емес?,"A) су
+B) мұхит
+C) гараж
+D) айлақ
+E) өзен",C,C,C
+acb3147d946db3b06a596d48e0be56cf,What could you use to get to some airplanes?,"A) taxi
+B) carry people
+C) car
+D) stall
+E) crash",A,Кейбір ұшақтарға жету үшін не қолдануға болады?,"A) такси
+B) адамдарды тасымалдау
+C) көлік
+D) тоқтау
+E) апатқа ұшырау",A,A,A
+d867f76d000bdb59b9b4cb982bd7f0a0,Joe was thrown from his boat into the water.  The water was cold because it was the middle of winter and he cried out to his crew for help.  They couldn't hear him over the sound of the what?,"A) surface of earth
+B) teardrops
+C) snowflake
+D) typhoon
+E) motor",D,"Джо қайығынан суға лақтырылды. Су суық болды, себебі қыстың ортасы еді және ол экипажына көмек сұрап айқайлады. Олар оны ненің дыбысынан естімеді?","A) жердің беті
+B) көз жасы
+C) қар ұшқыны
+D) тайфун
+E) мотор",E,E,E
+a5456dc611aa93b81d7ab6ed8e160f85,"The chief saw his entire tribe wiped out, he was a leader with a single what?","A) peon
+B) indian
+C) minister
+D) follower
+E) employee",D,"Басшы өзінің бүкіл тайпасының жойылғанын көрді, ол жалғыз не нәрсенің жетекшісі болды?","A) қызметші
+B) үндіс
+C) министр
+D) ізбасар
+E) қызметкер",B,B,B
+14e75a42a416d32a24e2826cae34d2bf,"He was afraid he would die from his cold, so he wisely decided to what?","A) ocean
+B) write will
+C) never want
+D) were shot
+E) seek help",E,"Ол суықтан өліп қалады деп қорықты, сондықтан ол ақылды түрде не істеуге шешім қабылдады?","A) мұхит
+B) өсиет жазу
+C) ешқашан қаламау
+D) атып тасталды
+E) көмек іздеу",E,E,E
+32758ab86d888be680845b0dfe7de35e,Boredom and hunger led to a wandering waste of time and a cart full of unhealthy snacks during her trip to where?,"A) new moon
+B) play cards
+C) read book
+D) see art
+E) grocery shop",E,Зерігу мен аштық оның сапары кезінде уақытты босқа өткізуге және арба толы зиянды тағамдарға әкелді қайда?,"A) жаңа ай
+B) карта ойнау
+C) кітап оқу
+D) өнер көру
+E) азық-түлік дүкені",E,E,E
+bdf92566f14599f1606109677206001f,Miss Grady took a stick from Bob because he was playing with it during class.  She wanted to make sure that he couldn't get to it so she put it where?,"A) desk drawer
+B) kitchen drawer
+C) classroom
+D) pocket
+E) office",A,"Грэйди ханым Боб сабақ кезінде таяқпен ойнап жүргендіктен, оны одан алды. Ол оны ала алмайтындай етіп қайда қойды?","A) үстелдің тартпасы
+B) ас үйдің тартпасы
+C) сынып
+D) қалта
+E) кеңсе",A,A,E
+3095078e4771053d9d5fa8d4f5f3dc38,What do people usually feel when falling in love?,"A) getting married
+B) pain
+C) happiness
+D) getting married
+E) suffering",C,Адамдар ғашық болғанда әдетте не сезінеді?,"A) үйлену
+B) ауырсыну
+C) бақыт
+D) үйлену
+E) азап шегу",C,C,C
+1f3ccb722600da7d862531416934949a,Where would you hear a trumpet along with other instruments made from the same material?,"A) music store
+B) bass
+C) brass band
+D) orchestra
+E) marching band",C,Сіз бір материалдан жасалған басқа аспаптармен бірге кернейді қай жерде естисіз?,"A) музыка дүкені
+B) бас
+C) үрмелі оркестр
+D) оркестр
+E) марш оркестрі",E,E,C
+060cad0d3c007ceb151db9907bfcb214,Where would walk through a central passage to catch an elevator?,"A) tomb
+B) arena
+C) access rooms
+D) public building
+E) house",D,Лифтке отыру үшін орталық өткел арқылы қайда жүрер едіңіз?,"A) қабір
+B) арена
+C) кіру бөлмелері
+D) қоғамдық ғимарат
+E) үй",D,D,D
+49e466b1782aa4837dae53ff891fcdee,If you are in a bar in a glove shaped state where are you?,"A) in my pocket
+B) michigan
+C) new york city
+D) restaurant
+E) public house",B,"Егер сіз қолғап пішініндегі штатта барда болсаңыз, қайдасыз?","A) менің қалтамда
+B) мичиган
+C) нью-йорк қаласы
+D) мейрамхана
+E) паб",B,B,B
+db63bf66a8bfd16e5103cbdd350f5202,"Everybody was changing into costumes in the dressing room, it was almost time to take the what stage?","A) theater
+B) train
+C) bathhouse
+D) dwelling
+E) actors and actresses",A,"Барлығы киім ауыстырып жатқан бөлмеде костюмдерін ауыстырып жатты, сахнаға шығатын уақыт жақындап қалды, қандай сахнаға?","A) театр
+B) пойыз
+C) монша
+D) тұрғын үй
+E) актерлер мен актрисалар",A,A,A
+8494b0b95533dcedbd76ae2916c481d4,"Anybody could be hired in the kitchen, what was needed of them?","A) forget
+B) oil squeaky hinge
+C) question authority
+D) wash dishes
+E) oik squeaky hinge",D,"Ас үйге кез келген адамды жұмысқа алуға болатын еді, олардан не талап етілді?","A) ұмыту
+B) сықырлаған топсаны майлау
+C) билікті сұрау
+D) ыдыс жуу
+E) сықырлаған топсаны майлау",D,D,D
+eebddf5f35d85e9fe2ecbd9b56c1db60,"The teacher played on the upright piano, she was explaining the song to all the students in the what?","A) music room
+B) bathroom
+C) house
+D) living room
+E) music store",A,"Мұғалім тік пианинода ойнады, ол барлық оқушыларға әнді қай жерде түсіндіріп жатты?","A) музыка бөлмесінде
+B) жуынатын бөлмеде
+C) үйде
+D) қонақ бөлмесінде
+E) музыка дүкенінде",A,A,A
+d060ab71d0efff3cab5960089a6bb3a2,"The coach decided to make a lineup change, the team's effort was suffering from what?","A) stagnant
+B) stagnation
+C) tradition
+D) hunger
+E) paper money",B,"Жаттықтырушы құрамды өзгерту туралы шешім қабылдады, команданың күш-жігері неден зардап шегіп отыр?","A) тоқырау
+B) тоқырау
+C) дәстүр
+D) аштық
+E) қағаз ақша",A,A,A
+1caf93d6a22dc8190e19c14bbe1fafda,What do you do when you're in a new place and want to see new things?,"A) interesting
+B) look around
+C) take pictures
+D) change of surroundings
+E) new experience",B,Сіз жаңа жерде болғанда және жаңа нәрселерді көргіңіз келгенде не істейсіз?,"A) қызықты
+B) айналаға қарау
+C) суретке түсіру
+D) қоршаған ортаны өзгерту
+E) жаңа тәжірибе",B,B,B
+a656e74a943f9e2698a25bbcfb4e96db,"James know that committing murder was wrong, but he thought that he could get away with it.  He was really troubled  and fearful because of what?","A) happiness
+B) problems
+C) prosecution
+D) distress
+E) misery",C,"Джеймс кісі өлтірудің қате екенін білді, бірақ ол жазасыз құтылып кетемін деп ойлады. Ол не үшін қатты мазасызданып, қорықты?","A) бақыт
+B) мәселелер
+C) қудалау
+D) күйзеліс
+E) қайғы-қасірет",C,C,C
+adf228312401c9ff421a4da1b46bb70a,Where could you find a bureau as well as many politicians?,"A) each city
+B) office building
+C) a zoo
+D) french government
+E) washington dc",E,Сіз бюроны және көптеген саясаткерлерді қайдан таба аласыз?,"A) әр қала
+B) кеңсе ғимараты
+C) хайуанаттар бағы
+D) француз үкіметі
+E) вашингтон дс",E,E,E
+c7327a1a7d12b6cc0740fc9446270e02,A weasel has a thin body and short legs to easier burrow after prey in a what?,"A) tree
+B) mulberry bush
+C) chicken coop
+D) viking ship
+E) rabbit warren",E,"Құндыздың денесі жіңішке және аяқтары қысқа, ол олжасын қайда оңай қазып алу үшін?","A) ағаш
+B) тұт бұтасы
+C) тауық қорасы
+D) викинг кемесі
+E) қоян індері",E,E,A
+7490aa460f66000555a8a94008179cbb,"The woman is watching television and trying to forget her day, what is her goal?","A) entertainment
+B) falling asleep
+C) getting fat
+D) crying
+E) relaxation",E,"Әйел теледидар көріп, күнін ұмытуға тырысып жатыр, оның мақсаты қандай?","A) ойын-сауық
+B) ұйықтап қалу
+C) семіру
+D) жылау
+E) демалу",E,E,E
+095c5bc5fbaf12b384e9f7df47fdec16,Where are you when you're about to use your plane ticket?,"A) pocket
+B) terrorists hands
+C) airport
+D) sea ship
+E) briefcase",C,Ұшақ билетін пайдаланғалы жатқанда қайда боласыз?,"A) қалта
+B) террористердің қолында
+C) әуежай
+D) теңіз кемесі
+E) портфель",C,C,C
+2a32b1e541b1daae04690d0d3a4b3310,"The pitcher felt stress and tension on the mound, what did he feel like?","A) desert
+B) baseball field
+C) hell
+D) baseball diamond
+E) baseball stadium",C,"Лақтырушы төбешікте күйзеліс пен кернеуді сезінді, ол өзін қалай сезінді?","A) шөл
+B) бейсбол алаңы
+C) тозақ
+D) бейсбол алқабы
+E) бейсбол стадионы",B,B,B
+29c2cc0ba85b4afb9c9d29801469a68f,"A potato is kept in the cellar, where is likely to be stored?","A) farmer's market
+B) grocery bag
+C) pantry
+D) bushel basket
+E) fridge",D,"Картоп жертөледе сақталады, ол қайда сақталуы мүмкін?","A) фермерлер базары
+B) азық-түлік сөмкесі
+C) қойма
+D) себет
+E) тоңазытқыш",C,C,C
+6f48ee564a48293eb501cc0d8197bdd9,Where would you display a picture on a horizontal surface?,"A) microwave
+B) desktop
+C) shelf
+D) art show
+E) wall",C,Суретті көлденең бетке қайда орналастырасыз?,"A) микротолқынды пеш
+B) үстел үсті
+C) сөре
+D) өнер көрмесі
+E) қабырға",B,B,B
+111501a49dd41ceed9c2073eed5d2b72,"I you believe in god, where will you go when you die?","A) heaven
+B) church
+C) imagination
+D) synagogue
+E) monastery",A,"Егер сіз құдайға сенсеңіз, өлгенде қайда барасыз?","A) жұмақ
+B) шіркеу
+C) қиял
+D) синагога
+E) монастырь",A,A,A
+a1303b5177df0a5b653c9abd7d5f5e08,Where would a person live if they wanted no neighbors?,"A) housing estate
+B) neighborhood
+C) mars
+D) woods
+E) suburbs",D,"Егер адам көршілері болмауын қаласа, қайда тұрар еді?","A) тұрғын үй кешені
+B) көршілік
+C) марс
+D) орман
+E) қала маңы",D,C,C
+4e87db4771f2d6423034935446e3fff1,"They dealt with combustible mixtures in their experiments, this is why they kept a fire extinguisher where?","A) hospital
+B) chemistry lab
+C) most businesses
+D) classroom
+E) public building",B,"Олар өз тәжірибелерінде жанғыш қоспалармен жұмыс істеді, сондықтан өрт сөндіргішті қайда ұстады?","A) аурухана
+B) химия зертханасы
+C) көптеген кәсіпорындар
+D) сынып
+E) қоғамдық ғимарат",B,B,B
+2c845646032bbf27fb3904330d59d324,Where can children play with animals?,"A) meadow
+B) play room
+C) surface of earth
+D) zoos
+E) fairgrounds",E,Балалар жануарлармен қай жерде ойнай алады?,"A) шабындық
+B) ойын бөлмесі
+C) жер беті
+D) хайуанаттар бағы
+E) жәрмеңке алаңы",D,D,D
+5e851c47682bdf79ec7c139ecf124c9a,"Joe's cat smelled something delicious and jumped into this, causing him to panic and fear for its life. Where might it have jumped?","A) meat loaf
+B) bedroom
+C) microwave
+D) living room
+E) floor",C,"Джоның мысығы дәмді нәрсені сезіп, оған секіріп кетті, бұл оны үрейлендіріп, өмірі үшін қорқытты. Ол қайда секірген болуы мүмкін?","A) ет наны
+B) жатын бөлме
+C) микротолқынды пеш
+D) қонақ бөлме
+E) еден",C,C,C
+ace8fa2943ba8414aebdb74b48906fae,"Tweed is a rare fabric in modern clothing, what brand should I look for when buying it?","A) scotland
+B) brown
+C) fabric store
+D) clothing stores
+E) eddie bauer",E,"Твид қазіргі заманғы киімде сирек кездесетін мата, оны сатып алғанда қандай брендті іздеуім керек?","A) шотландия
+B) қоңыр
+C) мата дүкені
+D) киім дүкендері
+E) эдди бауэр",E,E,D
+2c0030cc14a27be2401dcfdaa501f0fc,James found the sound relaxing.   It was so relaxing he almost did what despite his efforts?,"A) deep breathing
+B) worried
+C) fall asleep
+D) invigorating
+E) feeling good",C,"Джеймс дыбысты тыныштандыратын деп тапты. Ол соншалықты тыныштандыратын болды, сондықтан ол өзінің күш-жігеріне қарамастан нені жасай жаздады?","A) терең тыныс алу
+B) алаңдаушылық
+C) ұйықтап қалу
+D) сергіту
+E) өзін жақсы сезіну",C,C,C
+72b638200414a526b598de0e01a044df,What would use a musical instrument?,"A) guitar
+B) music room
+C) orchestra
+D) case
+E) movie",C,Музыкалық аспапты не қолданар еді?,"A) гитара
+B) музыка бөлмесі
+C) оркестр
+D) қап
+E) фильм",A,A,A
+b7276bb9139ec25c98c7e3822404eb6c,A creek is a body of water found in what low land?,"A) forest
+B) valley
+C) outdoors
+D) countryside
+E) woods",B,Бұлақ қандай төменгі жерлерде кездеседі?,"A) орман
+B) аңғар
+C) ашық ауада
+D) ауылдық жер
+E) тоғай",B,B,B
+af035b75b6f7a1927b1648963f281c5e,What furniture will you normally find near a side chair?,"A) bedroom
+B) table
+C) wheel barrow
+D) building
+E) office",B,Жанындағы орындықтың қасында қандай жиһазды әдетте табасыз?,"A) жатын бөлме
+B) үстел
+C) арба
+D) ғимарат
+E) кеңсе",B,B,B
+c306ab28498b67c53decb9dde1d78bd5,What mall store sells jeans for a decent price?,"A) clothing store
+B) bedroom
+C) thrift store
+D) apartment
+E) gap",E,Қандай сауда орталығы дүкені джинсыларды қолайлы бағамен сатады?,"A) киім дүкені
+B) жатын бөлме
+C) үнемдеу дүкені
+D) пәтер
+E) gap",C,A,C
+9e5ce2b7d9eb404cdf8c7317dd0b5a59,"If you are hungry and going fishing, why would you be going fishing?","A) to see the fish
+B) have fun
+C) catching fish
+D) wet clothes
+E) killing",C,"Егер сіз аш болсаңыз және балық аулауға барсаңыз, неге балық аулауға барасыз?","A) балықты көру үшін
+B) көңіл көтеру
+C) балық аулау
+D) киімдерді сулау
+E) өлтіру",C,C,C
+46241bc83e8d81196ae5783b2b9854a4,"The person saw the mess his children made, what was his following reaction?","A) smell smoke
+B) cross street
+C) cry
+D) bank savings
+E) look angry",E,"Адам балаларының жасаған былығын көргенде, оның келесі реакциясы қандай болды?","A) түтіннің иісін сезу
+B) көшеден өту
+C) жылау
+D) банк жинақтары
+E) ашулы көріну",E,E,E
+2ca05683157a3cd89d82016f13e560ec,Where can you find a place to eat in an urban area close to local nightlife?,"A) city
+B) downtown
+C) mall
+D) shopping center
+E) own house",B,Жергілікті түнгі өмірге жақын қалалық аймақта қай жерде тамақтануға орын табуға болады?,"A) қала
+B) орталық
+C) сауда орталығы
+D) сауда кешені
+E) өз үйі",B,B,B
+d2871dc28c82471e5d7f71f79e49c257,"Billy hated using other people's toilets. He was only comfortable on his own.  So whenever he needed to poop, he would go back to his what?","A) bathroom
+B) motel room
+C) nearest public restroom
+D) house
+E) apartment",D,"Билли басқа адамдардың дәретханаларын пайдалануды жек көретін. Ол тек өзінікін қолданғанда ғана жайлы болатын. Сондықтан оған дәретке бару керек болғанда, ол қайда қайтатын?","A) жуынатын бөлме
+B) мотель бөлмесі
+C) ең жақын қоғамдық дәретхана
+D) үй
+E) пәтер",D,D,D
+75cb55aec7e64f592c01eee5d4578dcd,"They kept doing things the same, she suggested they also try doing things what?","A) differently
+B) otherwise
+C) expensive
+D) only
+E) mere",A,"Олар бәрін бірдей істей берді, ол оларға істерді қалай істеуді де ұсынды?","A) басқаша
+B) өзгеше
+C) қымбат
+D) тек
+E) жай",A,A,B
+cce1b59f7c4f540a84a1a7d6d88548c4,What is the least likely immediate side effect of eating hamburger?,"A) nausea
+B) death
+C) illness
+D) health problems
+E) gain weight",B,Гамбургер жегеннен кейінгі ең аз ықтимал тікелей жанама әсері қандай?,"A) жүрек айну
+B) өлім
+C) ауру
+D) денсаулық мәселелері
+E) салмақ қосу",B,B,B
+21e312c7fd1a52341ce35b66457eab36,"The cat carefully navigated the area, they do everything they can to avoid what?","A) get wet
+B) eat vegetables
+C) falling
+D) wool sweater
+E) sharp claws",A,"Мысық аумақты мұқият аралап шықты, олар неден аулақ болу үшін бәрін жасайды?","A) су болу
+B) көкөністерді жеу
+C) құлау
+D) жүн жемпір
+E) өткір тырнақтар",A,A,A
+34ec6393db5a01f689c11fac153e31c1,"If I wanted to eat something that is made from plants and needs to be washed, what would it be?","A) roots
+B) millions of cells
+C) see work
+D) leaves to gather light
+E) flowers on",A,"Егер мен өсімдіктерден жасалған және жуу қажет нәрсені жегім келсе, ол не болар еді?","A) тамырлар
+B) миллиондаған жасушалар
+C) жұмысты көру
+D) жарық жинау үшін жапырақтар
+E) гүлдер қосулы",E,E,E
+d60c5a494539c66982c0f692afde9499,What would you use to find a place to stay?,"A) mexico
+B) phone book
+C) town
+D) city
+E) sun dial",B,Сіз тұратын орынды табу үшін нені қолданар едіңіз?,"A) мексика
+B) телефон анықтамалығы
+C) қала
+D) мегаполис
+E) күн сағаты",B,B,B
+1ab04c0501b815b2a48f2581f04215a8,"If a heifer is really high quality, you might take her where?","A) home
+B) dairy farm
+C) cattle show
+D) dairy barn
+E) corral",C,"Егер қашар шынымен жоғары сапалы болса, сіз оны қайда апарасыз?","A) үйге
+B) сүт фермасына
+C) мал көрмесіне
+D) сүт қорасына
+E) қоршауға",C,C,C
+bc08c354e5bead6863ea4a29cb8fa359,What kind of tale might feature a talking weasel?,"A) mulberry bush
+B) animated film
+C) chicken coop
+D) history book
+E) children's story",E,Сөйлейтін аққала қандай ертегіде болуы мүмкін?,"A) тұт ағашы
+B) анимациялық фильм
+C) тауық қорасы
+D) тарих кітабы
+E) балалар ертегісі",E,E,E
+2ed66cfd206723a006b37599b516ad6e,"He was on trial for obstructing justice, during which he made a questionable comment and was also found guilty of what?","A) prosecution
+B) getting hurt
+C) sweat
+D) steam
+E) committing perjury",E,"Ол әділеттілікке кедергі келтіргені үшін сотта болды, сол кезде ол күмәнді пікір айтты және тағы не үшін кінәлі деп танылды?","A) қудалау
+B) жарақат алу
+C) тер
+D) бу
+E) жалған куәлік беру",E,E,E
+43fb083962f825ae651d88648bbd2f74,Farm land makes use of what?,"A) countryside
+B) michigan
+C) north dakota
+D) farming areas
+E) illinois",D,Ферма жері нені пайдаланады?,"A) ауылдық жер
+B) мичиган
+C) солтүстік дакота
+D) егіншілік аймақтары
+E) иллинойс",D,D,D
+129ec46cc2541b73198d774ee632c8d7,What will happen to someone if his or her spirits cannot elevate?,"A) sadden
+B) demote
+C) depress
+D) drop
+E) decrease",C,"Егер біреудің рухы көтеріле алмаса, не болады?","A) қайғыру
+B) төмендету
+C) күйзелту
+D) құлату
+E) азайту",A,A,A
+f74b7f268d3c190a13f99ede6d2359e1,"The advertisement came in the form of a pop-up, where did it appear?","A) web page
+B) store
+C) la ville
+D) bus
+E) email",A,"Жарнама қалқымалы терезе түрінде келді, ол қай жерде пайда болды?","A) веб-бет
+B) дүкен
+C) қала
+D) автобус
+E) электрондық пошта",A,A,A
+60e92cd2f35c345872d1a898e1718d55,"George didn't have a car, but he still had his two feet.   His socks were smelly and his soles were blistered, but that didn't matter.  He could still do what?","A) michigan
+B) walk
+C) stay still
+D) stink
+E) hands",B,"Джорджтың көлігі болмады, бірақ оның екі аяғы бар еді. Оның шұлықтары сасық, табандары күлдіреуік болғанымен, бұл маңызды емес еді. Ол әлі де не істей алатын еді?","A) мичиган
+B) жүру
+C) қозғалмай тұру
+D) сасу
+E) қолдар",B,B,B
+2f8b35d352097cc9277599be49fab0b3,"I want to buy a gong, where should I look for one?","A) orchestra
+B) church
+C) chinese temple
+D) chinatown
+E) music store",E,"Мен гонг сатып алғым келеді, оны қайдан іздеуім керек?","A) оркестр
+B) шіркеу
+C) қытай ғибадатханасы
+D) қытай қалашығы
+E) музыка дүкені",E,E,E
+4706be6e24f1fafd9ff9fe63583acffd,"The computer was hooked up to the internet, what could it do as a result?","A) process information
+B) believe in god
+C) make decisions
+D) process information
+E) receive data",E,"Компьютер интернетке қосылған, нәтижесінде ол не істей алады?","A) ақпаратты өңдеу
+B) құдайға сену
+C) шешім қабылдау
+D) ақпаратты өңдеу
+E) деректерді қабылдау",E,E,E
+0f54a1ee30a0034a3d2db1bfdef9ca85,What is the opposite of an area of elevation?,"A) disgust
+B) reduction
+C) depression
+D) demotion
+E) diminishment",C,Биіктік аймағына қарама-қарсы не?,"A) жиіркеніш
+B) азаю
+C) ойпат
+D) төмендету
+E) кішірею",C,C,C
+a651ffa44ac5febf0aede6748899b981,Committing perjury is a serious what?,"A) indictment
+B) crime
+C) violence
+D) lie
+E) go to jail",B,Жалған куәлік беру қандай ауыр нәрсе?,"A) айыптау
+B) қылмыс
+C) зорлық-зомбылық
+D) өтірік
+E) түрмеге отыру",B,B,B
+57a343d72031b668e5eb91868420e915,Where would you get a shower curtain if you do not have one?,"A) department store
+B) restaurant
+C) hotel
+D) dime store
+E) bathtub",A,"Егер сізде душ пердесі болмаса, оны қайдан аласыз?","A) әмбебап дүкен
+B) мейрамхана
+C) қонақ үй
+D) арзан дүкен
+E) ванна",A,A,A
+e1403a7c581bc263aea2ed8d179826d1,Where would you keep an ottoman near your front door?,"A) living room
+B) parlor
+C) furniture store
+D) basement
+E) kitchen",A,Алдыңғы есіктің жанында оттоманды қайда қоясыз?,"A) қонақ бөлмесі
+B) қонақжай
+C) жиһаз дүкені
+D) жертөле
+E) ас үй",A,A,A
+14d760e43728e9e4643c414627f2b596,"The painter started to edge the room with tape, he always took extra care to make the lines clean and crisp when working with an what?","A) triangle
+B) middle
+C) corner
+D) center
+E) interior",E,"Суретші бөлмені таспамен жиектеуді бастады, ол әрқашан сызықтарды таза және айқын етуге ерекше назар аударды, не істегенде?","A) үшбұрыш
+B) орта
+C) бұрыш
+D) орталық
+E) интерьер",C,C,C
+4ab069f2e979d51f2c5929f590d09982,Where is a broadcast studio likely to be heard?,"A) microphone
+B) arena
+C) radio station
+D) trees
+E) town",C,Хабар тарату студиясы қай жерде естілуі мүмкін?,"A) микрофон
+B) арена
+C) радиостанция
+D) ағаштар
+E) қала",C,C,C
+7b95825a19d6930d6aed35c7c57a2d82,James couldn't get comfortable.  There was too much dirt.  He needed to clean out what?,"A) ground
+B) subway
+C) bank
+D) bed
+E) street",D,Джеймс өзін жайлы сезіне алмады. Топырақ тым көп болды. Ол нені тазалау керек еді?,"A) жер
+B) метро
+C) банк
+D) төсек
+E) көше",B,A,A
+236691d38665d7bcdd0c9b9834252a51,Where do most people turn to get information on their phones?,"A) internet
+B) book
+C) online
+D) google
+E) manual",D,Көптеген адамдар телефондарынан ақпарат алу үшін қайда жүгінеді?,"A) интернет
+B) кітап
+C) онлайн
+D) google
+E) нұсқаулық",A,A,A
+d81f5c49bc060dc799681bf4cacac73a,What would a person do if they do not have any friends?,"A) talk to people
+B) try again
+C) fall asleep
+D) stand alone
+E) thank god",D,"Адамның достары болмаса, ол не істер еді?","A) адамдармен сөйлесу
+B) қайтадан тырысу
+C) ұйықтап қалу
+D) жалғыз тұру
+E) құдайға алғыс айту",B,D,A
+ee46995407eb6357bb5410d49d378629,A traveler laments the fact that mass transit is limited in his city when his groceries get soaked by the rain as he waits where?,"A) bus stop
+B) library
+C) motel
+D) airport
+E) subway",A,"Жолаушы азық-түліктері жаңбырдан су болған кезде, оның қаласында қоғамдық көліктің шектеулі екеніне өкініш білдіреді, ол қай жерде күтіп тұрғанда?","A) автобус аялдамасы
+B) кітапхана
+C) мотель
+D) әуежай
+E) метро",A,A,A
+93b52e7ea1acf10db891e9355e234123,While knitting you can do what using a radio?,"A) listen to music
+B) watch television
+C) making blankets
+D) eat
+E) watching tv",A,Тоқу кезінде радио арқылы не істеуге болады?,"A) музыка тыңдау
+B) теледидар көру
+C) көрпелер жасау
+D) тамақтану
+E) теледидар қарау",A,A,A
+32e2adee67aace0a98c830fb39463015,Nature creates more beautiful structures than those that are what?,"A) artificial
+B) indoors
+C) city
+D) man made
+E) eat cake",D,Табиғат қандай құрылымдарға қарағанда әдемі құрылымдар жасайды?,"A) жасанды
+B) үй ішінде
+C) қала
+D) адам жасаған
+E) торт жеу",A,D,D
+514310637fb43a252bfadc8cbf79b277,"The man in the white suit was very lazy.  He did nothing useful.  Meanwhile, the ban in the blue had put in effort and was very what?","A) restless
+B) active
+C) lazybutt
+D) productive
+E) hard work",D,"Ақ костюмдегі адам өте жалқау болды. Ол ештеңе пайдалы істемеді. Сонымен қатар, көк костюмдегі адам күш салды және өте қандай болды?","A) тынымсыз
+B) белсенді
+C) жалқау
+D) өнімді
+E) еңбекқор",E,E,E
+0cba8ddda21e29c8c53482e131d741cd,"James and Holly went dancing together. As they danced, he  pressed himself against her what?","A) euphoria
+B) moving body
+C) rhythmic movement
+D) happiness
+E) fatigue",B,"Джеймс пен Холли бірге билеуге барды. Олар билегенде, ол өзін оған неге қарсы басты?","A) эйфория
+B) қозғалмалы дене
+C) ырғақты қозғалыс
+D) бақыт
+E) шаршау",C,C,C
+5ea6b94d1a911365b06cf776919413e8,What does 	drinking alcohol lead to?,"A) have fun
+B) intoxication
+C) vomiting
+D) drinking more alcohol
+E) nausea",B,Алкоголь ішу неге әкеледі?,"A) көңіл көтеру
+B) мас болу
+C) құсу
+D) көбірек алкоголь ішу
+E) жүрек айну",B,B,B
+8233ccb60dd0c0ff3b7ca5d73e5681f2,Why might a person be known as a liar?,"A) have no home
+B) false information
+C) hungry
+D) made fun of
+E) brain tumor",B,Неліктен адам өтірікші ретінде танымал болуы мүмкін?,"A) үйі жоқ
+B) жалған ақпарат
+C) аш
+D) мазақ ету
+E) ми ісігі",B,B,B
+dec1c42628a7448aa364cdada6e82f98,"The janitor never had much to clean after services, but there was still always a paper or two to pick up where?","A) synagogue
+B) front porch
+C) classroom
+D) obesity
+E) grocery store",A,"Қызметтерден кейін тазалаушының тазалайтын көп нәрсесі болмады, бірақ қай жерде бір-екі қағазды жинау керек болды?","A) синагога
+B) алдыңғы кіреберіс
+C) сынып
+D) семіздік
+E) азық-түлік дүкені",A,A,A
+2a58e81a9c4ce095d099e0d785fc2da4,"Sometimes a person has a fear of water or a dislike of being wet, it is still important to make sure they are having a bath why?","A) flooding
+B) drowning
+C) wet skin
+D) get wet
+E) rash",E,"Кейде адам судан қорқуы немесе су болғанды ұнатпауы мүмкін, бірақ оларды жуындыру маңызды, неге?","A) су тасқыны
+B) суға бату
+C) ылғалды тері
+D) су болу
+E) бөртпе",E,E,E
+68c41ec8415eab50620eb9ecf6f35a6a,Where would you put some ham if you want to cook it?,"A) hamshackle
+B) pizza
+C) fridge
+D) refrigerator
+E) part of meal",B,"Егер сіз ветчинаны пісіргіңіз келсе, оны қайда қоясыз?","A) ветчина
+B) пицца
+C) тоңазытқыш
+D) мұздатқыш
+E) тағамның бөлігі",C,C,C
+37d88a9bb24913c1973cc26d4ce3394f,"The performer was ready to put on a show and stepped onto the launch platform, what was his job?","A) cape canaveral florida
+B) nasa
+C) battleship
+D) ocean
+E) trapeze",E,"Орындаушы шоу көрсетуге дайындалып, ұшыру алаңына шықты, оның жұмысы қандай болды?","A) Кейп Канаверал, Флорида
+B) НАСА
+C) әскери кеме
+D) мұхит
+E) трапеция",E,E,E
+e99d4cb2e69d3e020ee9e4e9a84ac45b,"I was apprehensive to buy the expensive equipment to play a game with so much walking and swinging around in grass, but now I understand why people what?","A) care less
+B) play golf
+C) shake hands
+D) believe in god
+E) trip over",B,"Шөпте көп жүру және айналу ойынын ойнау үшін қымбат жабдықты сатып алуға қорықтым, бірақ қазір адамдардың неге екенін түсінемін?","A) аз қамқорлық жасайды
+B) гольф ойнайды
+C) қол алысу
+D) құдайға сену
+E) сүріну",B,B,B
+87a133afae5d9d29d634f3384f28ef24,From where would you normally take a cup when you're about to get a drink?,"A) dishwasher
+B) water fountain
+C) sand box
+D) toilet
+E) kitchen cabinet",E,"Сіз сусын алғалы жатқанда, әдетте шыныаяқты қайдан аласыз?","A) ыдыс жуғыш машина
+B) су бұрқағы
+C) құм жәшігі
+D) дәретхана
+E) ас үй шкафы",E,E,E
+2d33cde5e3987adc8fa2bca0af4dd3dd,Where is a human likely to go as a result of being hungry?,"A) eat in restaurant
+B) make bread
+C) have lunch
+D) cook dinner
+E) friends house",A,Адам аш болғандықтан қайда баруы мүмкін?,"A) мейрамханада тамақтану
+B) нан жасау
+C) түскі ас ішу
+D) кешкі ас дайындау
+E) достың үйі",A,A,A
+9b631734e72a0e559da153492c1e7894,"The juror was quite bored and zoning out but wanted to convey he was hearing testimony, so he just sat there doing what?","A) take notes
+B) nodding
+C) change of heart
+D) writing down
+E) listening",B,"Алқаби қатты жалығып, ойы бөлініп кетті, бірақ ол куәгерлік тыңдап отырғанын білдіргісі келді, сондықтан ол жай ғана не істеп отырды?","A) жазбалар жасау
+B) басын изеу
+C) ойын өзгерту
+D) жазу
+E) тыңдау",B,B,B
+6974d215428a974641c1df18678522f5,What would a person need to do if his or her captain dies at sea?,"A) cross street
+B) have a party
+C) experience life
+D) cross road
+E) man crew",E,"Егер капитан теңізде қайтыс болса, адам не істеуі керек?","A) көшеден өту
+B) кеш өткізу
+C) өмірді сезіну
+D) жолдан өту
+E) экипажды басқару",E,E,E
+0af371b94fb414860b13eea6009ccc31,What is the sun ultimately responsible for?,"A) earth warming
+B) sun tan
+C) light
+D) life on earth
+E) heat",D,Күн ақырында не үшін жауапты?,"A) жердің жылынуы
+B) күнге күю
+C) жарық
+D) жердегі өмір
+E) жылу",D,D,D
+f61d83f90b92a8d537989e55ee70542d,"The buildings were intended to not have residential kitchens in them, what were they designed for?","A) large city
+B) small
+C) eat cake
+D) university
+E) town",D,"Ғимараттарда тұрғын үй асүйлері болмауы керек еді, олар не үшін жобаланған?","A) үлкен қала
+B) кіші
+C) торт жеу
+D) университет
+E) қала",E,E,D
+246249cd7976358051a9811ff9c30736,How would you express information if you do not have a pen or pencil?,"A) may disagree
+B) close mouth
+C) write down
+D) talk
+E) eyes",D,"Егер сізде қалам немесе қарындаш болмаса, ақпаратты қалай жеткізер едіңіз?","A) келіспеуі мүмкін
+B) ауызды жабу
+C) жазып алу
+D) сөйлеу
+E) көздер",D,D,D
+879239b8a788f3c9e3dfdd0862f3d7c5,"There was more than one bum asking for change or a ticket, it was the cheapest way to travel so it was no surprise sight at the what?","A) train station
+B) beach
+C) bus depot
+D) bridge
+E) stumblebum",C,"Өзгеріс немесе билет сұраған бірден көп қаңғыбас болды, бұл ең арзан жол жүру тәсілі болғандықтан, қай жерде көрініс таңқаларлық емес еді?","A) теміржол вокзалы
+B) жағажай
+C) автобус депосы
+D) көпір
+E) қаңғыбас",A,C,A
+d35a8a3bd560fdd651ecf314878ed30f,What would you put meat on top of to cook it?,"A) oil
+B) freezer
+C) ham sandwich
+D) oven
+E) frying pan",E,Етті пісіру үшін оның үстіне не қояр едіңіз?,"A) май
+B) мұздатқыш
+C) ветчина сэндвичі
+D) пеш
+E) қуыру табасы",A,A,D
+0a006d16d9042e0c170935e5fbf7f9af,James was below the balloon.  He watched it rise.  What direction did he look in?,"A) upstairs
+B) aloft
+C) diagonal
+D) upstream
+E) upwards",E,Джеймс шардың астында болды. Ол оның көтерілуін бақылады. Ол қай бағытқа қарады?,"A) жоғары
+B) жоғарыға
+C) қиғаш
+D) жоғары ағысқа
+E) жоғарыға қарай",E,E,B
+3f3ba1d9a3bfe63df11247a968eaddce,If i were to spit a lot without noticing i may have extra what?,"A) phlegm
+B) saliva nd mouth
+C) disease
+D) germs
+E) spittle",B,"Егер мен байқамай көп түкірсем, менде артық не болуы мүмкін?","A) қақырық
+B) сілекей және ауыз
+C) ауру
+D) микробтар
+E) түкірік",E,E,E
+793672da43fbc609e8c5760630c7e239,What is the habitat of the fox?,"A) hen house
+B) burrow
+C) california
+D) england
+E) mountains",E,Түлкінің мекендейтін жері қайда?,"A) тауық қорасы
+B) ін
+C) Калифорния
+D) Англия
+E) таулар",B,B,B
+083861fc5ebb9226fff70544f3f83d2b,"The man got a pail to catch the draining motor oil, where was he likely doing this at home?","A) garage
+B) hardware store
+C) utility room
+D) wishing well
+E) laundry",A,"Ер адам ағатын мотор майын ұстау үшін шелек алды, ол мұны үйде қай жерде жасауы мүмкін?","A) гараж
+B) құрылыс дүкені
+C) шаруашылық бөлмесі
+D) құдық
+E) кір жуатын бөлме",A,A,A
+926298bbdd03ce96acfeb4408b888b61,What is performing a type of?,"A) singing
+B) act
+C) feat
+D) smile
+E) acting",B,Орындау қандай түрге жатады?,"A) ән айту
+B) әрекет
+C) ерлік
+D) күлімдеу
+E) актерлік өнер",B,B,B
+f116ee6620c0f171e5db54bc03a5f2e2,What might a kind person do?,"A) cross street
+B) talk to themselves
+C) open doors
+D) throw away
+E) study greek",C,Мейірімді адам не істей алады?,"A) көшеден өту
+B) өзімен сөйлесу
+C) есіктерді ашу
+D) лақтыру
+E) грек тілін оқу",C,C,C
+cab9eea2a91b1bd5c0a01b11f594f154,Where are you likely to find a Japanese restaurant not run by people from Japan?,"A) california
+B) downtown
+C) large town
+D) tokio
+E) china town",A,Жапониядан шыққан адамдар басқармайтын жапон мейрамханасын қайдан табуға болады?,"A) калифорния
+B) қала орталығы
+C) үлкен қала
+D) токио
+E) қытай қалашығы",C,A,E
+4dc2c4596b08e9bfd893174e67bff40a,"The lady would eat and eat, and because of mental issues would then make herself what?","A) wash dishes
+B) throwing up
+C) drinking
+D) throw up
+E) turn inside out",D,"Әйел тамақ жеп, жеп, содан кейін психикалық мәселелерге байланысты өзін не істеуге мәжбүрлейтін еді?","A) ыдыс жуу
+B) құсу
+C) ішу
+D) құсу
+E) ішін сыртқа айналдыру",B,B,B
